@@ -16,12 +16,12 @@ title: Soutien scolaire à Casablanca
       <h2 class="mb-4">
         <strong>Numéro 1 de l'accompagnement scolaire à Casablanca</strong>
       </h2>
-      <a href="#main" class="btn btn-outline-white btn-lg waves-effect waves-light">
+      <a href="#main" class="btn btn-outline-white btn-lg waves-effect waves-light smooth">
         Consultez nos services
       </a>
     </div>
 
-    <a href="#main" class="scroll-down my-3"></a>
+    <a href="#main" class="scroll-down my-3 smooth"></a>
 
   </div>
 
@@ -139,8 +139,9 @@ title: Soutien scolaire à Casablanca
     </div>
   </section>
 
-  <section class="pt-5 pb-5 blue-grey lighten-5">
-    <div class="container text-center" data-aos="fade-up">
+  <!-- <section class="pt-5 pb-5 blue-grey lighten-5"> -->
+  <section class="pt-5 pb-5">
+    <div class="container text-center my-2" data-aos="fade-up">
       <!-- <h1>LE <strong>PROCESSUS</strong></h1> -->
       <!-- <hr width="200px" class="mb-5"> -->
       <div class="row">
@@ -184,12 +185,11 @@ title: Soutien scolaire à Casablanca
     </div>
   </section>
 
-  <section class="blue-grey lighten-5 text-center pt-5 pb-4" style="background-image: linear-gradient(-225deg, rgba(0,101,168,0.7) 0%, rgba(0,36,61,0.7) 50%), url('assets/images/photo-1498079022511-d15614cb1c02.jpg'); background-size: cover; background-position: center;">
-    <div class="container text-white" data-aos="zoom-in">
+  <section class="reviews blue-grey lighten-5 text-center pt-5 pb-4" style="background-image: linear-gradient(-225deg, rgba(0,101,168,0.6), rgba(0,0,0,0.8), rgba(0,101,168,0.6)), url('assets/images/photo-1498079022511-d15614cb1c02.jpg');">
+    <div class="text-white" data-aos="zoom-in">
       <h2 class="mb-4">DES PARENTS ET DES ELEVES <strong>SATISFAITS</strong></h2>
-
       <!--Carousel Wrapper-->
-      <div id="carousel-testimonies" class="container carousel slide carousel-fade" data-ride="carousel">
+      <div id="carousel-testimonies" class="carousel slide carousel-fade" data-ride="carousel">
         <!--Indicators-->
         <ol class="carousel-indicators">
           <li data-target="#carousel-testimonies" data-slide-to="0" class="active"></li>
@@ -200,18 +200,27 @@ title: Soutien scolaire à Casablanca
         <div class="carousel-inner pb-5" role="listbox">
           <div class="carousel-item active">
             <p class="testimonial">
-              <em>"BOOKMANIA est une expérience innovante en matière de soutien et d'accompagnement scolaire et un confort pour les parents. Le coaching et la pédagogie sont adaptés selon le profil de l’élève. Notre fils est en terminale S cette année. Nous sommes très contents du progrès et des résultats. Le nombre d'élèves par cours est très raisonnable, on y travaille les fondamentaux et la méthodologie ! Sincères remerciements à toute l’équipe de BOOKMANIA !"</em>
+              <em>"BOOKMANIA est une expérience innovante en matière de soutien et d'accompagnement scolaire et un confort pour les parents. Le coaching et la pédagogie sont adaptés selon le profil de l’élève. Notre fils est en terminale S cette année. Nous sommes très contents du progrès et des résultats. Le nombre d'élèves par cours est très raisonnable..."<!-- , on y travaille les fondamentaux et la méthodologie ! Sincères remerciements à toute l’équipe de BOOKMANIA !" -->
+              </em>
             </p>
             <p><strong>N. Oudghiri</strong></p>
           </div>
           <div class="carousel-item">
             <p class="testimonial">
-              <em>"Grâce à BOOKMANIA ma petite protégée a été sauvée d'un redoublement certain. Elle avait perdu toutes ses notions de langue française. Puis grâce au bilan et au suivi personnalisé durant l'été la petite a non seulement repris confiance en elle mais elle a aussi repris les bases et réussi ses examens d'entrée dans une école privée. Merci à toute l'équipe BOOKMANIA !"</em>
+              <em>"Grâce à BOOKMANIA ma petite protégée a été sauvée d'un redoublement certain. Elle avait perdu toutes ses notions de langue française. Puis grâce au bilan et au suivi personnalisé durant l'été la petite a non seulement repris confiance en elle mais elle a aussi repris les bases et réussi ses examens d'entrée dans une école privée. Merci à toute l'équipe..."<!-- BOOKMANIA ! --></em>
             </p>
             <p><strong>S. Diouri</strong></p>
           </div>
         </div>
       </div>
+      <a class="carousel-control-prev" href="#carousel-testimonies" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carousel-testimonies" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
     </div>
   </section>
 

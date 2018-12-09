@@ -1,4 +1,6 @@
 .navbar {
+  // box-shadow: 0 2px 10px 0 rgba(0,0,0,.16), 0 2px 20px 0 rgba(0,0,0,.12);
+  box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);
   background-color: rgba(255,255,255, 1);
   .menu:hover {
     background-color: #eeeeee;
@@ -22,9 +24,11 @@
 
 .card {
   max-width: 370px;
-  transition: all .5s;
+  // box-shadow: 0 2px 10px 0 rgba(0,0,0,.16), 0 2px 20px 0 rgba(0,0,0,.12);
+  box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);
+  transition: all .5s !important;
   &:hover {
-    box-shadow: 0 4px 10px 0 rgba(0,0,0,.32), 0 2px 10px 0 rgba(0,0,0,.24)
+    box-shadow: 0 2px 20px 0 rgba(0,0,0,.24), 0 2px 40px 0 rgba(0,0,0,.18);
   }
 }
 
@@ -33,18 +37,24 @@
   margin: auto;
   border-radius: 1px;
   background-color: rgba(0,0,0,0);
-  transition: all .5s;
+  transition: all .6s;
   &:hover {
     background-color: rgba(128,128,128,.1);
   }
 }
 
-// ul.stepper {
-//   padding: 1rem !important;
-// }
-
-.testimonial {
-  min-height: 97px;
+.reviews {
+  background-size: cover;
+  background-position: center;
+  box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);
+  .testimonial {
+    max-width: 70%;
+    margin: 0 auto 1rem auto;
+    min-height: 97px;
+    em {
+      font-weight: 100;
+    }
+  }
 }
 
 .carousel-caption {
@@ -60,6 +70,12 @@
     font-weight: 200;
   }
 }
+
+.map-container {
+  // box-shadow: 0 5px 22px 0 rgba(0,0,0,.18),0 4px 30px 0 rgba(0,0,0,.15)!important;
+  box-shadow: 0 6px 20px 0 rgba(0,0,0,.19) !important;
+}
+
 
 @media (min-width: 768px) {
   .offers {
@@ -150,7 +166,7 @@ button.back-to-top {
     height: 50px;
     width: 50px;
     visibility: visible;
-    box-shadow: 0px 2px 4px 1px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 2px 8px 1px rgba(0, 0, 0, 0.25);
     &:active {
       box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 0.25);
     }
