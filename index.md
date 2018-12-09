@@ -41,7 +41,7 @@ title: Soutien scolaire à Casablanca
           <!-- Card image -->
           <div class="view view-cascade overlay">
             <img class="card-img-top" src="assets/images/photo-1523240795612-9a054b0db644.jpg" alt="Card image cap">
-            <a href="/">
+            <a href="#">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>
           </div>
@@ -69,7 +69,7 @@ title: Soutien scolaire à Casablanca
           <!-- Card image -->
           <div class="view view-cascade overlay">
             <img class="card-img-top" src="assets/images/photo-1492538368677-f6e0afe31dcc.jpg" alt="Card image cap">
-            <a href="/">
+            <a href="#">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>
           </div>
@@ -96,7 +96,7 @@ title: Soutien scolaire à Casablanca
           <!-- Card image -->
           <div class="view view-cascade overlay">
             <img class="card-img-top" src="assets/images/photo-1529154631088-a0e516571c60.jpg" alt="Card image cap">
-            <a href="/">
+            <a href="#">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>
           </div>
@@ -133,7 +133,7 @@ title: Soutien scolaire à Casablanca
         <span>Mettons en place la formule qui vous conviendra !</span>
       </div>
       <br>
-      <a href="/" class="btn btn-white waves-effect waves-light" data-aos="fade-left">
+      <a href="#" class="btn btn-white waves-effect waves-light" data-aos="fade-left">
         <strong>Découvrez nos offres</strong>
       </a>
     </div>
@@ -145,7 +145,7 @@ title: Soutien scolaire à Casablanca
       <!-- <hr width="200px" class="mb-5"> -->
       <div class="row">
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="/" style="color: #4688F1;">
+          <a href="#" style="color: #4688F1;">
             <div class="processus pt-2">
               <i class="fas fa-th fa-4x mb-4"></i>
               <p class="text-muted">Consultez nos services</p>
@@ -153,7 +153,7 @@ title: Soutien scolaire à Casablanca
           </a>
         </div>
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="/" style="color: #E62465;">
+          <a href="#" style="color: #E62465;">
             <div class="processus pt-2">
               <i class="fas fa-desktop fa-4x mb-4"></i>
               <p class="text-muted">Faites une demande</p>
@@ -161,7 +161,7 @@ title: Soutien scolaire à Casablanca
           </a>
         </div>
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="/" style="color: #00ab6c;">
+          <a href="#" style="color: #00ab6c;">
             <div class="processus pt-2">
               <i class="fas fa-phone fa-4x mb-4"></i>
               <p class="text-muted">Recevez notre appel (24h)</p>
@@ -169,7 +169,7 @@ title: Soutien scolaire à Casablanca
           </a>
         </div>
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="/" style="color: #4054B2;">
+          <a href="#" style="color: #4054B2;">
             <div class="processus pt-2">
               <i class="far fa-calendar fa-4x mb-4"></i>
               <p class="text-muted">Obtenez votre séance</p>
@@ -178,7 +178,7 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
       <!-- Button -->
-      <a href="/" class="btn btn-outline-primary waves-effect waves-light">
+      <a href="#" class="btn btn-outline-primary waves-effect waves-light">
         <strong>Obtenez votre devis</strong>
       </a>
     </div>
