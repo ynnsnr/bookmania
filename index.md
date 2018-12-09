@@ -184,7 +184,7 @@ title: Soutien scolaire à Casablanca
     </div>
   </section>
 
-  <section class="blue-grey lighten-5 text-center pt-5 pb-4" style="background-image: linear-gradient(-225deg, rgba(0,101,168,0.7) 0%, rgba(0,36,61,0.7) 50%), url('https://images.unsplash.com/photo-1498079022511-d15614cb1c02'); background-size: cover; background-position: center;">
+  <section class="blue-grey lighten-5 text-center pt-5 pb-4" style="background-image: linear-gradient(-225deg, rgba(0,101,168,0.7) 0%, rgba(0,36,61,0.7) 50%), url('assets/images/photo-1498079022511-d15614cb1c02.jpg'); background-size: cover; background-position: center;">
     <div class="container text-white" data-aos="zoom-in">
       <h2 class="mb-4">DES PARENTS ET DES ELEVES <strong>SATISFAITS</strong></h2>
 
