@@ -1,9 +1,15 @@
+@import "index";
+@import "nosoffres";
+// @import "soutien-scolaire";
+// @import "tests-et-concours";
+// @import "orientation-scolaire";
+// @import "centre-langues";
+
 .navbar {
-  // box-shadow: 0 2px 10px 0 rgba(0,0,0,.16), 0 2px 20px 0 rgba(0,0,0,.12);
   box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);
   background-color: rgba(255,255,255, 1);
   .menu:hover {
-    background-color: #eeeeee;
+    background-color: #EEEEEE;
   }
   i {
     color: rgba(0,0,0, .9);
@@ -11,90 +17,6 @@
     &:hover {
       color: #4285F4 !important;
     }
-  }
-}
-
-.view, body, html {
-  height: 100%;
-  #content {
-    background-attachment: fixed;
-    background-size: cover;
-  }
-}
-
-.card {
-  max-width: 370px;
-  // box-shadow: 0 2px 10px 0 rgba(0,0,0,.16), 0 2px 20px 0 rgba(0,0,0,.12);
-  box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);
-  transition: all .5s !important;
-  &:hover {
-    box-shadow: 0 2px 20px 0 rgba(0,0,0,.24), 0 2px 40px 0 rgba(0,0,0,.18);
-  }
-}
-
-.processus {
-  max-width: 72%;
-  margin: auto;
-  border-radius: 1px;
-  background-color: rgba(0,0,0,0);
-  transition: all .6s;
-  &:hover {
-    background-color: rgba(128,128,128,.1);
-  }
-}
-
-.reviews {
-  background-size: cover;
-  background-position: center;
-  box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);
-  .testimonial {
-    max-width: 70%;
-    margin: 0 auto 1rem auto;
-    min-height: 97px;
-    em {
-      font-weight: 100;
-    }
-  }
-}
-
-.carousel-caption {
-  color: black !important;
-  p {
-    color: gray;
-  }
-}
-
-.offers {
-  color: white;
-  span {
-    font-weight: 200;
-  }
-}
-
-.map-container {
-  // box-shadow: 0 5px 22px 0 rgba(0,0,0,.18),0 4px 30px 0 rgba(0,0,0,.15)!important;
-  box-shadow: 0 6px 20px 0 rgba(0,0,0,.19) !important;
-}
-
-
-@media (min-width: 768px) {
-  .offers {
-    display: flex;
-    justify-content: space-between;
-  }
-}
-
-@media (max-width: 768px) {
-  .offers {
-    text-align: center;
-  }
-}
-
-.map-container {
-  height: 48vh;
-  iframe {
-    height: 100%;
-    width: 100%;
   }
 }
 
@@ -119,25 +41,6 @@
       color: #4285F4 !important;
     }
   }
-}
-
-// animated scroll arrow animation
-@keyframes fade_move_down {
-  0%   { transform:translate(0,-10px) rotate(45deg); opacity: 0;  }
-  50%  { opacity: 1;  }
-  100% { transform:translate(0,10px) rotate(45deg); opacity: 0; }
-}
-
-.scroll-down {
-  position: absolute;
-  left: 50%;
-  bottom: 10px;
-  width: 13px;
-  height: 13px;
-  border-bottom: 2px solid #fff;
-  border-right: 2px solid #fff;
-  transform: translate(-50%, 0%) rotate(45deg);
-  animation: fade_move_down 3s ease-in-out infinite;
 }
 
 button.back-to-top {
@@ -172,4 +75,3 @@ button.back-to-top {
     }
   }
 }
-
