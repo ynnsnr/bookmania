@@ -23,6 +23,7 @@
     font-size: 20px;
     max-width: 84%;
     .todo {
+      z-index: 0;
       display: block;
       position: relative;
       padding: 0 1em 0 16%;
@@ -44,14 +45,22 @@
 }
 
 #formulas {
-  h5 {
-    height: 33%;
-  }
   p {
-    height: 33%;
     font-size: 14px;
   }
-  a {
-    height: 33%;
+  .card-formula {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h5 {
+      min-height: 48px;
+    }
+    p {
+      flex: 1;
+    }
+    a {
+      align-content: flex-end;
+      max-width: 209px;
+    }
   }
 }
