@@ -45,22 +45,61 @@
 }
 
 #formulas {
-  p {
-    font-size: 14px;
-  }
-  .card-formula {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  .card-body {
+    padding: 0;
     h5 {
       min-height: 48px;
+      transition: min-height 0.5s;
     }
     p {
-      flex: 1;
+      font-size: 14px;
     }
-    a {
-      align-content: flex-end;
+    .btn {
       max-width: 209px;
+      margin: 1.25rem;
     }
+  }
+  .card__thumb {
+    height: 200px;
+    overflow: hidden;
+    background-color: #000;
+    transition: height 0.5s;
+    img {
+      width: 100%;
+      opacity: 1;
+      transform: scale(1.33);
+      transition: opacity 0.5s, transform 0.5s;
+    }
+  }
+  .card:hover .card__thumb {
+    height: 0px;
+    img {
+      opacity: 0.6;
+      transform: scale(1.2);
+    }
+  }
+  .card__body {
+    height: 200px;
+    padding: 16px;
+    transition: height 0.5s;
+  }
+  .card:hover .card__body {
+    height: 400px;
+    h5 {
+      min-height: 0px;
+      transition: min-height 0.5s;
+    }
+  }
+  .card__description {
+    color: #666C74;
+    opacity: 0;
+    transform: translateY(45px);
+    transition: opacity 0.3s, transform 0.3s;
+    transition-delay: 0s;
+  }
+  .card:hover .card__description {
+    opacity: 1;
+    transform: translateY(0px);
+    transition-delay: 0.2s;
   }
 }

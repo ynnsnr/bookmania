@@ -24,8 +24,8 @@ title: Soutien scolaire à Casablanca
         </p>
       </div>
       <div class="col-12 col-lg-5" data-aos="fade-left" data-aos-duration="1000">
-        <div class="description-image" style="background-image: url('https://images.unsplash.com/photo-1516979187457-637abb4f9353');">
-        </div>
+        <!-- <div class="description-image" style="background-image: url('https://images.unsplash.com/photo-1516979187457-637abb4f9353');">
+        </div> -->
       </div>
     </div>
   </section>
@@ -156,16 +156,23 @@ title: Soutien scolaire à Casablanca
 
     <div class="row text-center">
 
-      <div id="formula1" class="col-md-6 col-lg-4 d-flex mb-5" data-aos="fade-up">
+      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
-          <img class="card-img-top" src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png">
-          <div class="card-body card-body-cascade card-formula">
-            <h5>
-              <strong>Aide aux devoirs</strong>
-            </h5>
-            <p class="card-text">
-              L’aide aux devoirs est dédiée aux enfants du <strong>primaire et collège</strong> pour leur apporter les bons <strong>réflexes de travail et de méthodologie.</strong>
-            </p>
+          <header class="card__thumb">
+            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+          </header>
+          <div class="card-body">
+            <div class="card__body">
+              <h5>
+                <strong>Aide aux devoirs</strong>
+              </h5>
+              <p>
+                L’aide aux devoirs est dédiée aux enfants du <strong>primaire et collège</strong> pour leur apporter les bons <strong>réflexes de travail et de méthodologie.</strong>
+              </p>
+              <p class="card__description">
+                Nous recevons votre enfant 3 à 4 fois par semaine au centre pendant une heure et demi, où il sera suivi par une équipe de professeurs pluridisciplinaire.
+              </p>
+            </div>
             <a class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
@@ -173,18 +180,25 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div id="formula2" class="col-md-6 col-lg-4 d-flex mb-5" data-aos="fade-up">
+      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
-          <img class="card-img-top" src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png">
-          <div class="card-body card-body-cascade card-formula">
-            <h5>
-              <strong>Cours hebdomadaires en petits groupes</strong>
-            </h5>
-            <p class="card-text">
-              Soutien scolaire hebdomadaire dans <strong>une ou plusieurs matières.</strong>
-              <br>
-              Une ou plusieurs séances de cours par semaine en <strong>planning fixe.</strong>
-            </p>
+          <header class="card__thumb">
+            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+          </header>
+          <div class="card-body">
+            <div class="card__body">
+              <h5>
+                <strong>Cours hebdomadaires en petits groupes</strong>
+              </h5>
+              <p>
+                - Soutien scolaire hebdomadaire dans <strong>une ou plusieurs matières.</strong>
+                <br>
+                - Une ou plusieurs séances de cours par semaine en <strong>planning fixe.</strong>
+              </p>
+              <p class="card__description">
+                Chez Bookmania, nos élèves travaillent en petits effectifs pour garantir une <strong>attention complète de notre équipe pédagogique.</strong> Cela nous permet de déceler rapidement les points de difficultés de l’élève pour s’assurer qu’il puisse continuer à avancer au rythme imposé par son école.
+              </p>
+            </div>
             <a class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
@@ -192,16 +206,23 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div id="formula3" class="col-md-6 col-lg-4 d-flex mb-5" data-aos="fade-up">
+      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
-          <img class="card-img-top" src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png">
-          <div class="card-body card-body-cascade card-formula">
-            <h5>
-               <strong>Cours particuliers</strong>
-            </h5>
-            <p class="card-text">
-              Notre objectif est de faire intervenir <strong>un enseignant correspondant au profil de votre enfant</strong> et de proposer une <strong>fréquence de cours adaptée à son besoin.</strong>
-            </p>
+          <header class="card__thumb">
+            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+          </header>
+          <div class="card-body">
+            <div class="card__body">
+              <h5>
+                 <strong>Cours particuliers</strong>
+              </h5>
+              <p>
+                Certains élèves souhaitent un accompagnement en cours particulier. Notre objectif est de faire intervenir <strong>un enseignant correspondant au profil de votre enfant</strong> et de proposer une <strong>fréquence de cours adaptée à son besoin.</strong>
+              </p>
+              <p class="card__description">
+                Au-delà du contenu du cours, le professeur s’attache à la manière d’accompagner l’élève, de le mettre en confiance et de lui donner envie de se surpasser. Les cours ont lieu en centre ou à votre domicile.
+              </p>
+            </div>
             <a class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
@@ -209,16 +230,23 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div id="formula4" class="col-md-6 col-lg-4 d-flex mb-5" data-aos="fade-up">
+      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
-          <img class="card-img-top" src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png">
-          <div class="card-body card-body-cascade card-formula">
-            <h5>
-              <strong>La formule "EXCELLENCE"</strong>
-            </h5>
-            <p class="card-text">
-              Votre enfant n’a pas de difficulté particulière et bien au contraire, vous pensez avoir décelé en lui un <strong>potentiel</strong> qui pourrait le mener vers l’excellence ?
-            </p>
+          <header class="card__thumb">
+            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+          </header>
+          <div class="card-body">
+            <div class="card__body">
+              <h5>
+                <strong>La formule "EXCELLENCE"</strong>
+              </h5>
+              <p>
+                Votre enfant n’a pas de difficulté particulière et bien au contraire, vous pensez avoir décelé en lui un <strong>potentiel</strong> qui pourrait le mener vers l’excellence ?
+              </p>
+              <p class="card__description">
+                Bookmania offre la possibilité à ces quelques élèves de suivre <strong>un programme spécifique de coaching</strong> qui pourrait les aider à <strong>révéler tout leur potentiel</strong> afin d'obtenir plus que de <strong>bons résultats</strong>, atteindre <strong>l'excellence.</strong> Les places pour ce programme sont limitées et l’inscription doit être validée par notre directeur pédagogique, après un entretien avec les parents et une étude du dossier scolaire de leur enfant. Venez en parler avec nous, l’excellence est une de nos compétences !
+              </p>
+            </div>
             <a class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
@@ -226,16 +254,25 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div id="formula5" class="col-md-6 col-lg-4 d-flex mb-5" data-aos="fade-up">
+      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
-          <img class="card-img-top" src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png">
-          <div class="card-body card-body-cascade card-formula">
-            <h5>
-              <strong>HOME SCHOOLING<br>L'école à la maison</strong>
-            </h5>
-            <p class="card-text">
-              Le « Home Schooling », concept encore très peu parlant dans une grande majorité de pays, est un succès avéré depuis plus de 20 ans dans les pays anglo-saxons.
-            </p>
+          <header class="card__thumb">
+            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+          </header>
+          <div class="card-body">
+            <div class="card__body">
+              <h5>
+                <strong>HOME SCHOOLING<br>L'école à la maison</strong>
+              </h5>
+              <p>
+                Le « Home Schooling », concept encore très peu parlant dans une grande majorité de pays, est un succès avéré depuis plus de 20 ans dans les pays anglo-saxons.
+              </p>
+              <p class="card__description">
+                En réalité, le « Home Schooling » est une forme d’<strong>éducation alternative</strong> qui s’inscrit comme LA réponse à de nombreuses angoisses des parents : <strong>déficience du système scolaire classique</strong>, particularité du profil de leur enfant <strong>(surdoué, handicapé), violence à l’école.</strong>
+                <br><br>
+                <a href="#">En savoir plus</a>
+              </p>
+            </div>
             <a class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
@@ -243,16 +280,23 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div id="formula6" class="col-md-6 col-lg-4 d-flex mb-5" data-aos="fade-up">
+      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
-          <img class="card-img-top" src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png">
-          <div class="card-body card-body-cascade card-formula">
-            <h5>
-               <strong>La formule<br>"Prise en charge totale"</strong>
-            </h5>
-            <p class="card-text">
-              L'acquisition des connaissances posant des difficultés à un élève peut varier d’une matière à l’autre.
-            </p>
+          <header class="card__thumb">
+            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+          </header>
+          <div class="card-body">
+            <div class="card__body">
+              <h5>
+                 <strong>La formule<br>« Prise en charge totale »</strong>
+              </h5>
+              <p>
+                L'acquisition des connaissances posant des difficultés à un élève peut varier d’une matière à l’autre. L'offre « prise en charge totale » est celle qui laisse le plus de liberté dans la gestion des révisions chez Bookmania.
+              </p>
+              <p class="card__description">
+                Chaque élève adhérant à ce programme de coaching global, se voit attribuer un <strong>interlocuteur dédié</strong> qui suit ses progrès sur <strong>l’ensemble des matières</strong> et oriente ses séances de travail sur une matière ou l’autre <strong>en fonction de ses résultats.</strong> L’élève a <strong>accès de façon illimitée</strong> à son centre de soutien et peut travailler autant de matières qu’il le souhaite avec notre corps professoral, sous la tutelle de son coach dédié.
+              </p>
+            </div>
             <a class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
@@ -260,16 +304,25 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div id="formula7" class="col-md-6 col-lg-4 d-flex mb-5" data-aos="fade-up">
+      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
-          <img class="card-img-top" src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png">
-          <div class="card-body card-body-cascade card-formula">
-            <h5>
-              <strong>La formule "Flexibilité"</strong>
-            </h5>
-            <p class="card-text">
-              Cette formule est destinée aux élèves qui ont des <strong>besoins temporaires</strong> dans une ou plusieurs matières.
-            </p>
+          <header class="card__thumb">
+            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+          </header>
+          <div class="card-body">
+            <div class="card__body">
+              <h5>
+                <strong>La formule "Flexibilité"</strong>
+              </h5>
+              <p>
+                Cette formule est destinée aux élèves qui ont des <strong>besoins temporaires</strong> dans une ou plusieurs matières.
+              </p>
+              <p class="card__description">
+                L’emploi du temps n’est pas figé. L’élève dispose d’un <strong>carnet de séances</strong> de cours qu’il utilise lorsqu’il en a besoin.
+                <br><br>
+                Le carnet est <strong>valable pendant toute une année scolaire</strong> et pour toutes les matières. Les séances de cours sont programmées à la demande de l’élève sur rendez-vous auprès de la responsable du planning.
+              </p>
+            </div>
             <a class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
@@ -277,16 +330,27 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div id="formula8" class="col-md-6 col-lg-4 d-flex mb-5" data-aos="fade-up">
+      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
-          <img class="card-img-top" src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png">
-          <div class="card-body card-body-cascade card-formula">
-            <h5>
-              <strong>Préparation des épreuves du BAC Français en 1ère</strong>
-            </h5>
-            <p class="card-text">
-              La fin de l’année de 1ère est sanctionnée par les épreuves anticipées du baccalauréat dont l’épreuve de français.
-            </p>
+          <header class="card__thumb">
+            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+          </header>
+          <div class="card-body">
+            <div class="card__body">
+              <h5>
+                <strong>Préparation des épreuves du BAC Français en 1ère</strong>
+              </h5>
+              <p>
+                La fin de l’année de 1ère est sanctionnée par les épreuves anticipées du baccalauréat dont l’épreuve de français.
+              </p>
+              <p class="card__description">
+                Le bac français repose sur deux épreuves : l’une à <strong>l’oral</strong>, basée sur un ensemble de textes de la littérature française, et l’autre, <strong>écrite</strong> avec, au choix, un commentaire de texte, une dissertation ou une écriture d’invention. Pour chacune de ces épreuves, écrite comme orale, Bookmania propose <strong>un programme de coaching annuel</strong> ou <strong>des stages intensifs de vacances.</strong>
+                <br><br>
+                <a href="#">En savoir plus</a>
+                <br>
+                <a href="#">Télécharger la brochure complète</a>
+              </p>
+            </div>
             <a class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
@@ -294,16 +358,25 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div id="formula9" class="col-md-6 col-lg-4 d-flex mb-5" data-aos="fade-up">
+      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
-          <img class="card-img-top" src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png">
-          <div class="card-body card-body-cascade card-formula">
-            <h5>
-               <strong>Préparation aux examens<br>(Brevet, BAC, partiels post-BAC)</strong>
-            </h5>
-            <p class="card-text">
-              Notre expérience nous a permis d'élaborer des <strong>stratégies pour maximiser les chances de réussite de nos élèves</strong> le jour de l’épreuve.
-            </p>
+          <header class="card__thumb">
+            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+          </header>
+          <div class="card-body">
+            <div class="card__body">
+              <h5>
+                <strong>Préparation aux examens<br>(Brevet, BAC, partiels post-BAC)</strong>
+              </h5>
+              <p>
+                Notre expérience nous a permis d'élaborer des <strong>stratégies pour maximiser les chances de réussite de nos élèves</strong> le jour de l’épreuve.
+              </p>
+              <p class="card__description">
+                Etre sûr de maitriser toutes les connaissances nécessaires, gérer son stress, <strong>gérer son temps</strong>, avoir <strong>les bonnes méthodes et astuces</strong>, passer des épreuves blanches… autant de points que nous traitons avec nos élèves pour que le jour J, l’examen ne soit plus qu’une formalité.
+                <br>
+                En fonction de l’examen à préparer et du profil de l’élève , nous définissions avec lui une stratégie et un plan d’action (volume horaire, fréquence de cours, épreuves blanches en condition d’examen…) pour optimiser les chances de réussite.
+              </p>
+            </div>
             <a class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
@@ -311,16 +384,23 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div id="formula10" class="col-md-6 col-lg-4 d-flex mb-5" data-aos="fade-up">
+      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
-          <img class="card-img-top" src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png">
-          <div class="card-body card-body-cascade card-formula">
-            <h5>
-              <strong>Accompagnement TPE<br>(Travaux pratiques encadrés)</strong>
-            </h5>
-            <p class="card-text">
-              Votre enfant est scolarisé dans le système français en classe de 1ère. Il sera confronté à un nouveau type d’exercice en groupe, sanctionné par une note au baccalauréat.
-            </p>
+          <header class="card__thumb">
+            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+          </header>
+          <div class="card-body">
+            <div class="card__body">
+              <h5>
+                <strong>Accompagnement TPE<br>(Travaux pratiques encadrés)</strong>
+              </h5>
+              <p>
+                Votre enfant est scolarisé dans le système français en classe de 1ère. Il sera confronté à un nouveau type d’exercice en groupe, sanctionné par une note au baccalauréat.
+              </p>
+              <p class="card__description">
+                En effet, le TPE, présentant des difficultés certaines en termes de <strong>recherches, réflexions et analyses</strong>, fait souvent peur aux élèves qui n’ont pour la plupart jamais eu à traiter ce type d'épreuve. Chez Bookmania, nous pouvons les accompagner sur ce projet en <strong>les aidant à choisir un thème, définir une méthode de travail, rassembler les informations nécessaires</strong> et les <strong>trier correctement</strong>, pour monter un dossier solide répondant aux exigences de l’épreuve.
+              </p>
+            </div>
             <a class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
@@ -328,16 +408,23 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div id="formula11" class="col-md-6 col-lg-4 d-flex mb-5" data-aos="fade-up">
+      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
-          <img class="card-img-top" src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png">
-          <div class="card-body card-body-cascade card-formula">
-            <h5>
-              <strong>Les stages vacances</strong>
-            </h5>
-            <p class="card-text">
-              En arrivant chez BOOKMANIA, certains élèves se plaignent d’avoir <strong>accumulé trop de retard en classe</strong> et ont la sensation de ne plus pouvoir évoluer au même rythme que leurs camarades.
-            </p>
+          <header class="card__thumb">
+            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+          </header>
+          <div class="card-body">
+            <div class="card__body">
+              <h5>
+                <strong>Les stages vacances</strong>
+              </h5>
+              <p>
+                En arrivant chez BOOKMANIA, certains élèves se plaignent d’avoir <strong>accumulé trop de retard en classe</strong> et ont la sensation de ne plus pouvoir évoluer au même rythme que leurs camarades.
+              </p>
+              <p class="card__description">
+                Pour ces profils, nous proposons des <strong>stages intensifs</strong> à n’importe quelle période de l’année et notamment <strong>pendant les vacances scolaires</strong> afin de reconstruire des bases solides pour un nouveau départ serein.
+              </p>
+            </div>
             <a class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
@@ -345,18 +432,23 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div id="formula12" class="col-md-6 col-lg-4 d-flex mb-5" data-aos="fade-up">
+      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
-          <img class="card-img-top" src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png">
-          <div class="card-body card-body-cascade card-formula">
-            <h5>
-               <strong>Cours d'arabe</strong>
-            </h5>
-            <p class="card-text">
-              Votre enfant va en cours d’arabe classique à reculons ? Il déteste ces moments qu’il trouve ennuyeux et sans intérêt ?
-              <br>
-              Et s'il allait en cours d’arabe avec plaisir et commençait à apprécier cette langue ?
-            </p>
+          <header class="card__thumb">
+            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+          </header>
+          <div class="card-body">
+            <div class="card__body">
+              <h5>
+                 <strong>Cours d'arabe</strong>
+              </h5>
+              <p>
+                Votre enfant va en cours d’arabe classique à reculons ? Il déteste ces moments qu’il trouve ennuyeux et sans intérêt ? Et s'il allait en cours d’arabe <strong>avec plaisir</strong> et commençait à apprécier cette langue ? Découvrez notre module : « <strong>Apprendre l’arabe en s’amusant</strong> »
+              </p>
+              <p class="card__description">
+                Notre approche pédagogique est avant tout ludique. A travers des jeux, elle vise à renforcer les acquis et permet à votre enfant de maîtriser les rouages de l’arabe classique, tout en s’amusant. Les cours ont lieu en petits groupes (4 élèves maximum). Les enfants bénéficient d’un encadrement personnalisé quel que soit leur niveau. Venez rencontrer nos professeurs d’arabe. Ils se feront un plaisir de vous expliquer notre démarche pédagogique en détails.
+              </p>
+            </div>
             <a class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
