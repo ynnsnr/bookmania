@@ -140,7 +140,7 @@ title: Soutien scolaire à Casablanca
   </section>
 
   <!-- <section class="pt-5 pb-5 blue-grey lighten-5"> -->
-  <section class="pt-5 pb-5">
+  <section class="pt-5 mt-1 pb-5">
     <div class="container text-center my-2" data-aos="fade-up">
       <!-- <h1>LE <strong>PROCESSUS</strong></h1> -->
       <!-- <hr width="200px" class="mb-5"> -->
@@ -190,27 +190,34 @@ title: Soutien scolaire à Casablanca
       <h2 class="mb-4">DES PARENTS ET DES ELEVES <strong>SATISFAITS</strong></h2>
       <!--Carousel Wrapper-->
       <div id="carousel-testimonies" class="carousel slide carousel-fade" data-ride="carousel">
+        {% assign reviews = site.data.reviews | slice: 1, site.data.reviews.size %}
         <!--Indicators-->
         <ol class="carousel-indicators">
           <li data-target="#carousel-testimonies" data-slide-to="0" class="active"></li>
-          <li data-target="#carousel-testimonies" data-slide-to="1"></li>
-          <!-- <li data-target="#carousel-testimonies" data-slide-to="2"></li> -->
+          {% for review in reviews %}
+          <li data-target="#carousel-testimonies" data-slide-to="{{ review.id }}"></li>
+          {% endfor %}
         </ol>
         <!--Slides-->
         <div class="carousel-inner pb-5" role="listbox">
           <div class="carousel-item active">
             <p class="testimonial">
-              <em>"BOOKMANIA est une expérience innovante en matière de soutien et d'accompagnement scolaire et un confort pour les parents. Le coaching et la pédagogie sont adaptés selon le profil de l’élève. Notre fils est en terminale S cette année. Nous sommes très contents du progrès et des résultats. Le nombre d'élèves par cours est très raisonnable..."<!-- , on y travaille les fondamentaux et la méthodologie ! Sincères remerciements à toute l’équipe de BOOKMANIA !" -->
+              <em>
+                "{{ site.data.reviews.first.text | split: ' ' | slice: 0, 62 | join }}..."
               </em>
             </p>
-            <p><strong>N. Oudghiri</strong></p>
+            <p><strong>{{ site.data.reviews.first.name }}</strong></p>
           </div>
+          {% for review in reviews %}
           <div class="carousel-item">
             <p class="testimonial">
-              <em>"Grâce à BOOKMANIA ma petite protégée a été sauvée d'un redoublement certain. Elle avait perdu toutes ses notions de langue française. Puis grâce au bilan et au suivi personnalisé durant l'été la petite a non seulement repris confiance en elle mais elle a aussi repris les bases et réussi ses examens d'entrée dans une école privée. Merci à toute l'équipe..."<!-- BOOKMANIA ! --></em>
+              <em>
+                "{{ review.text | split: ' ' | slice: 0, 62 | join }}..."
+              </em>
             </p>
-            <p><strong>S. Diouri</strong></p>
+            <p><strong>{{ review.name }}</strong></p>
           </div>
+          {% endfor %}
         </div>
       </div>
       <a class="carousel-control-prev" href="#carousel-testimonies" role="button" data-slide="prev">
@@ -233,7 +240,3 @@ title: Soutien scolaire à Casablanca
   </div>
 
 </main>
-
-<button class="back-to-top" type="button">
-  <i class="fas fa-chevron-up"></i>
-</button>

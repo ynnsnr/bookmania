@@ -24,14 +24,13 @@ title: Soutien scolaire à Casablanca
         </p>
       </div>
       <div class="col-12 col-lg-5" data-aos="fade-left" data-aos-duration="1000">
-        <!-- <div class="description-image" style="background-image: url('https://images.unsplash.com/photo-1516979187457-637abb4f9353');">
-        </div> -->
+        <div class="description-image" style="background-image: url('assets/images/photo-1516979187457-637abb4f9353.jpg');">
+        </div>
       </div>
     </div>
   </section>
 
   <section class="formulas-titles pt-5 pb-4 blue-grey lighten-5">
-  <!-- <section class="my-5" style="background-image: linear-gradient(90deg, rgba(255,255,255,.1), rgba(255,255,255,.2)), url('https://images.unsplash.com/photo-1501349800519-48093d60bde0'); background-size: cover;"> -->
     <div class="container">
       <h4 class="mb-4">
         <strong>Découvrez </strong>nos formules
@@ -129,7 +128,7 @@ title: Soutien scolaire à Casablanca
               <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 25" class="todo__icon">
                 <use xlink:href="#todo__check" class="todo__check"></use>
               </svg>
-              <a href="#formulas10" class="smooth"><h5>Préparation des TPE</h5></a>
+              <a href="#formula10" class="smooth"><h5>Préparation des TPE</h5></a>
             </label>
 
             <label class="todo">
@@ -156,7 +155,7 @@ title: Soutien scolaire à Casablanca
 
     <div class="row text-center">
 
-      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
+      <div id="formula1" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
             <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
@@ -180,7 +179,7 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
+      <div id="formula2" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
             <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
@@ -206,7 +205,7 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
+      <div id="formula3" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
             <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
@@ -230,15 +229,15 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
+      <div id="formula4" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+            <img src="https://images.unsplash.com/photo-1523580846011-d3a5bc25702b"/>
           </header>
           <div class="card-body">
             <div class="card__body">
               <h5>
-                <strong>La formule "EXCELLENCE"</strong>
+                <strong>La formule « EXCELLENCE »</strong>
               </h5>
               <p>
                 Votre enfant n’a pas de difficulté particulière et bien au contraire, vous pensez avoir décelé en lui un <strong>potentiel</strong> qui pourrait le mener vers l’excellence ?
@@ -254,7 +253,7 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
+      <div id="formula5" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
             <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
@@ -280,7 +279,7 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
+      <div id="formula6" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
             <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
@@ -304,15 +303,15 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
+      <div id="formula7" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+            <img src="https://images.unsplash.com/photo-1435527173128-983b87201f4d"/>
           </header>
           <div class="card-body">
             <div class="card__body">
               <h5>
-                <strong>La formule "Flexibilité"</strong>
+                <strong>La formule « Flexibilité »</strong>
               </h5>
               <p>
                 Cette formule est destinée aux élèves qui ont des <strong>besoins temporaires</strong> dans une ou plusieurs matières.
@@ -330,7 +329,7 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
+      <div id="formula8" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
             <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
@@ -358,10 +357,10 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
+      <div id="formula9" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+            <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173"/>
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -384,7 +383,7 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
+      <div id="formula10" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
             <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
@@ -408,10 +407,11 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
+      <div id="formula11" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+            <img src="https://images.unsplash.com/photo-1476304884326-cd2c88572c5f"/>
+            <!-- https://images.unsplash.com/photo-1503676382389-4809596d5290 -->
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -432,10 +432,10 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
+      <div id="formula12" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+            <img src="https://images.unsplash.com/photo-1535552081922-631f7dea1e9d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"/>
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -443,7 +443,7 @@ title: Soutien scolaire à Casablanca
                  <strong>Cours d'arabe</strong>
               </h5>
               <p>
-                Votre enfant va en cours d’arabe classique à reculons ? Il déteste ces moments qu’il trouve ennuyeux et sans intérêt ? Et s'il allait en cours d’arabe <strong>avec plaisir</strong> et commençait à apprécier cette langue ? Découvrez notre module : « <strong>Apprendre l’arabe en s’amusant</strong> »
+                Votre enfant va en cours d’arabe classique à reculons ? Il déteste ces moments qu’il trouve ennuyeux et sans intérêt ? Et s'il allait en cours d’arabe <strong>avec plaisir</strong> et commençait à apprécier cette langue ? Découvrez notre module :<br>« <strong>Apprendre l’arabe en s’amusant</strong> »
               </p>
               <p class="card__description">
                 Notre approche pédagogique est avant tout ludique. A travers des jeux, elle vise à renforcer les acquis et permet à votre enfant de maîtriser les rouages de l’arabe classique, tout en s’amusant. Les cours ont lieu en petits groupes (4 élèves maximum). Les enfants bénéficient d’un encadrement personnalisé quel que soit leur niveau. Venez rencontrer nos professeurs d’arabe. Ils se feront un plaisir de vous expliquer notre démarche pédagogique en détails.
@@ -461,7 +461,3 @@ title: Soutien scolaire à Casablanca
   </section>
 
 </main>
-
-<button class="back-to-top" type="button">
-  <i class="fas fa-chevron-up"></i>
-</button>

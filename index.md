@@ -140,7 +140,7 @@ title: Soutien scolaire à Casablanca
   </section>
 
   <!-- <section class="pt-5 pb-5 blue-grey lighten-5"> -->
-  <section class="pt-5 pb-5">
+  <section class="pt-5 mt-1 pb-5">
     <div class="container text-center my-2" data-aos="fade-up">
       <!-- <h1>LE <strong>PROCESSUS</strong></h1> -->
       <!-- <hr width="200px" class="mb-5"> -->
@@ -240,7 +240,3 @@ title: Soutien scolaire à Casablanca
   </div>
 
 </main>
-
-<button class="back-to-top" type="button">
-  <i class="fas fa-chevron-up"></i>
-</button>
