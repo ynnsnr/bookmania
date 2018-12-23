@@ -40,7 +40,7 @@ title: Soutien scolaire à Casablanca
         Principales matières enseignées à <strong>Bookmania</strong>
       </h4>
 
-      <div class="subjects-grid ml-3" data-aos="fade-up">
+      <div class="subjects-grid pt-1 ml-3" data-aos="fade-up">
 
         <div class="d-flex mb-3">
           <i class="fas fa-check mr-3"></i>

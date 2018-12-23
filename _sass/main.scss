@@ -1,3 +1,6 @@
+@import "navbar";
+@import "back-to-top";
+@import "footer";
 @import "index";
 @import "nosoffres";
 @import "soutien-scolaire";
@@ -5,77 +8,9 @@
 // @import "orientation-scolaire";
 // @import "centre-langues";
 
-.navbar {
-  box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);
-  background-color: rgba(255,255,255, 1);
-  .menu:hover {
-    background-color: #EEEEEE;
-  }
-  i {
-    color: rgba(0,0,0, .9);
-    transition: all .2s;
-    &:hover {
-      color: #4285F4 !important;
-    }
-  }
-}
-
-.page-footer, .top-nav-collapse {
-  // box-shadow: 0 -1px 3px rgba(0,0,0,0.12);
-  background-color: white;
-}
-
-.page-footer {
-  .social a {
-    font-size: 1rem;
-    opacity: .9;
-    &:hover {
-      color: white !important;
-      opacity: 1;
-    }
-  }
-  .contact a {
-    color: black !important;
-  }
-  a {
-    &:hover {
-      color: #4285F4 !important;
-    }
-  }
-}
-
-button.back-to-top {
-  margin: 0 !important;
-  padding: 0 !important;
-  height: 0px;
-  width: 0px;
-  overflow: hidden;
-  border-radius: 50px;
-  color: transparent;
-  clear: both;
-  visibility: hidden;
-  position: fixed;
-  border: none;
-  right: 50px;
-  bottom: 75px;
-  font-size: 0px;
-  outline: 0 !important;
-  z-index: 99;
-  transition: all .3s ease-in-out;
-  &.show {
-    color: #00ab6c;
-    font-size: 25px;
-    right: 25px;
-    bottom: 85px;
-    height: 50px;
-    width: 50px;
-    visibility: visible;
-    box-shadow: 0px 2px 8px 1px rgba(0, 0, 0, 0.25);
-    &:active {
-      box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 0.25);
-    }
-  }
-}
+// body {
+//   font-family: "Open Sans";
+// }
 
 .description-image {
   box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);

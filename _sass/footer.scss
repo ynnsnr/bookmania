@@ -1,0 +1,23 @@
+.page-footer, .top-nav-collapse {
+  // box-shadow: 0 -1px 3px rgba(0,0,0,0.12);
+  background-color: white;
+}
+
+.page-footer {
+  .social a {
+    font-size: 1rem;
+    opacity: .9;
+    &:hover {
+      color: white !important;
+      opacity: 1;
+    }
+  }
+  .contact a {
+    color: black !important;
+  }
+  a {
+    &:hover {
+      color: #4285F4 !important;
+    }
+  }
+}
