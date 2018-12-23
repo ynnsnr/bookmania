@@ -35,7 +35,7 @@ title: Soutien scolaire à Casablanca
     <!--Grid row-->
     <div class="row">
 
-      <div class="col-md-4 d-flex justify-content-center d-flex justify-content-center">
+      <div class="col-md-4 d-flex justify-content-center">
         <!-- Card -->
         <div class="card mt-2 mb-2" data-aos="fade-up">
           <!-- Card image -->
@@ -203,7 +203,7 @@ title: Soutien scolaire à Casablanca
           <div class="carousel-item active">
             <p class="testimonial">
               <em>
-                "{{ site.data.reviews.first.text | split: ' ' | slice: 0, 59 | join }}..."
+                "{{ site.data.reviews.first.text | split: ' ' | slice: 0, 62 | join }}..."
               </em>
             </p>
             <p><strong>{{ site.data.reviews.first.name }}</strong></p>
@@ -212,7 +212,7 @@ title: Soutien scolaire à Casablanca
           <div class="carousel-item">
             <p class="testimonial">
               <em>
-                "{{ review.text | split: ' ' | slice: 0, 60 | join }}..."
+                "{{ review.text | split: ' ' | slice: 0, 62 | join }}..."
               </em>
             </p>
             <p><strong>{{ review.name }}</strong></p>

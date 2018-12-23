@@ -32,9 +32,9 @@ title: Soutien scolaire à Casablanca
 
   <section class="formulas-titles pt-5 pb-4 blue-grey lighten-5">
     <div class="container">
-      <h4 class="mb-4">
+      <h3 class="mb-4">
         <strong>Découvrez </strong>nos formules
-      </h4>
+      </h3>
       <div class="row ml-1">
         <div class="col-12 col-md-6">
 

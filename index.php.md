@@ -35,7 +35,7 @@ title: Soutien scolaire à Casablanca
     <!--Grid row-->
     <div class="row">
 
-      <div class="col-md-4 d-flex justify-content-center d-flex justify-content-center">
+      <div class="col-md-4 d-flex justify-content-center">
         <!-- Card -->
         <div class="card mt-2 mb-2" data-aos="fade-up">
           <!-- Card image -->
