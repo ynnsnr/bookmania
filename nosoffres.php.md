@@ -7,7 +7,7 @@ title: Soutien scolaire à Casablanca
 ---
 <main id="nos-offres" class="mb-0 pb-0">
 
-  <section class="container mt-5 py-5">
+  <section class="container mt-4 mt-sm-5 py-5">
     <h1 class="mt-4 mb-4">
       <strong>Soutien scolaire efficace à la carte</strong>
     </h1>
@@ -23,7 +23,7 @@ title: Soutien scolaire à Casablanca
           Notre équipe de spécialistes accompagne nos élèves en mathématiques, en physique chimie, en SVT, en français, en littérature, en histoire-géographie, en anglais, en arabe, en économie, en management et en droit.
         </p>
       </div>
-      <div class="col-12 col-lg-5" data-aos="fade-left" data-aos-duration="1000">
+      <div class="d-none d-lg-block d-xl-block col-12 col-lg-5" data-aos="fade-left" data-aos-duration="1000">
         <div class="description-image" style="background-image: url('assets/images/photo-1516979187457-637abb4f9353.jpg');">
         </div>
       </div>
@@ -35,117 +35,78 @@ title: Soutien scolaire à Casablanca
       <h4 class="mb-4">
         <strong>Découvrez </strong>nos formules
       </h4>
-      <div class="row">
-
-        <svg viewBox="0 0 0 0" style="position: absolute; z-index: -1; opacity: 0;">
-          <defs>
-            <linearGradient id="boxGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="25" y2="25">
-              <stop offset="0%"   stop-color="#27FDC7"/>
-              <stop offset="100%" stop-color="#0FC0F5"/>
-            </linearGradient>
-            <path id="todo__check" stroke="url(#boxGradient)" d="M10 13l2 2 5-5" />
-          </defs>
-        </svg>
-
+      <div class="row ml-1">
         <div class="col-12 col-md-6">
-          <div class="todo-list">
 
-            <label class="todo">
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 25" class="todo__icon">
-                <use xlink:href="#todo__check" class="todo__check"></use>
-              </svg>
-              <a href="#formula1" class="smooth">
-                <h5>Aide aux devoirs</h5>
-              </a>
-            </label>
-
-            <label class="todo">
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 25" class="todo__icon">
-                <use xlink:href="#todo__check" class="todo__check"></use>
-              </svg>
-              <a href="#formula2" class="smooth">
-                <h5>Cours en petits groupes</h5>
-              </a>
-            </label>
-
-            <label class="todo">
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 25" class="todo__icon">
-                <use xlink:href="#todo__check" class="todo__check"></use>
-              </svg>
-              <a href="#formula3" class="smooth">
-                <h5>Cours particuliers</h5>
-              </a>
-            </label>
-
-            <label class="todo">
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 25" class="todo__icon">
-                <use xlink:href="#todo__check" class="todo__check"></use>
-              </svg>
-              <a href="#formula4" class="smooth"><h5>Prise en charge totale</h5></a>
-            </label>
-
-            <label class="todo">
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 25" class="todo__icon">
-                <use xlink:href="#todo__check" class="todo__check"></use>
-              </svg>
-              <a href="#formula5" class="smooth"><h5>Formule excellence</h5></a>
-            </label>
-
-            <label class="todo">
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 25" class="todo__icon">
-                <use xlink:href="#todo__check" class="todo__check"></use>
-              </svg>
-              <a href="#formula6" class="smooth"><h5>Home schooling</h5></a>
-            </label>
-
+          <div class="d-flex mb-3">
+            <i class="fas fa-check mr-3"></i>
+            <a href="#formula1" class="smooth">
+              <h5>Aide aux devoirs</h5>
+            </a>
           </div>
+
+          <div class="d-flex mb-3">
+            <i class="fas fa-check mr-3"></i>
+            <a href="#formula2" class="smooth">
+              <h5>Cours en petits groupes</h5>
+            </a>
+          </div>
+
+          <div class="d-flex mb-3">
+            <i class="fas fa-check mr-3"></i>
+            <a href="#formula3" class="smooth">
+              <h5>Cours particuliers</h5>
+            </a>
+          </div>
+
+          <div class="d-flex mb-3">
+            <i class="fas fa-check mr-3"></i>
+            <a href="#formula4" class="smooth"><h5>Prise en charge totale</h5></a>
+          </div>
+
+          <div class="d-flex mb-3">
+            <i class="fas fa-check mr-3"></i>
+            <a href="#formula5" class="smooth"><h5>Formule excellence</h5></a>
+          </div>
+
+          <div class="d-flex mb-3">
+            <i class="fas fa-check mr-3"></i>
+            <a href="#formula6" class="smooth"><h5>Home schooling</h5></a>
+          </div>
+
         </div>
         <div class="col-12 col-md-6">
-          <div class="todo-list">
 
-            <label class="todo">
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 25" class="todo__icon">
-                <use xlink:href="#todo__check" class="todo__check"></use>
-              </svg>
-              <a href="#formula7" class="smooth"><h5>Formule flexibilité</h5></a>
-            </label>
-
-            <label class="todo">
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 25" class="todo__icon">
-                <use xlink:href="#todo__check" class="todo__check"></use>
-              </svg>
-              <a href="#formula8" class="smooth"><h5>Préparation BAC de Français</h5></a>
-            </label>
-
-            <label class="todo">
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 25" class="todo__icon">
-                <use xlink:href="#todo__check" class="todo__check"></use>
-              </svg>
-              <a href="#formula9" class="smooth"><h5>Préparation d'un examen</h5></a>
-            </label>
-
-            <label class="todo">
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 25" class="todo__icon">
-                <use xlink:href="#todo__check" class="todo__check"></use>
-              </svg>
-              <a href="#formula10" class="smooth"><h5>Préparation des TPE</h5></a>
-            </label>
-
-            <label class="todo">
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 25" class="todo__icon">
-                <use xlink:href="#todo__check" class="todo__check"></use>
-              </svg>
-              <a href="#formula11" class="smooth"><h5>Stages de vacances</h5></a>
-            </label>
-
-            <label class="todo">
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 25" class="todo__icon">
-                <use xlink:href="#todo__check" class="todo__check"></use>
-              </svg>
-              <a href="#formula12" class="smooth"><h5>Cours d'arabe</h5></a>
-            </label>
-
+          <div class="d-flex mb-3">
+            <i class="fas fa-check mr-3"></i>
+            <a href="#formula7" class="smooth"><h5>Formule flexibilité</h5></a>
           </div>
+
+          <div class="d-flex mb-3">
+            <i class="fas fa-check mr-3"></i>
+            <a href="#formula8" class="smooth"><h5>Préparation BAC de Français</h5></a>
+          </div>
+
+          <div class="d-flex mb-3">
+            <i class="fas fa-check mr-3"></i>
+            <a href="#formula9" class="smooth"><h5>Préparation d'un examen</h5></a>
+          </div>
+
+          <div class="d-flex mb-3">
+            <i class="fas fa-check mr-3"></i>
+            <a href="#formula10" class="smooth"><h5>Préparation des TPE</h5></a>
+          </div>
+
+          <div class="d-flex mb-3">
+            <i class="fas fa-check mr-3"></i>
+            <a href="#formula11" class="smooth"><h5>Stages de vacances</h5></a>
+          </div>
+
+          <div class="d-flex mb-3">
+            <i class="fas fa-check mr-3"></i>
+            <a href="#formula12" class="smooth"><h5>Cours d'arabe</h5></a>
+          </div>
+
         </div>
       </div>
     </div>
@@ -158,7 +119,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula1" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+            <img src="https://images.unsplash.com/photo-1529390079861-591de354faf5"/>
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -182,7 +143,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula2" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+            <img src="https://images.unsplash.com/photo-1516321497487-e288fb19713f"/>
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -208,7 +169,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula3" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+            <img src="assets/images/aide-aux-devoir.png"/>
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -256,7 +217,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula5" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+            <img src="https://images.unsplash.com/photo-1524646514133-d392bcf4e8b9"/>
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -282,7 +243,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula6" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+            <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40"/>
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -332,7 +293,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula8" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+            <img src="https://images.unsplash.com/photo-1460518451285-97b6aa326961"/>
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -386,7 +347,8 @@ title: Soutien scolaire à Casablanca
       <div id="formula10" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="http://bookmania.ma/wp-content/uploads/2016/02/aide-aux-devoir.png"/>
+            <img src="https://images.unsplash.com/photo-1453733190371-0a9bedd82893"
+            />
           </header>
           <div class="card-body">
             <div class="card__body">

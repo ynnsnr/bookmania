@@ -8,13 +8,13 @@ title: Soutien scolaire à Casablanca
 <main id="soutien-scolaire" class="mb-0 pb-0">
 
   <section class="container mt-5 py-5">
-    <div class="mt-4 mb-4">
+    <div class="mt-4">
       <h1><strong>Soutien scolaire</strong></h1>
-      <h5><strong>Accompagnement de bout en bout</strong></h5>
     </div>
     <div class="row">
-      <div class="col-12 col-lg-7">
-        <p>
+      <div class="col-12 col-lg-7 col-xl-8">
+        <h5 class="pb-4"><strong>Accompagnement de bout en bout</strong></h5>
+        <p class="pr-xl-5 pr-lg-2">
           Prenez <strong>la liberté</strong> de choisir le système d’enseignement qui vous correspond et confiez nous l’accompagnement de vos enfants en soutien scolaire.
           <br><br>
           Depuis <strong>plus de 10 ans</strong> que nous opérons dans le secteur du soutien et de l’accompagnement scolaire, nous avons toujours placé <strong>l’élève au centre de notre vision</strong>. Avec une dizaine d’offres différentes, nous sommes en mesure de vous proposer celle qui <strong>s’adaptera au mieux au profil de votre enfant</strong>.
@@ -26,8 +26,8 @@ title: Soutien scolaire à Casablanca
           Nos formules s’adapteront ainsi aux exigences spécifiques de nos élèves en fonction de leurs besoins et des différents systèmes scolaires au sein desquels ils évoluent.
         </p>
       </div>
-      <div class="col-12 col-lg-5" data-aos="fade-left" data-aos-duration="1000">
-        <div class="description-image" style="background-image: url('https://images.unsplash.com/photo-1516321497487-e288fb19713f');">
+      <div class="d-none d-lg-block d-xl-block col-12 col-lg-5 col-xl-4" data-aos="fade-left" data-aos-duration="1000">
+        <div class="description-image" style="background-image: url('https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1');">
         </div>
       </div>
     </div>
@@ -35,11 +35,12 @@ title: Soutien scolaire à Casablanca
 
   <section class="formulas-titles pt-5 pb-5 blue-grey lighten-5">
     <div class="container">
-      <h4 class="mb-5">
+
+      <h4 class="mb-4">
         Principales matières enseignées à <strong>Bookmania</strong>
       </h4>
 
-      <div class="subjects-grid ml-1" data-aos="fade-up">
+      <div class="subjects-grid ml-3" data-aos="fade-up">
 
         <div class="d-flex mb-3">
           <i class="fas fa-check mr-3"></i>

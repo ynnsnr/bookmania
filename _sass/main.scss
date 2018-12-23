@@ -82,7 +82,9 @@ button.back-to-top {
   background-size: cover;
   width: 100%;
   height: 100%;
-  @media (max-width: 992px) {
-    display: none;
-  }
+}
+
+.fa-check {
+  color: #0FC0F5;
+  font-size: 20px;
 }
