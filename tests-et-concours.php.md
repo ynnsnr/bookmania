@@ -9,7 +9,9 @@ title: Soutien scolaire à Casablanca
 
   <section class="container mt-5 py-5">
     <div class="mt-4">
-      <h1><strong>Tests et concours</strong></h1>
+      <h1 class="font-weight-normal">
+        <strong>Tests et concours</strong>
+      </h1>
     </div>
     <h5 class="pb-4"><strong>Les clés de la réussite</strong></h5>
     <p>

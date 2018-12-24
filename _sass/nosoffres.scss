@@ -1,5 +1,10 @@
-#nos-offres strong {
-  color: #64686c;
+#nos-offres {
+  strong {
+    color: #64686c;
+  }
+  p strong {
+    font-weight: 600;
+  }
 }
 
 .formulas-titles {
@@ -45,7 +50,6 @@
       font-size: 14px;
     }
     .btn {
-      max-width: 209px;
       margin: 1.25rem;
     }
   }

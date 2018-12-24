@@ -9,7 +9,9 @@ title: Soutien scolaire à Casablanca
 
   <section class="container mt-5 py-5">
     <div class="mt-4">
-      <h1><strong>Soutien scolaire</strong></h1>
+      <h1 class="font-weight-normal">
+        <strong>Soutien scolaire</strong>
+      </h1>
     </div>
     <div class="row">
       <div class="col-12 col-lg-7 col-xl-8">

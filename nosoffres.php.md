@@ -8,7 +8,7 @@ title: Soutien scolaire à Casablanca
 <main id="nos-offres" class="mb-0 pb-0">
 
   <section class="container mt-4 mt-sm-5 py-5">
-    <h1 class="mt-4 mb-4">
+    <h1 class="mt-4 mb-4 font-weight-normal">
       <strong>Soutien scolaire efficace à la carte</strong>
     </h1>
     <div class="row">
