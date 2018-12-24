@@ -7,7 +7,7 @@ title: Soutien scolaire à Casablanca
 ---
 <main id="orientation-scolaire">
 
-  <section class="container mt-5 py-5">
+  <section class="container mt-5 pt-5 pb-4">
     <div class="mt-4">
       <h1 class="font-weight-normal">
         <strong>Orientation Post-Bac</strong>
@@ -17,7 +17,7 @@ title: Soutien scolaire à Casablanca
       <strong>Trouver sa voie</strong>
     </h5>
 
-    <div class="row mb-5">
+    <div class="row mb-4">
       <div class="col-12 col-lg-7 col-xl-8">
         <h4>Qu’est ce que l’orientation post-bac ?</h4>
         <p>
@@ -27,12 +27,16 @@ title: Soutien scolaire à Casablanca
         </p>
       </div>
       <div class="d-none d-lg-block d-xl-block col-12 col-lg-5 col-xl-4">
-        <div class="description-image" style="background-image: url('https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1');">
+        <div class="description-image" style="background-image: url('https://images.unsplash.com/photo-1509062522246-3755977927d7');">
         </div>
       </div>
     </div>
 
-    <div class="row mb-5">
+    <div class="row mb-4">
+      <div class="d-none d-lg-block d-xl-block col-12 col-lg-5 col-xl-4">
+        <div class="description-image" style="background-image: url('https://images.unsplash.com/photo-1494883759339-0b042055a4ee');">
+        </div>
+      </div>
       <div class="col-12 col-lg-7 col-xl-8">
         <h4>Intérêt d’une bonne orientation post-bac?</h4>
         <p>
@@ -41,13 +45,9 @@ title: Soutien scolaire à Casablanca
           Face à une offre qui ouvre la porte à <strong>une multitude de possibilités</strong> de poursuite d’études, les élèves et leurs parents se sentent très souvent perdus. Or, être bien informé est la clé d’une <strong>bonne orientation.</strong>
         </p>
       </div>
-      <div class="d-none d-lg-block d-xl-block col-12 col-lg-5 col-xl-4">
-        <div class="description-image" style="background-image: url('https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1');">
-        </div>
-      </div>
     </div>
 
-    <div class="row mb-5">
+    <div class="row mb-4">
       <div class="col-12 col-lg-7 col-xl-8">
         <h4>
           Comment Bookmania vous accompagne-t-il dans ce passage décisif ?
@@ -61,7 +61,7 @@ title: Soutien scolaire à Casablanca
         </p>
       </div>
       <div class="d-none d-lg-block d-xl-block col-12 col-lg-5 col-xl-4">
-        <div class="description-image" style="background-image: url('https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1');">
+        <div class="description-image" style="background-image: url('https://images.unsplash.com/photo-1525885968415-f0586b4526d3');">
         </div>
       </div>
     </div>
