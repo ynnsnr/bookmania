@@ -27,14 +27,14 @@ title: Soutien scolaire à Casablanca
         </p>
       </div>
       <div class="d-none d-lg-block d-xl-block col-12 col-lg-5 col-xl-4">
-        <div class="description-image" style="background-image: url('https://images.unsplash.com/photo-1509062522246-3755977927d7');">
+        <div class="description-image" data-aos="fade-left" style="background-image: url('https://images.unsplash.com/photo-1509062522246-3755977927d7');">
         </div>
       </div>
     </div>
 
     <div class="row mb-4">
       <div class="d-none d-lg-block d-xl-block col-12 col-lg-5 col-xl-4">
-        <div class="description-image" style="background-image: url('https://images.unsplash.com/photo-1494883759339-0b042055a4ee');">
+        <div class="description-image" data-aos="fade-right" style="background-image: url('https://images.unsplash.com/photo-1494883759339-0b042055a4ee');">
         </div>
       </div>
       <div class="col-12 col-lg-7 col-xl-8">
@@ -61,7 +61,7 @@ title: Soutien scolaire à Casablanca
         </p>
       </div>
       <div class="d-none d-lg-block d-xl-block col-12 col-lg-5 col-xl-4">
-        <div class="description-image" style="background-image: url('https://images.unsplash.com/photo-1525885968415-f0586b4526d3');">
+        <div class="description-image" data-aos="fade-left" style="background-image: url('https://images.unsplash.com/photo-1525885968415-f0586b4526d3');">
         </div>
       </div>
     </div>

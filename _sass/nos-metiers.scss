@@ -1,0 +1,63 @@
+#soutien-scolaire strong {
+  color: #64686c;
+}
+
+.subjects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 343px);
+}
+
+#tests-et-concours {
+  strong {
+    color: #64686c;
+  }
+  .card-img-top {
+    height: 100%;
+    object-fit: cover;
+  }
+  .card-body {
+    h5 {
+      min-height: 72px;
+    }
+    p {
+      min-height: 84px;
+    }
+  }
+}
+
+#orientation-scolaire {
+  strong {
+    color: #64686c;
+  }
+  p strong {
+    font-weight: 600;
+  }
+}
+
+#coaching-scolaire {
+  strong {
+    color: #64686c;
+  }
+  p strong, li strong {
+    font-weight: 600;
+  }
+}
+
+#centre-langues {
+  strong {
+    color: #64686c;
+  }
+  p strong {
+    font-weight: 600;
+  }
+  h2 {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2));
+  }
+}
