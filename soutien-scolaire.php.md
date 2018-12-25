@@ -29,7 +29,7 @@ title: Soutien scolaire à Casablanca
         </p>
       </div>
       <div class="d-none d-lg-block d-xl-block col-12 col-lg-5 col-xl-4" data-aos="fade-left" data-aos-duration="1000">
-        <div class="description-image" style="background-image: url('https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1');">
+        <div class="description-image" style="background-image: url('assets/images/photo-1496317899792-9d7dbcd928a1.jpeg');">
         </div>
       </div>
     </div>
