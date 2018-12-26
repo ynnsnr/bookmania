@@ -7,7 +7,7 @@ title: Soutien scolaire à Casablanca
 ---
 <main id="qui-sommes-nous" class="mb-0 pb-0">
 
-  <section class="container mt-5 pt-5 pb-2">
+  <section class="container mt-4 mt-sm-5 pt-5 pb-2">
     <div class="mt-4">
       <h1 class="font-weight-normal">
         <strong>Mot du fondateur</strong>

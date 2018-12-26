@@ -62,7 +62,7 @@
   text: "Bookmania a été pour moi un soutien scolaire mais aussi un soutien moral. Il m'a permis d'être plus confiante face aux difficultés de certaines matières et surtout à aimer travailler. Merci à Ismaïl de nous avoir soutenu, réveillé, quelque fois secoué. Cela nous a permis de réussir haut la main, grâce aux méthodes de travail, aux astuces et aussi au coaching qu'on a pu recevoir. Bachelière Terminale S , promo 2016."
   id: 15
 
-- name: E.Benkirane
+- name: E. Benkirane
   text: "Si je ne m'étais pas inscrit à Bookmania je n'aurais surement pas eu mon Bac. Je remercie alors toute l'équipe de m'avoir coaché et de m'avoir appris les bonnes méthodes pour les maths et la physique chimie ! "
   id: 16
 
@@ -82,6 +82,6 @@
   text: "Bookmania, c'est un endroit où tu viens pour combler tes lacunes, pour aller vers l'avant mais la meilleure des choses c'est que tu finiras par exceller. Les cours se font dans les meilleures conditions. Et je peux vous certifier que vous ne regretterez jamais d'avoir intégré Bookmania !"
   id: 20
 
-- name: Y. Gharib
-  text: "Bookmania c'est tout d'abord une famille, toujours là pour me remonter le moral et m'aider à surmonter mes difficultés. Au fil du temps, j'ai acquis LA méthode qui m'allait le mieux et que je mets en pratique jusqu'à ce jour. L'esprit que j'y ai découvert, et dont je me suis imprégné y est pour beaucoup. L'équipe Bookmania, je ne vous remercierai jamais assez! Youssef. G Etudiant en 3ème année INSA LYON Génie industriel."
-  id: 21
+# - name: Y. Gharib
+#   text: "Bookmania c'est tout d'abord une famille, toujours là pour me remonter le moral et m'aider à surmonter mes difficultés. Au fil du temps, j'ai acquis LA méthode qui m'allait le mieux et que je mets en pratique jusqu'à ce jour. L'esprit que j'y ai découvert, et dont je me suis imprégné y est pour beaucoup. L'équipe Bookmania, je ne vous remercierai jamais assez! Youssef. G Etudiant en 3ème année INSA LYON Génie industriel."
+#   id: 21

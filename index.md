@@ -125,15 +125,15 @@ title: Soutien scolaire à Casablanca
   </section>
 
   <section class="py-5 primary-color">
-    <div class="container offers">
-      <div data-aos="fade-right">
+    <div class="container offers" data-aos="fade-up">
+      <div>
         <h5>
           <strong>SOUTIEN SCOLAIRE : 11 formules, 15 matières.</strong>
         </h5>
         <span>Mettons en place la formule qui vous conviendra !</span>
       </div>
       <br>
-      <a href="#" class="btn btn-white waves-effect waves-light" data-aos="fade-left">
+      <a href="#" class="btn btn-white waves-effect waves-light">
         <strong>Découvrez nos offres</strong>
       </a>
     </div>
@@ -206,6 +206,11 @@ title: Soutien scolaire à Casablanca
                 "{{ site.data.reviews.first.text | split: ' ' | slice: 0, 62 | join }}..."
               </em>
             </p>
+            <p>
+              <a href="{{site.baseurl}}/temoignage.php">
+                Lire plus de témoignages
+              </a>
+            </p>
             <p><strong>{{ site.data.reviews.first.name }}</strong></p>
           </div>
           {% for review in reviews %}
@@ -214,6 +219,11 @@ title: Soutien scolaire à Casablanca
               <em>
                 "{{ review.text | split: ' ' | slice: 0, 62 | join }}..."
               </em>
+            </p>
+            <p>
+              <a href="{{site.baseurl}}/temoignage.php">
+                Lire plus de témoignages
+              </a>
             </p>
             <p><strong>{{ review.name }}</strong></p>
           </div>

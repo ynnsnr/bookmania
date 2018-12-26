@@ -19,7 +19,7 @@ title: Soutien scolaire à Casablanca
 
       <div class="col-12 col-lg-6 mb-5">
         <div class="text-center mb-4">
-          <img src="assets/images/Logo-Famille.png" alt="" height="99">
+          <img src="assets/images/Logo-Famille.png" alt="Famille Actuelle" height="95">
         </div>
         <ul class="list-unstyled pt-2" data-aos="fade-up">
           <li class="mb-4">
@@ -63,7 +63,7 @@ title: Soutien scolaire à Casablanca
 
       <div class="col-12 col-lg-6 mb-5">
         <div class="text-center mb-4">
-          <img src="assets/images/campus-mag.png" alt="Campus Mag" style="box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);">
+          <img src="assets/images/campus-mag.png" alt="Campus Mag" height="95" style="box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);">
         </div>
         <ul class="list-unstyled pt-2" data-aos="fade-up">
           <li>

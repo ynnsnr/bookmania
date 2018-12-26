@@ -44,6 +44,12 @@
       font-weight: 100;
     }
   }
+  a {
+    color: lightgray;
+    &:hover {
+      color: #4285F4;
+    }
+  }
 }
 
 .carousel-caption {

@@ -7,19 +7,16 @@ title: Soutien scolaire à Casablanca
 ---
 <main id="temoignage">
 
-  <section class="mt-5 pt-5">
+  <section class="mt-4 mt-sm-5 pt-5">
     <div class="container">
 
-      <div class="mt-4">
+      <div class="mt-4 mb-3 mb-sm-4">
         <h1 class="font-weight-normal">
           <strong>Elèves</strong>
         </h1>
-        <!-- <h5> -->
-          <!-- <strong>Elèves</strong> -->
-        <!-- </h5> -->
       </div>
 
-      <div id="carousel-eleves" class="carousel slide d-none d-xl-block" data-ride="carousel">
+      <!-- <div id="carousel-eleves" class="carousel slide d-none d-xl-block" data-ride="carousel">
         <div class="carousel-inner">
 
           <div class="carousel-item mb-2 active">
@@ -30,6 +27,13 @@ title: Soutien scolaire à Casablanca
                 <figure class="snip1533">
                   <figcaption>
                     <blockquote>
+                      <h6 class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                      </h6>
                       <p>
                         {{ eleve.text }}
                       </p>
@@ -52,6 +56,13 @@ title: Soutien scolaire à Casablanca
                 <figure class="snip1533">
                   <figcaption>
                     <blockquote>
+                      <h6 class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                      </h6>
                       <p>
                         {{ eleve.text }}
                       </p>
@@ -75,6 +86,29 @@ title: Soutien scolaire à Casablanca
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="sr-only">Next</span>
         </a>
+      </div> -->
+
+      <!-- <div class="row d-xl-none"> -->
+      <div class="row">
+        <div class="col-sm-12">
+          <div id="customers-testimonials" class="owl-carousel">
+            {% for eleve in site.data.eleves %}
+            <div class="item">
+              <div class="shadow-effect">
+                <h6 class="stars">
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                </h6>
+                <p>{{ eleve.text }}</p>
+              </div>
+              <div class="testimonial-name">{{ eleve.name }}</div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
       </div>
 
     </div>
@@ -82,16 +116,13 @@ title: Soutien scolaire à Casablanca
   <section class="blue-grey lighten-5 mt-5 pb-5">
     <div class="container">
 
-      <!-- <h5 class="container pt-5"> -->
-        <!-- <strong>Parents d'élèves</strong> -->
-      <!-- </h5> -->
-      <div class="pt-5">
+      <div class="pt-5 mb-3 mb-sm-4">
         <h1 class="font-weight-normal">
           <strong>Parents d'élèves</strong>
         </h1>
       </div>
 
-      <div id="carousel-parents" class="container carousel slide d-none d-xl-block" data-ride="carousel">
+      <!-- <div id="carousel-parents" class="container carousel slide d-none d-xl-block" data-ride="carousel">
         <div class="carousel-inner">
 
           <div class="carousel-item mb-2 active">
@@ -102,6 +133,13 @@ title: Soutien scolaire à Casablanca
                 <figure class="snip1533">
                   <figcaption>
                     <blockquote>
+                      <h6 class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                      </h6>
                       <p>
                         {{ parent.text }}
                       </p>
@@ -124,6 +162,13 @@ title: Soutien scolaire à Casablanca
                 <figure class="snip1533">
                   <figcaption>
                     <blockquote>
+                      <h6 class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                      </h6>
                       <p>
                         {{ eleve.text }}
                       </p>
@@ -147,6 +192,29 @@ title: Soutien scolaire à Casablanca
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="sr-only">Next</span>
         </a>
+      </div> -->
+
+      <!-- <div class="row d-xl-none"> -->
+      <div class="row">
+        <div class="col-sm-12">
+          <div id="customers-testimonials" class="owl-carousel">
+            {% for parent in site.data.parents %}
+            <div class="item">
+              <div class="shadow-effect">
+                <h6 class="stars">
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                </h6>
+                <p>{{ parent.text }}</p>
+              </div>
+              <div class="testimonial-name">{{ parent.name }}</div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
       </div>
 
     </div>
@@ -154,16 +222,13 @@ title: Soutien scolaire à Casablanca
   <section class="mb-5">
     <div class="container">
 
-      <!-- <h5 class="pt-5"> -->
-        <!-- <strong>Divers</strong> -->
-      <!-- </h5> -->
-      <div class="pt-5">
+      <div class="pt-5 mb-3 mb-sm-4">
         <h1 class="font-weight-normal">
           <strong>Ami(e)s</strong>
         </h1>
       </div>
 
-      <div id="carousel-amis" class="carousel slide d-none d-xl-block" data-ride="carousel">
+      <!-- <div id="carousel-amis" class="carousel slide d-none d-xl-block" data-ride="carousel">
         <div class="carousel-inner">
 
           <div class="carousel-item mb-2 active">
@@ -174,6 +239,13 @@ title: Soutien scolaire à Casablanca
                 <figure class="snip1533">
                   <figcaption>
                     <blockquote>
+                      <h6 class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                      </h6>
                       <p>
                         {{ parent.text }}
                       </p>
@@ -196,6 +268,13 @@ title: Soutien scolaire à Casablanca
                 <figure class="snip1533">
                   <figcaption>
                     <blockquote>
+                      <h6 class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                      </h6>
                       <p>
                         {{ ami.text }}
                       </p>
@@ -219,6 +298,29 @@ title: Soutien scolaire à Casablanca
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="sr-only">Next</span>
         </a>
+      </div> -->
+
+      <!-- <div class="row d-xl-none"> -->
+      <div class="row">
+        <div class="col-sm-12">
+          <div id="customers-testimonials" class="owl-carousel">
+            {% for ami in site.data.amis %}
+            <div class="item">
+              <div class="shadow-effect">
+                <h6 class="stars">
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                </h6>
+                <p>{{ ami.text }}</p>
+              </div>
+              <div class="testimonial-name">{{ ami.name }}</div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
       </div>
 
     </div>

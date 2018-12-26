@@ -7,7 +7,7 @@ title: Soutien scolaire à Casablanca
 ---
 <main id="nos-metiers">
 
-  <section class="container mt-5 pt-5 pb-4">
+  <section class="container mt-4 mt-sm-5 pt-5 pb-4">
     <div class="mt-4">
       <h1 class="font-weight-normal">
         <strong>Orientation Post-Bac</strong>

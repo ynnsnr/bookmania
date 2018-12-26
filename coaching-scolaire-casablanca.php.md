@@ -7,7 +7,7 @@ title: Soutien scolaire à Casablanca
 ---
 <main id="nos-metiers" class="coaching-scolaire">
 
-  <section class="container mt-5 py-5">
+  <section class="container mt-4 mt-sm-5 py-5">
     <div class="mt-4">
       <h1 class="font-weight-normal mb-4">
         <strong>Coaching au service de l'éducation</strong>

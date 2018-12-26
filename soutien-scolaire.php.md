@@ -7,7 +7,7 @@ title: Soutien scolaire à Casablanca
 ---
 <main id="nos-metiers">
 
-  <section class="container mt-5 py-5">
+  <section class="container mt-4 mt-sm-5 py-5">
     <div class="mt-4">
       <h1 class="font-weight-normal">
         <strong>Soutien scolaire</strong>
