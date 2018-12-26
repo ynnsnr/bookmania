@@ -1,9 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
-title: Soutien scolaire à Casablanca
+title: Soutien scolaire
 ---
 <main id="nos-metiers">
 
@@ -35,7 +32,7 @@ title: Soutien scolaire à Casablanca
     </div>
   </section>
 
-  <section class="formulas-titles pt-5 pb-5 blue-grey lighten-5">
+  <section class="formulas-titles pt-5 pb-4 blue-grey lighten-5">
     <div class="container">
 
       <h4 class="mb-4">
@@ -120,7 +117,17 @@ title: Soutien scolaire à Casablanca
         </div>
 
       </div>
+
     </div>
+  </section>
+
+  <section class="container my-4 d-flex justify-content-between align-items-center" data-aos="fade-up">
+    <h4>
+      <strong>SOUTIEN SCOLAIRE</strong> : 11 formules, 15 matières
+    </h4>
+    <a href="{{site.baseurl}}/nosoffres.php" class="btn btn-white btn-outline-primary">
+      <strong>Découvrez nos offres</strong>
+    </a>
   </section>
 
 </main>

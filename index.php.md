@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: Soutien scolaire à Casablanca
 ---
@@ -41,7 +38,7 @@ title: Soutien scolaire à Casablanca
           <!-- Card image -->
           <div class="view view-cascade overlay">
             <img class="card-img-top" src="assets/images/photo-1523240795612-9a054b0db644.jpg" alt="Card image cap">
-            <a href="#">
+            <a href="{{site.baseurl}}/soutien-scolaire.php">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>
           </div>
@@ -56,7 +53,7 @@ title: Soutien scolaire à Casablanca
             <p class="card-text">Tous niveaux, Toutes matières</p>
 
             <!-- Button -->
-            <a class="btn btn-outline-primary waves-effect waves-light">
+            <a href="{{site.baseurl}}/soutien-scolaire.php" class="btn btn-outline-primary waves-effect waves-light">
               <strong>Lire la suite</strong>
             </a>
           </div>
@@ -69,7 +66,7 @@ title: Soutien scolaire à Casablanca
           <!-- Card image -->
           <div class="view view-cascade overlay">
             <img class="card-img-top" src="assets/images/photo-1492538368677-f6e0afe31dcc.jpg" alt="Card image cap">
-            <a href="#">
+            <a href="{{site.baseurl}}/tests-et-concours.php">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>
           </div>
@@ -83,7 +80,7 @@ title: Soutien scolaire à Casablanca
             <!-- Title -->
             <p class="card-text">Les clés de la réussite</p>
             <!-- Button -->
-            <a class="btn btn-outline-primary waves-effect waves-light">
+            <a href="{{site.baseurl}}/tests-et-concours.php" class="btn btn-outline-primary waves-effect waves-light">
               <strong>Lire la suite</strong>
             </a>
           </div>
@@ -96,7 +93,7 @@ title: Soutien scolaire à Casablanca
           <!-- Card image -->
           <div class="view view-cascade overlay">
             <img class="card-img-top" src="assets/images/photo-1529154631088-a0e516571c60.jpg" alt="Card image cap">
-            <a href="#">
+            <a href="{{site.baseurl}}/centre-langues.php">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>
           </div>
@@ -113,7 +110,7 @@ title: Soutien scolaire à Casablanca
               Facilitez l'apprentissage des langues
             </p>
             <!-- Button -->
-            <a class="btn btn-outline-primary waves-effect waves-light">
+            <a href="{{site.baseurl}}/centre-langues.php" class="btn btn-outline-primary waves-effect waves-light">
               <strong>Lire la suite</strong>
             </a>
           </div>
@@ -133,7 +130,7 @@ title: Soutien scolaire à Casablanca
         <span>Mettons en place la formule qui vous conviendra !</span>
       </div>
       <br>
-      <a href="#" class="btn btn-white waves-effect waves-light">
+      <a href="{{site.baseurl}}/nosoffres.php" class="btn btn-white waves-effect waves-light">
         <strong>Découvrez nos offres</strong>
       </a>
     </div>
@@ -179,7 +176,7 @@ title: Soutien scolaire à Casablanca
         </div>
       </div>
       <!-- Button -->
-      <a href="#" class="btn btn-outline-primary waves-effect waves-light">
+      <a href="{{site.baseurl}}/contactez-nous.php" class="btn btn-outline-primary waves-effect waves-light">
         <strong>Obtenez votre devis</strong>
       </a>
     </div>

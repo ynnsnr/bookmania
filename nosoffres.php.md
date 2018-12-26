@@ -1,9 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
-title: Soutien scolaire à Casablanca
+title: Les offres Bookmania
 ---
 <main id="nos-offres">
 
@@ -133,7 +130,7 @@ title: Soutien scolaire à Casablanca
                 Nous recevons votre enfant 3 à 4 fois par semaine au centre pendant une heure et demi, où il sera suivi par une équipe de professeurs pluridisciplinaire.
               </p>
             </div>
-            <a class="btn btn-outline-primary waves-effect waves-light">
+            <a href="{{site.baseurl}}/contactez-nous.php" class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
           </div>
@@ -159,7 +156,7 @@ title: Soutien scolaire à Casablanca
                 Chez Bookmania, nos élèves travaillent en petits effectifs pour garantir une <strong>attention complète de notre équipe pédagogique.</strong> Cela nous permet de déceler rapidement les points de difficultés de l’élève pour s’assurer qu’il puisse continuer à avancer au rythme imposé par son école.
               </p>
             </div>
-            <a class="btn btn-outline-primary waves-effect waves-light">
+            <a href="{{site.baseurl}}/contactez-nous.php" class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
           </div>
@@ -183,7 +180,7 @@ title: Soutien scolaire à Casablanca
                 Au-delà du contenu du cours, le professeur s’attache à la manière d’accompagner l’élève, de le mettre en confiance et de lui donner envie de se surpasser. Les cours ont lieu en centre ou à votre domicile.
               </p>
             </div>
-            <a class="btn btn-outline-primary waves-effect waves-light">
+            <a href="{{site.baseurl}}/contactez-nous.php" class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
           </div>
@@ -207,7 +204,7 @@ title: Soutien scolaire à Casablanca
                 Bookmania offre la possibilité à ces quelques élèves de suivre <strong>un programme spécifique de coaching</strong> qui pourrait les aider à <strong>révéler tout leur potentiel</strong> afin d'obtenir plus que de <strong>bons résultats</strong>, atteindre <strong>l'excellence.</strong> Les places pour ce programme sont limitées et l’inscription doit être validée par notre directeur pédagogique, après un entretien avec les parents et une étude du dossier scolaire de leur enfant. Venez en parler avec nous, l’excellence est une de nos compétences !
               </p>
             </div>
-            <a class="btn btn-outline-primary waves-effect waves-light">
+            <a href="{{site.baseurl}}/contactez-nous.php" class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
           </div>
@@ -233,7 +230,7 @@ title: Soutien scolaire à Casablanca
                 <a href="#">En savoir plus</a>
               </p>
             </div>
-            <a class="btn btn-outline-primary waves-effect waves-light">
+            <a href="{{site.baseurl}}/contactez-nous.php" class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
           </div>
@@ -257,7 +254,7 @@ title: Soutien scolaire à Casablanca
                 Chaque élève adhérant à ce programme de coaching global, se voit attribuer un <strong>interlocuteur dédié</strong> qui suit ses progrès sur <strong>l’ensemble des matières</strong> et oriente ses séances de travail sur une matière ou l’autre <strong>en fonction de ses résultats.</strong> L’élève a <strong>accès de façon illimitée</strong> à son centre de soutien et peut travailler autant de matières qu’il le souhaite avec notre corps professoral, sous la tutelle de son coach dédié.
               </p>
             </div>
-            <a class="btn btn-outline-primary waves-effect waves-light">
+            <a href="{{site.baseurl}}/contactez-nous.php" class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
           </div>
@@ -283,7 +280,7 @@ title: Soutien scolaire à Casablanca
                 Le carnet est <strong>valable pendant toute une année scolaire</strong> et pour toutes les matières. Les séances de cours sont programmées à la demande de l’élève sur rendez-vous auprès de la responsable du planning.
               </p>
             </div>
-            <a class="btn btn-outline-primary waves-effect waves-light">
+            <a href="{{site.baseurl}}/contactez-nous.php" class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
           </div>
@@ -311,7 +308,7 @@ title: Soutien scolaire à Casablanca
                 <a href="#">Télécharger la brochure complète</a>
               </p>
             </div>
-            <a class="btn btn-outline-primary waves-effect waves-light">
+            <a href="{{site.baseurl}}/contactez-nous.php" class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
           </div>
@@ -337,7 +334,7 @@ title: Soutien scolaire à Casablanca
                 En fonction de l’examen à préparer et du profil de l’élève , nous définissions avec lui une stratégie et un plan d’action (volume horaire, fréquence de cours, épreuves blanches en condition d’examen…) pour optimiser les chances de réussite.
               </p>
             </div>
-            <a class="btn btn-outline-primary waves-effect waves-light">
+            <a href="{{site.baseurl}}/contactez-nous.php" class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
           </div>
@@ -361,7 +358,7 @@ title: Soutien scolaire à Casablanca
                 En effet, le TPE, présentant des difficultés certaines en termes de <strong>recherches, réflexions et analyses</strong>, fait souvent peur aux élèves qui n’ont pour la plupart jamais eu à traiter ce type d'épreuve. Chez Bookmania, nous pouvons les accompagner sur ce projet en <strong>les aidant à choisir un thème, définir une méthode de travail, rassembler les informations nécessaires</strong> et les <strong>trier correctement</strong>, pour monter un dossier solide répondant aux exigences de l’épreuve.
               </p>
             </div>
-            <a class="btn btn-outline-primary waves-effect waves-light">
+            <a href="{{site.baseurl}}/contactez-nous.php" class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
           </div>
@@ -385,7 +382,7 @@ title: Soutien scolaire à Casablanca
                 Pour ces profils, nous proposons des <strong>stages intensifs</strong> à n’importe quelle période de l’année et notamment <strong>pendant les vacances scolaires</strong> afin de reconstruire des bases solides pour un nouveau départ serein.
               </p>
             </div>
-            <a class="btn btn-outline-primary waves-effect waves-light">
+            <a href="{{site.baseurl}}/contactez-nous.php" class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
           </div>
@@ -409,7 +406,7 @@ title: Soutien scolaire à Casablanca
                 Notre approche pédagogique est avant tout ludique. A travers des jeux, elle vise à renforcer les acquis et permet à votre enfant de maîtriser les rouages de l’arabe classique, tout en s’amusant. Les cours ont lieu en petits groupes (4 élèves maximum). Les enfants bénéficient d’un encadrement personnalisé quel que soit leur niveau. Venez rencontrer nos professeurs d’arabe. Ils se feront un plaisir de vous expliquer notre démarche pédagogique en détails.
               </p>
             </div>
-            <a class="btn btn-outline-primary waves-effect waves-light">
+            <a href="{{site.baseurl}}/contactez-nous.php" class="btn btn-outline-primary waves-effect waves-light">
               <strong>Obtenir votre devis</strong>
             </a>
           </div>

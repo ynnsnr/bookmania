@@ -1,9 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
-title: Soutien scolaire à Casablanca
+title: Centre de Langues
 ---
 <main id="nos-metiers" class="centre-langues">
 

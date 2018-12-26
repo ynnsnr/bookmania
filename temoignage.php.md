@@ -1,16 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
-title: Soutien scolaire à Casablanca
+title: Témoignages Bookmania
 ---
 <main id="temoignage">
 
   <section class="mt-4 mt-sm-5 pt-5">
     <div class="container">
 
-      <div class="mt-4 mb-3 mb-sm-4">
+      <div class="mt-4 mb-4">
         <h1 class="font-weight-normal">
           <strong>Elèves</strong>
         </h1>
@@ -90,7 +87,7 @@ title: Soutien scolaire à Casablanca
 
       <!-- <div class="row d-xl-none"> -->
       <div class="row">
-        <div class="col-sm-12">
+        <div class="col-12 owl">
           <div id="customers-testimonials" class="owl-carousel">
             {% for eleve in site.data.eleves %}
             <div class="item">
@@ -113,10 +110,11 @@ title: Soutien scolaire à Casablanca
 
     </div>
   </section>
+
   <section class="blue-grey lighten-5 mt-5 pb-5">
     <div class="container">
 
-      <div class="pt-5 mb-3 mb-sm-4">
+      <div class="pt-4 pt-sm-5 mb-4">
         <h1 class="font-weight-normal">
           <strong>Parents d'élèves</strong>
         </h1>
@@ -196,7 +194,7 @@ title: Soutien scolaire à Casablanca
 
       <!-- <div class="row d-xl-none"> -->
       <div class="row">
-        <div class="col-sm-12">
+        <div class="col-12 owl">
           <div id="customers-testimonials" class="owl-carousel">
             {% for parent in site.data.parents %}
             <div class="item">
@@ -219,10 +217,11 @@ title: Soutien scolaire à Casablanca
 
     </div>
   </section>
+
   <section class="mb-5">
     <div class="container">
 
-      <div class="pt-5 mb-3 mb-sm-4">
+      <div class="pt-4 pt-sm-5 mb-4">
         <h1 class="font-weight-normal">
           <strong>Ami(e)s</strong>
         </h1>
@@ -302,7 +301,7 @@ title: Soutien scolaire à Casablanca
 
       <!-- <div class="row d-xl-none"> -->
       <div class="row">
-        <div class="col-sm-12">
+        <div class="col-12 owl">
           <div id="customers-testimonials" class="owl-carousel">
             {% for ami in site.data.amis %}
             <div class="item">
@@ -340,4 +339,3 @@ title: Soutien scolaire à Casablanca
   </section>
 
 </main>
-
