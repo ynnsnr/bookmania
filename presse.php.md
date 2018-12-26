@@ -1,0 +1,91 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+title: Soutien scolaire à Casablanca
+---
+<main id="presse">
+
+  <section class="container mt-5 pt-5 pb-4">
+
+    <div class="mt-4 mb-5">
+      <h1 class="font-weight-normal">
+        <strong style="color: #64686c;">Presse</strong>
+      </h1>
+    </div>
+
+    <div class="row text-center">
+      <div class="col-12 col-lg-6 mb-5">
+        <div class="text-center mb-4">
+          <img src="assets/images/Logo-Famille.png" alt="" height="99">
+        </div>
+        <ul class="list-unstyled">
+          <li class="mb-4">
+            <a href="{{site.baseurl}}/assets/pdf/Avril-17.pdf" target="_blank">
+              <strong>Avril 2017</strong>
+              <i class="fas fa-file-pdf"></i>
+              <div>
+                « Un trimestre pour sauver l’année ? C’est possible ! »
+              </div>
+            </a>
+          </li>
+          <li class="mb-4">
+            <a href="{{site.baseurl}}/assets/pdf/Novembre-16.pdf" target="_blank">
+              <strong>Novembre 2016</strong>
+              <i class="fas fa-file-pdf"></i>
+              <div>
+                « Il refuse de faire ses devoirs Les conseils d’un expert »
+              </div>
+            </a>
+          </li>
+          <li class="mb-4">
+            <a href="{{site.baseurl}}/assets/pdf/Octobre-16.pdf" target="_blank">
+              <strong>Octobre 2016</strong>
+              <i class="fas fa-file-pdf"></i>
+              <div>
+                « Etre bon en maths, cela s’apprend »
+              </div>
+            </a>
+          </li>
+          <li class="mb-4">
+            <a href="{{site.baseurl}}/assets/pdf/novembre-12.pdf" target="_blank">
+              <strong>Novembre 2012</strong>
+              <i class="fas fa-file-pdf"></i>
+              <div>
+                « Méthodes alternatives pour élèves en difficulté »
+              </div>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-12 col-lg-6 mb-5">
+        <div class="text-center mb-4">
+          <img src="assets/images/campus-mag.png" alt="Campus Mag" style="box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);">
+        </div>
+        <ul class="list-unstyled">
+          <li>
+            <strong>Mars 2017</strong>
+            <p>
+              « 8 choses à savoir sur le test d’entrée à la mission »
+            </p>
+          </li>
+          <li>
+            <strong>Juillet 2016</strong>
+            <p>
+              « Soutien scolaire : Nous apportons à nos élèves tout ce que l’école ne peut plus apporter »
+            </p>
+          </li>
+          <li>
+            <strong>Juillet 2016</strong>
+            <p>
+              « Cours en ligne : Les Mathématiques 2.0, enseignées par un ingénieur marocain »
+            </p>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+</main>
+

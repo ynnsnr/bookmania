@@ -9,3 +9,12 @@
     box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);
   }
 }
+
+#presse {
+  a {
+    color: #4f4f4f;
+    &:hover {
+      color: #007bff;
+    }
+  }
+}
