@@ -32,7 +32,7 @@ title: Soutien scolaire à Casablanca
     </p>
   </section>
 
-  <section class="pt-5 pb-5 blue-grey lighten-5">
+  <section class="pt-5 pb-3 blue-grey lighten-5">
     <div class="container">
       <div class="row justify-content-center">
 
