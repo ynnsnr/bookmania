@@ -10,9 +10,9 @@ title: Soutien scolaire à Casablanca
   <section class="container mt-5 pt-5 pb-4">
 
     <div class="mt-4 mb-5">
-      <h1 class="font-weight-normal">
-        <strong style="color: #64686c;">Presse</strong>
-      </h1>
+      <!-- <h1 class="font-weight-normal"> -->
+        <!-- <strong style="color: #64686c;">Presse</strong> -->
+      <!-- </h1> -->
     </div>
 
     <div class="row text-center">

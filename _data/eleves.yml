@@ -1,0 +1,87 @@
+- name: A. Kabbaj
+  text: "J'ai connu Bookmania à ses débuts et j'ai tout de suite remarqué à quel point Ismail était quelqu'un de spécial et déterminé. J'ai rarement rencontré quelqu'un d'aussi impliqué dans la réussite de ses élèves. De plus, Ismail est une personne d'une grande honnêteté et franchise, qui ne passera pas par 4 chemins pour dire ce qu'il pense, ce qui à mon sens, est une grande qualité. Enfin, je souhaite mettre en avant le lien de proximité qu'Ismail et ses équipes réussissent à créer avec les élèves. Pour toutes ces raisons, je recommande Bookmania !"
+  id: 0
+
+- name: B. Simo
+  text: "C’est rare de trouver un centre prêt à tout pour atteindre l’objectif de ses élèves. La pédagogie des professeurs, leur passion et leur exigence m’a permis d’atteindre un niveau en physique et en mathématique dont je ne soupçonnais même pas la faisabilité. En plus de ça, Bookmania me permettait de pouvoir passer au centre afin de réaliser mes exercices et d’avoir la possibilité de comprendre mes erreurs sur place avec l’aide d’un professeur ! Merci Ismail et à toutes l’équipe de Bookmania !!!"
+  id: 1
+
+- name: A. Sekkat
+  text: "Bookmania a été l’équipe qui a su me donner confiance en moi. C’est un état d’esprit et une expérience humaine dont on sort grandi. La plus grande preuve de satisfaction est la recommandation. Dans mon cas, je recommande vivement Bookmania aux personnes qui ont pour volonté de progresser et de réussir avec brio. Merci Bookmania !"
+  id: 2
+
+- name: O. Tajeddine
+  text: "J’ai rejoins Bookmania au début de mes années de collège et ainsi continuer à fréquenter ce centre jusqu’à l’obtention de mon baccalauréat. Bookmania a su me fournir les armes d’ont j’avais besoin pour réussir mes études avec une équipe pédagogique et un directeur à l écoute de chaque élève, j’ai réussi à me surpasser au fil des années et à mieux appréhender mes cours tout cela dans une superbe ambiance dont je ne garde que de très bons souvenirs."
+  id: 3
+
+- name: A. Tazi
+  text: "J'ai été à Bookmania depuis mon année de 5eme, c'est non seulement un centre de soutien scolaire mais également un endroit où l'ambiance de travail est top, mes efforts et ceux de Ismail Boukili ont payé puisque j'ai eu 15 au bac, ES spé maths, une note que je n'aurai jamais espérer avoir seule en vue de mon amour inconditionnel pour les maths..."
+  id: 4
+
+- name: S. Bouayad
+  text: "Je suis une ancienne élève de Bookmania . J’ai eu mon bac Es spécialité Economie au lycée Lyautey il y a déjà 10 ans et si Ismail n’avait pas été là pour m’épauler et rendre les mathématiques plus ludique et plus facile pour moi je n’aurais sans doute pas eu la moyenne. Je recommande Bookmania pour son sérieux et son implication auprès des élèves en difficultés."
+  id: 5
+
+- name: S. Akouz
+  text: "Pour ma part Bookmania, est un établissement excellent. Il y’a une réelle cohésion entre les profs et les élèves, et surtout un réel suivi. Les profs sont très attentifs, et arrivent facilement à faire disparaitre nos lacunes. Hormis une méthode de travail rigoureuse, il y’a également un réel suivi psychologique, qui est très important, lorsqu’il s’agit de l’année du bac, où la motivation et l’encouragement sont nécessaires."
+  id: 6
+
+- name: M. Moumile
+  text: "J'ai rejoint Bookmania au tout début de mon lycée et j'en sors totalement satisfait. Non seulement mes lacunes disparaissaient, mais j'ai aussi pris goût aux mathématiques, et ce, grâce à l'enseignement de Mr.Boukili. J'ai rarement rencontré un professeur aussi flexible. Sa pédagogie m'a réellement aidé à fonder de bonnes bases en mathématiques. Je vous le recommande vivement. J'embrasse toute la famille Bookmania !"
+  id: 7
+
+- name: G. Chraibi
+  text: "Impossible est un mot qui n'existe pas chez Bookmania. Par le travail, la persévérance, vos problèmes du passé deviendront vos jeux favoris. La proximité prof-élève et le choix minutieux des exercices à faire font que vous êtes complètement rodés à résoudre n'importe quel exercice le jour J sans aucun stress. Aujourd'hui grâce à Bookmania, je peux dire : \"Je kiffe les maths\""
+  id: 8
+
+- name: Y. Mlih
+  text: "Ton \"prof\" peut-il être ton \"pote\" ?? La réponse est oui ! Ismail Boukili, avec son équipe, offre une expérience particulière de l'apprentissage. Dans un cadre où la sympathie est reine, j'ai eu le plaisir d'évoluer de la Seconde à la Terminal S, grâce à un accompagnement pédagogique original et personnalisé. Malgré l'obtention de mon Baccalauréat il y a déjà 4 ans, je reviens encore régulièrement pour des conseils, qu'Ismail Boukili ne me refuse jamais !!"
+  id: 9
+
+- name: M. El Honsali
+  text: "As a former IGCSE/ A Level student I have had several difficulties in both maths and physics. Before having knowledge of Bookmania I have taken exams and unfortunately, I failed and had to retake them the following year. After integrating Bookmania, I have benefited from individual tutoring lessons and have acquired a whole new studying strategy that has allowed me to pass my exams. I want to thank, from the bottom of my heart, every member of Bookmania that has allowed me to achieve my goals because without them I wouldn't have been able to and I wish them the best of luck. A proud student of Bookmania."
+  id: 10
+
+- name: R. Fatim
+  text: "J'ai eu mon bac il y a deux ans. Je n'avais aucun plaisir a étudier les Maths. Je n'avais pas de bases solides, les maths étaient pour moi, un calvaire. Avec des profs exceptionnels, tout parait tellement simple, fluide... J'avais beau avoir des profs à la maison, m'inscrire à d'autres centres de soutien...Rien à voir! Je fais du droit maintenant et pourtant j'aime encore les probas. C'est fou non? C'est un esprit, une rigueur, un raisonnement que nous apprend Bookmania. Mille merci à toute l'équipe!"
+  id: 11
+
+- name: N. Jmili
+  text: "C'est grâce à Bookmania que j'ai eu mon bac ! Des professeurs d'une grande qualité et d'une gentillesse sans pareil ! A Bookmania j'ai découvert une nouvelle manière d'apprendre ! Merci Bookmania de m'avoir encouragé et cru en moi ! Merci de m'avoir poussé ! Je le recommande à tout le monde ! Très bonne continuation !"
+  id: 12
+
+- name: H. Mohib
+  text: "J'ai suivi les Cours à Bookmania en Terminale S spécialité mathématiques. Cette école m'a permis d'obtenir mon bac avec une mention très bien. Mais plus que cela, grâce à Bookmania j'ai acquis de nombreuses bases qui me seront utiles tout au long de ma vie. L'équipe pédagogique arrive à allier sérieux et bonne humeur. Fini le bourrage de crâne! Bookmania ne vous force pas à apprendre, elle vous en donne l'envie. Très bon environnement que je recommande fortement."
+  id: 13
+
+- name: A. Allali
+  text: "Bookmania m'a franchement beaucoup servi, on adopte une très bonne méthode de travail et ça se voit sur les notes du bac. Je me rappelle du cours où le professeur nous demandait les notes qu'on pensait avoir à l'épreuve de maths et il m'avait dit que je pouvais facilement avoir plus que mes espérances et ça a été le cas, j'ai eu 18/20 à l'épreuve de Maths en Terminale S. Merci pour cette bonne année passée là-bas, à rigoler mais aussi à bosser !!!"
+  id: 14
+
+- name: I. El younsi
+  text: "Bookmania a été pour moi un soutien scolaire mais aussi un soutien moral. Il m'a permis d'être plus confiante face aux difficultés de certaines matières et surtout à aimer travailler. Merci à Ismaïl de nous avoir soutenu, réveillé, quelque fois secoué. Cela nous a permis de réussir haut la main, grâce aux méthodes de travail, aux astuces et aussi au coaching qu'on a pu recevoir. Bachelière Terminale S , promo 2016."
+  id: 15
+
+- name: E.Benkirane
+  text: "Si je ne m'étais pas inscrit à Bookmania je n'aurais surement pas eu mon Bac. Je remercie alors toute l'équipe de m'avoir coaché et de m'avoir appris les bonnes méthodes pour les maths et la physique chimie ! "
+  id: 16
+
+- name: S. Mrimi
+  text: "Jamais je n'aurais cru comprendre les maths et la physique aussi facilement et progresser autant. Cette année à Bookmania a juste été formidable, j'ai repris plaisir à faire des maths et ça c'est vraiment génial. Je garderai de très bons souvenir de mon année de terminale dont j'ai passé la moitié du temps à Bookmania, merci pour tout!"
+  id: 17
+
+- name: S. Rodriguez
+  text: "Bookmania m'a tout simplement réconcilié avec les maths. J'ai fait appel à leur professionnalisme lorsque j'étais en Terminale ES, je suis arrivée avec un petit 10 de moyenne. J'ai repris le goût du travail et de la rigueur, indispensable à la réussite. Résultat: 18/20 en maths au Bac (avec mention TB et sans prétention hein). Merci Bookmania à très vite !"
+  id: 18
+
+- name: M. Sedki
+  text: "Bookmania, ça n'a rien à voir avec les cours particuliers à la maison. Les cours sont très vivants et grâce à cette façon d'aborder les leçons, on comprend beaucoup mieux et beaucoup plus vite. Depuis que je suis à Bookmania, je prends de plus en plus de plaisir à étudier les maths et la physique, et quand on y prend goût, évidemment les notes suivent!!! Merci à toute l'équipe de Bookmania."
+  id: 19
+
+- name: A. Taki
+  text: "Bookmania, c'est un endroit où tu viens pour combler tes lacunes, pour aller vers l'avant mais la meilleure des choses c'est que tu finiras par exceller. Les cours se font dans les meilleures conditions. Et je peux vous certifier que vous ne regretterez jamais d'avoir intégré Bookmania !"
+  id: 20
+
+- name: Y. Gharib
+  text: "Bookmania c'est tout d'abord une famille, toujours là pour me remonter le moral et m'aider à surmonter mes difficultés. Au fil du temps, j'ai acquis LA méthode qui m'allait le mieux et que je mets en pratique jusqu'à ce jour. L'esprit que j'y ai découvert, et dont je me suis imprégné y est pour beaucoup. L'équipe Bookmania, je ne vous remercierai jamais assez! Youssef. G Etudiant en 3ème année INSA LYON Génie industriel."
+  id: 21
