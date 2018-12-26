@@ -5,7 +5,7 @@
 layout: default
 title: Soutien scolaire à Casablanca
 ---
-<main id="nos-offres" class="mb-0 pb-0">
+<main id="nos-offres">
 
   <section class="container mt-4 mt-sm-5 py-5">
     <h1 class="mt-4 mb-4 font-weight-normal">
@@ -119,7 +119,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula1" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="https://images.unsplash.com/photo-1529390079861-591de354faf5"/>
+            <img src="assets/images/photo-1529390079861-591de354faf5.jpeg">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -143,7 +143,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula2" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="https://images.unsplash.com/photo-1516321497487-e288fb19713f"/>
+            <img src="assets/images/photo-1516321497487-e288fb19713f.jpeg"/>
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -169,7 +169,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula3" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="assets/images/aide-aux-devoir.png"/>
+            <img src="assets/images/aide-aux-devoir.png">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -193,7 +193,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula4" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="https://images.unsplash.com/photo-1523580846011-d3a5bc25702b"/>
+            <img src="assets/images/photo-1523580846011-d3a5bc25702b.jpeg">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -217,7 +217,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula5" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="https://images.unsplash.com/photo-1524646514133-d392bcf4e8b9"/>
+            <img src="assets/images/photo-1524646514133-d392bcf4e8b9.jpeg">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -243,7 +243,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula6" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40"/>
+            <img src="assets/images/photo-1454165804606-c3d57bc86b40.jpeg">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -267,7 +267,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula7" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="https://images.unsplash.com/photo-1435527173128-983b87201f4d"/>
+            <img src="assets/images/photo-1435527173128-983b87201f4d.jpeg">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -293,7 +293,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula8" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="https://images.unsplash.com/photo-1460518451285-97b6aa326961"/>
+            <img src="assets/images/photo-1460518451285-97b6aa326961.jpeg">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -321,7 +321,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula9" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173"/>
+            <img src="assets/images/photo-1434030216411-0b793f4b4173.jpeg">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -347,8 +347,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula10" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="https://images.unsplash.com/photo-1453733190371-0a9bedd82893"
-            />
+            <img src="assets/images/photo-1453733190371-0a9bedd82893.jpeg">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -372,8 +371,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula11" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="https://images.unsplash.com/photo-1476304884326-cd2c88572c5f"/>
-            <!-- https://images.unsplash.com/photo-1503676382389-4809596d5290 -->
+            <img src="assets/images/photo-1476304884326-cd2c88572c5f.jpeg">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -397,7 +395,7 @@ title: Soutien scolaire à Casablanca
       <div id="formula12" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="https://images.unsplash.com/photo-1535552081922-631f7dea1e9d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"/>
+            <img src="assets/images/photo-1535552081922-631f7dea1e9d.jpeg">
           </header>
           <div class="card-body">
             <div class="card__body">

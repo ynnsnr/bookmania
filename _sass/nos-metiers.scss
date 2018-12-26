@@ -1,5 +1,10 @@
-#soutien-scolaire strong {
-  color: #64686c;
+#nos-metiers {
+  strong {
+    color: #64686c;
+  }
+    p strong {
+    font-weight: 600;
+  }
 }
 
 .subjects-grid {
@@ -7,10 +12,7 @@
   grid-template-columns: repeat(auto-fill, 343px);
 }
 
-#tests-et-concours {
-  strong {
-    color: #64686c;
-  }
+.tests-et-concours {
   .card-img-top {
     height: 100%;
     object-fit: cover;
@@ -25,31 +27,13 @@
   }
 }
 
-#orientation-scolaire {
-  strong {
-    color: #64686c;
-  }
-  p strong {
+.coaching-scolaire {
+  li strong {
     font-weight: 600;
   }
 }
 
-#coaching-scolaire {
-  strong {
-    color: #64686c;
-  }
-  p strong, li strong {
-    font-weight: 600;
-  }
-}
-
-#centre-langues {
-  strong {
-    color: #64686c;
-  }
-  p strong {
-    font-weight: 600;
-  }
+.centre-langues {
   h2 {
     position: absolute;
     z-index: 1;

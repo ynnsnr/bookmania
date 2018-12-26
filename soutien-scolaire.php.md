@@ -5,7 +5,7 @@
 layout: default
 title: Soutien scolaire à Casablanca
 ---
-<main id="soutien-scolaire" class="mb-0 pb-0">
+<main id="nos-metiers">
 
   <section class="container mt-5 py-5">
     <div class="mt-4">
@@ -17,7 +17,7 @@ title: Soutien scolaire à Casablanca
       <div class="col-12 col-lg-7 col-xl-8">
         <h5 class="pb-4"><strong>Accompagnement de bout en bout</strong></h5>
         <p class="pr-xl-5 pr-lg-2">
-          Prenez <strong>la liberté</strong> de choisir le système d’enseignement qui vous correspond et confiez nous l’accompagnement de vos enfants en soutien scolaire.
+          Prenez <strong>la liberté</strong> de choisir le système d’enseignement qui vous correspond et confiez-nous l’accompagnement de vos enfants en soutien scolaire.
           <br><br>
           Depuis <strong>plus de 10 ans</strong> que nous opérons dans le secteur du soutien et de l’accompagnement scolaire, nous avons toujours placé <strong>l’élève au centre de notre vision</strong>. Avec une dizaine d’offres différentes, nous sommes en mesure de vous proposer celle qui <strong>s’adaptera au mieux au profil de votre enfant</strong>.
           <br><br>

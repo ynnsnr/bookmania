@@ -16,11 +16,12 @@ title: Soutien scolaire à Casablanca
     </div>
 
     <div class="row text-center">
+
       <div class="col-12 col-lg-6 mb-5">
         <div class="text-center mb-4">
           <img src="assets/images/Logo-Famille.png" alt="" height="99">
         </div>
-        <ul class="list-unstyled">
+        <ul class="list-unstyled pt-2" data-aos="fade-up">
           <li class="mb-4">
             <a href="{{site.baseurl}}/assets/pdf/Avril-17.pdf" target="_blank">
               <strong>Avril 2017</strong>
@@ -59,11 +60,12 @@ title: Soutien scolaire à Casablanca
           </li>
         </ul>
       </div>
+
       <div class="col-12 col-lg-6 mb-5">
         <div class="text-center mb-4">
           <img src="assets/images/campus-mag.png" alt="Campus Mag" style="box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);">
         </div>
-        <ul class="list-unstyled">
+        <ul class="list-unstyled pt-2" data-aos="fade-up">
           <li>
             <strong>Mars 2017</strong>
             <p>
@@ -84,7 +86,9 @@ title: Soutien scolaire à Casablanca
           </li>
         </ul>
       </div>
+
     </div>
+
   </section>
 
 </main>

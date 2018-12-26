@@ -5,7 +5,7 @@
 layout: default
 title: Soutien scolaire à Casablanca
 ---
-<main id="coaching-scolaire" class="mb-0 pb-0">
+<main id="nos-metiers" class="coaching-scolaire">
 
   <section class="container mt-5 py-5">
     <div class="mt-4">
