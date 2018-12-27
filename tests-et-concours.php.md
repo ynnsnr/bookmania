@@ -4,13 +4,13 @@ title: Préparation aux tests et concours
 ---
 <main id="nos-metiers" class="tests-et-concours">
 
-  <section class="container mt-4 mt-sm-5 py-5">
+  <section class="container mt-4 mt-sm-5 pt-5 pb-4 pb-sm-5">
     <div class="mt-4">
       <h1 class="font-weight-normal">
         <strong>Tests et concours</strong>
       </h1>
     </div>
-    <h5 class="pb-4"><strong>Les clés de la réussite</strong></h5>
+    <h5 class="pb-3 pb-sm-4"><strong>Les clés de la réussite</strong></h5>
     <p>
       Que ce soit en cours particuliers ou en stages pour groupe restreint, notre approche nous permet d’outiller au mieux nos élèves pour leur permettre de passer avec succès leurs concours et tests d’accès.
     </p>

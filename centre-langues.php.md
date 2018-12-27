@@ -16,10 +16,19 @@ title: Centre de Langues
     <p>
       Nous proposons trois groupes de niveaux :
     </p>
-    <ul>
-      <li>Débutants</li>
-      <li>Intermédiaires</li>
-      <li>Avancés</li>
+    <ul class="list-unstyled">
+      <li>
+        <i class="fas fa-check mx-3"></i>
+        <strong>Débutants</strong>
+      </li>
+      <li>
+        <i class="fas fa-check mx-3"></i>
+        <strong>Intermédiaires</strong>
+      </li>
+      <li>
+        <i class="fas fa-check mx-3"></i>
+        <strong>Avancés</strong>
+      </li>
     </ul>
     <p>
       L’affectation à l’un de ces groupes se fait à l’issu d’un test de niveau qui se fait lors de l’inscription.

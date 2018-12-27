@@ -17,4 +17,10 @@
       color: #007bff;
     }
   }
+  img {
+    max-height: 99px;
+    max-width: 100%;
+    // max-width: 300px;
+    // object-fit: contain;
+  }
 }

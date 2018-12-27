@@ -45,9 +45,13 @@
     h5 {
       min-height: 48px;
       transition: min-height 0.5s;
+      @media (max-width: 478px) {
+        min-height: 0;
+      }
     }
     p {
       font-size: 14px;
+      margin-bottom: 8px;
     }
     .btn {
       margin: 1.25rem;
@@ -74,7 +78,7 @@
   }
   .card__body {
     height: 200px;
-    padding: 15px;
+    padding: 13px 11px;
     transition: height 0.5s;
   }
   .card:hover .card__body {
@@ -85,6 +89,7 @@
     }
   }
   .card__description {
+    font-size: 13px !important;
     color: #666C74;
     opacity: 0;
     transform: translateY(45px);

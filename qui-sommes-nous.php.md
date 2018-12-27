@@ -13,7 +13,7 @@ title: Présentation Bookmania
     <div class="row">
       <div class="col-12 col-lg-7 mb-4">
         <p class="pr-xl-5 pr-lg-2">
-          <strong>Opérateur majeur du soutien scolaire</strong> et de la formation à Casablanca, BOOKMANIA opère depuis <strong>10 ans</strong> et affiche fièrement un <strong>taux de réussite de 99% </strong>avec mention au baccalauréat et au brevet des collèges.
+          <strong>Opérateur majeur du soutien scolaire</strong> et de la formation à Casablanca, Bookmania opère depuis <strong>10 ans</strong> et affiche fièrement un <strong>taux de réussite de 99% </strong>avec mention au baccalauréat et au brevet des collèges.
         </p>
         <p>
           Depuis 2007, nos 2 centres sur Casablanca ont accueilli et accompagné <strong>plus de 2000 élèves</strong> de la grande section aux cycles d’études supérieurs.

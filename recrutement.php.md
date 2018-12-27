@@ -4,7 +4,7 @@ title: Recrutement Bookmania
 ---
 <main id="qui-sommes-nous">
 
-  <section class="container mt-4 mt-sm-5 py-5">
+  <section class="container mt-4 mt-sm-5 pt-5 pb-4 pb-sm-5">
     <div class="mt-4">
       <h1 class="font-weight-normal">
         <strong>Recrutement</strong>
@@ -12,28 +12,28 @@ title: Recrutement Bookmania
     </div>
     <div class="row">
       <div class="col-12 col-lg-7 col-xl-8">
-        <h5 class="pb-4">
+        <h5 class="pb-3 pb-sm-4">
           <strong>Rejoignez notre équipe pédagogique</strong>
         </h5>
         <p class="pr-xl-5 pr-lg-2">
           Grâce à la confiance des élèves et de leurs parents, Bookmania ne cesse de lancer de <strong>nouveaux projets</strong> et de <strong>grandir</strong> pour répondre à une demande croissante. Nous recherchons continuellement <strong>des talents</strong> pour venir participer avec nous à l’aventure Bookmania et partager nos valeurs avec nos élèves.
         </p>
         <ul class="list-unstyled">
-          <li class="mb-1">
+          <li class="mb-2">
             <i class="fas fa-check mr-2"></i>
             Vous avez de l’expérience dans l’éducation ?
           </li>
-          <li class="mb-1">
+          <li class="mb-2">
             <i class="fas fa-check mr-2"></i>
             Vous voulez intégrer une équipe talentueuse, passionnée et totalement dédiée à l’éducation ?
           </li>
-          <li class="mb-1">
+          <li class="mb-2">
             <i class="fas fa-check mr-2"></i>
             Vous avez envie de participer à une aventure humaine et «challengeante» ?
           </li>
         </ul>
         <p>
-          Si vous avez répondu<strong> OUI</strong> à toutes ces questions, et que vous avez en plus un peu d’humour, vous faites sans doute partie des talents que nous recherchons !
+          Si vous avez répondu<strong> OUI</strong> à toutes ces questions, et que vous avez en plus un peu d’humour, vous faites sans doute partie des talents que nous recherchons!
         </p>
       </div>
       <div class="d-none d-lg-block d-xl-block col-12 col-lg-5 col-xl-4" data-aos="fade-left" data-aos-duration="1000">
@@ -43,7 +43,7 @@ title: Recrutement Bookmania
     </div>
   </section>
 
-  <section class="formulas-titles pt-5 pb-5 blue-grey lighten-5">
+  <section class="pt-5 pb-5 blue-grey lighten-5">
     <div class="container" data-aos="fade-up">
       <div class="row justify-content-center">
         <div class="col-11 col-sm-12 col-md-11 col-lg-10 col-xl-9">

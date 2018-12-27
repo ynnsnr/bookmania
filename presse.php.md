@@ -4,19 +4,17 @@ title: Presse Bookmania
 ---
 <main id="presse">
 
-  <section class="container mt-5 pt-5 pb-4">
+  <section class="container mt-4 pt-4 pt-sm-5 pb-3 pb-sm-4">
 
     <div class="mt-4 mb-5">
-      <!-- <h1 class="font-weight-normal"> -->
-        <!-- <strong style="color: #64686c;">Presse</strong> -->
-      <!-- </h1> -->
+
     </div>
 
     <div class="row text-center">
 
-      <div class="col-12 col-lg-6 mb-5">
+      <div class="col-12 col-lg-6 mb-4 mb-sm-5">
         <div class="text-center mb-4">
-          <img src="assets/images/Logo-Famille.png" alt="Famille Actuelle" height="95">
+          <img src="assets/images/Logo-Famille.png" alt="Famille Actuelle">
         </div>
         <ul class="list-unstyled pt-2" data-aos="fade-up">
           <li class="mb-4">
@@ -58,9 +56,11 @@ title: Presse Bookmania
         </ul>
       </div>
 
-      <div class="col-12 col-lg-6 mb-5">
+      <div class="col-12 col-lg-6 mb-4 mb-sm-5">
         <div class="text-center mb-4">
-          <img src="assets/images/campus-mag.png" alt="Campus Mag" height="95" style="box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);">
+          <div class="img">
+            <img src="assets/images/campus-mag.png" alt="Campus Mag" style="box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);">
+          </div>
         </div>
         <ul class="list-unstyled pt-2" data-aos="fade-up">
           <li>

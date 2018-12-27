@@ -111,7 +111,7 @@ title: Témoignages Bookmania
     </div>
   </section>
 
-  <section class="blue-grey lighten-5 mt-5 pb-5">
+  <section class="blue-grey lighten-5 mt-4 mt-sm-5 pb-4 pb-sm-5">
     <div class="container">
 
       <div class="pt-4 pt-sm-5 mb-4">
@@ -218,7 +218,7 @@ title: Témoignages Bookmania
     </div>
   </section>
 
-  <section class="mb-5">
+  <section class="mb-4 mb-sm-5">
     <div class="container">
 
       <div class="pt-4 pt-sm-5 mb-4">
@@ -325,7 +325,7 @@ title: Témoignages Bookmania
     </div>
   </section>
 
-  <section class="blue-grey lighten-5 py-5">
+  <section class="blue-grey lighten-5 pt-5 pb-4 pb-sm-5">
     <div class="container">
       <h4 class="mb-4">
         <strong class="font-weight-bold">

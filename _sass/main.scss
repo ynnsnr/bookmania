@@ -35,3 +35,27 @@ body {
     color: #64686c;
   }
 }
+
+h1 {
+  @media (max-width: 478px) {
+    font-size: 1.81rem;
+ }
+}
+
+h3 {
+  @media (max-width: 478px) {
+    font-size: 1.7rem;
+ }
+}
+
+h4 {
+  @media (max-width: 478px) {
+    font-size: 1.33rem;
+ }
+}
+
+h6 {
+  @media (max-width: 478px) {
+    font-size: .98rem;
+ }
+}

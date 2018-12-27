@@ -47,6 +47,9 @@
 #customers-testimonials .item {
   text-align: center;
   padding: 1px;
+  @media (max-width: 478px) {
+    padding: 2px;
+  }
   margin-bottom: 40px;
   opacity: .2;
   transform: scale3d(0.8, 0.8, 1);

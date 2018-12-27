@@ -4,13 +4,13 @@ title: Orientation Scolaire Casablanca
 ---
 <main id="nos-metiers">
 
-  <section class="container mt-4 mt-sm-5 pt-5 pb-4">
+  <section class="container mt-4 mt-sm-5 pt-5 pb-sm-4">
     <div class="mt-4">
       <h1 class="font-weight-normal">
         <strong>Orientation Post-Bac</strong>
       </h1>
     </div>
-    <h5 class="pb-4">
+    <h5 class="pb-3 pb-sm-4">
       <strong>Trouver sa voie</strong>
     </h5>
 
@@ -35,9 +35,9 @@ title: Orientation Scolaire Casablanca
         </div>
       </div>
       <div class="col-12 col-lg-7 col-xl-8">
-        <h4>Intérêt d’une bonne orientation post-bac?</h4>
+        <h4>Intérêt d’une bonne orientation post-bac ?</h4>
         <p>
-          Chez BOOKMANIA, nous sommes convaincus qu’un élève au projet d’études correctement défini, devient un <strong>étudiant épanoui</strong> qui a toutes les chances de <strong>réussir</strong> dans la <strong>voie choisie.</strong>
+          Chez Bookmania, nous sommes convaincus qu’un élève au projet d’études correctement défini, devient un <strong>étudiant épanoui</strong> qui a toutes les chances de <strong>réussir</strong> dans la <strong>voie choisie.</strong>
           <br><br>
           Face à une offre qui ouvre la porte à <strong>une multitude de possibilités</strong> de poursuite d’études, les élèves et leurs parents se sentent très souvent perdus. Or, être bien informé est la clé d’une <strong>bonne orientation.</strong>
         </p>
@@ -50,7 +50,7 @@ title: Orientation Scolaire Casablanca
           Comment Bookmania vous accompagne-t-il dans ce passage décisif ?
         </h4>
         <p>
-          Avec plusieurs années d’<strong>expérience en soutien scolaire</strong> et accompagnement d’élèves aux profils très différents, BOOKMANIA a développé une réelle expertise dans le suivi et <strong>l’orientation</strong> des élèves pour leurs études post-bac.
+          Avec plusieurs années d’<strong>expérience en soutien scolaire</strong> et accompagnement d’élèves aux profils très différents, Bookmania a développé une réelle expertise dans le suivi et <strong>l’orientation</strong> des élèves pour leurs études post-bac.
           <br><br>
           Nous sommes conscients de l’importance d’une bonne orientation pour se lancer en confiance dans la vie post-bac. Si les aptitudes spécifiques de chaque élève sont bien définies, celui-ci pourra <strong>exceller</strong> dans le <strong>domaine</strong> qu’il aura choisi.
           <br><br>
@@ -65,16 +65,16 @@ title: Orientation Scolaire Casablanca
 
   </section>
 
-  <section class="py-5 blue-grey lighten-5">
-    <div class="container" data-aos="fade-up">
+  <section class="pt-4 pt-sm-5 pb-4 blue-grey lighten-5">
+    <div class="container">
       <h4 class="font-weight-normal mb-3">
-        <strong>L’offre BOOKMANIA d’orientation post-bac :</strong>
+        <strong>L’offre Bookmania d’orientation post-bac</strong>
       </h4>
       <p>
         Angoisse, manque de temps, flou d’informations, contraintes financières, envies et motivations, parcours personnel… sont autant de paramètres qui peuvent rendre la décision d’orientation particulièrement compliquée pour les parents et leur enfant.
       </p>
       <p>
-        BOOKMANIA peut relever ce défi pour vous et vous libérer complètement de toutes les préoccupations liées à votre projet post-bac :
+        Bookmania peut relever ce défi pour vous et vous libérer complètement de toutes les préoccupations liées à votre projet post-bac :
       </p>
       <ul>
         <li>
@@ -95,22 +95,31 @@ title: Orientation Scolaire Casablanca
       </ul>
       <p>
         Afin de donner un aspect concret à ses futures études et dans le but de l’aider à <strong>faire son choix</strong> en toute connaissance de cause, l’élève aura l’opportunité de rencontrer des étudiants ayant déjà débuté leurs études supérieures et pouvant faire part aux futurs étudiants de leur expérience, leur donner des conseils et leur citer les <strong>pièges à éviter.</strong>
-        Par ailleurs, des échanges avec des professionnels de différentes branches d’activité seront organisés. Ainsi, les jeunes auront <strong>une connaissance pratique des différentes professions</strong> qu’ils envisagent d’embrasser. BOOKMANIA assure le passage aux études supérieures dans la plus grande fluidité pour les parents comme pour leur enfant.
-      </p>
-      <h4 class="font-weight-normal mb-3 mt-5">
-        <strong>
-          Comment souscrire à notre offre d’orientation scolaire ?
-        </strong>
-      </h4>
-      <p>
-        Pour toute demande d’inscription ou d’informations complémentaires,
-        l’ensemble de l’équipe BOOKMANIA se tient à votre disposition :
-        <br>- par téléphone au
-        <a href="tel:+2120522225062">(+212) 05 22 22 50 62</a>
-        <br>- par e-mail à
-        <a href="mailto:contact@bookmania.ma">contact@bookmania.ma</a>
+        Par ailleurs, des échanges avec des professionnels de différentes branches d’activité seront organisés. Ainsi, les jeunes auront <strong>une connaissance pratique des différentes professions</strong> qu’ils envisagent d’embrasser. Bookmania assure le passage aux études supérieures dans la plus grande fluidité pour les parents comme pour leur enfant.
       </p>
     </div>
+  </section>
+
+  <section class="container mb-5 mt-4 mt-sm-5" data-aos="fade-up">
+    <h4 class="font-weight-normal">
+      <strong>
+        Comment souscrire à notre offre d’orientation scolaire ?
+      </strong>
+    </h4>
+    <p>
+      Pour toute demande d’inscription ou d’informations complémentaires,
+      l’ensemble de l’équipe Bookmania se tient à votre disposition :
+      <ul>
+        <li>
+          <i class="mr-2 fas fa-phone"></i>
+          <a href="tel:+2120522225062">(+212) 05 22 22 50 62</a>
+        </li>
+        <li>
+          <i class="mr-2 fas fa-envelope"></i>
+          <a href="mailto:contact@bookmania.ma">contact@bookmania.ma</a>
+        </li>
+      </ul>
+    </p>
   </section>
 
 </main>

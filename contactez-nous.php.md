@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 <main id="contact">
-  <section class="container mt-4 mt-sm-5 py-5">
+  <section class="container mt-4 mt-sm-5 pt-5 pb-4 pb-sm-5">
     <div class="mt-4 mb-4">
       <h1 class="font-weight-normal">
         <strong style="color: #64686c;">Contactez-nous</strong>

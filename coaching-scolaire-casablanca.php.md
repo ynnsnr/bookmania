@@ -4,7 +4,7 @@ title: Soutien Scolaire à Casablanca
 ---
 <main id="nos-metiers" class="coaching-scolaire">
 
-  <section class="container mt-4 mt-sm-5 py-5">
+  <section class="container mt-4 mt-sm-5 pt-5 pb-4 pb-sm-5">
     <div class="mt-4">
       <h1 class="font-weight-normal mb-4">
         <strong>Coaching au service de l'éducation</strong>
@@ -29,7 +29,7 @@ title: Soutien Scolaire à Casablanca
     </div>
   </section>
 
-  <section class="formulas-titles pt-5 pb-5 blue-grey lighten-5">
+  <section class="py-4 py-sm-5 blue-grey lighten-5">
     <div class="container">
       <p>
         Après un premier entretien avec l’enfant et les parents, nous déterminons les axes de travail à adopter et les objectifs du coaching :
