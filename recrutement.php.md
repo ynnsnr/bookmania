@@ -49,34 +49,38 @@ title: Recrutement Bookmania
         <div class="col-11 col-sm-12 col-md-11 col-lg-10 col-xl-9">
           <div class="card mw-100">
             <div class="card-body">
-              <div class="md-form mt-3">
-                <i class="fas fa-user prefix grey-text"></i>
-                <input type="text" id="form-name" class="form-control">
-                <label for="form-name">Nom & Prénom</label>
-              </div>
-              <div class="md-form">
-                <i class="fas fa-envelope prefix grey-text"></i>
-                <input type="text" id="form-email" class="form-control">
-                <label for="form-email">Email</label>
-              </div>
-              <div class="md-form">
-                <i class="fas fa-phone prefix grey-text"></i>
-                <input type="text" id="form-Subject" class="form-control">
-                <label for="form-Subject">N° de téléphone</label>
-              </div>
-              <div class="md-form">
-                <i class="fas fa-pencil-alt prefix grey-text"></i>
-                <textarea type="text" id="form-text" class="form-control md-textarea" rows="3"></textarea>
-                <label for="form-text">Présentez-vous</label>
-              </div>
-                <p class="text-center">
-                  <a href="#">
-                  Ajouter des documents
-                  </a>
-                </p>
-              <div class="text-center">
-                <button class="btn btn-light-blue">Envoyer votre candidature</button>
-              </div>
+              <form action="https://getsimpleform.com/messages?form_api_token=8d2486979bc848a65af1fefa8c9d755b" method="post" enctype="multipart/form-data">
+                <div class="md-form">
+                  <i class="fas fa-user prefix grey-text"></i>
+                  <input type="text" id="form-name" name="name" class="form-control">
+                  <label for="form-name">Nom & Prénom</label>
+                </div>
+                <div class="md-form">
+                  <i class="fas fa-envelope prefix grey-text"></i>
+                  <input type="email" id="form-email" name="email" class="form-control">
+                  <label for="form-email">Email</label>
+                </div>
+                <div class="md-form">
+                  <i class="fas fa-phone prefix grey-text"></i>
+                  <input type="tel" id="form-Subject" name="phone" class="form-control">
+                  <label for="form-Subject">N° de téléphone</label>
+                </div>
+                <div class="md-form">
+                  <i class="fas fa-pencil-alt prefix grey-text"></i>
+                  <textarea type="text" id="form-text" name="message" class="form-control md-textarea"></textarea>
+                  <label for="form-text">Présentez-vous</label>
+                </div>
+                <div class="md-form pb-5">
+                  <i class="fas fa-file prefix grey-text"></i>
+                  <input type="file" id="file" name="file" style="display:none">
+                  <label for="file" id="upload" style="cursor: pointer;">Ajouter un document</label>
+                </div>
+                <div class="text-center">
+                  <button type="submit" class="btn btn-light-blue">
+                    Envoyer votre candidature
+                  </button>
+                </div>
+              </form>
             </div>
           </div>
         </div>
