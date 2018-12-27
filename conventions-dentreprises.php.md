@@ -21,7 +21,7 @@ title: Mot du fondateur
         </p>
       </div>
       <div class="col-12 col-lg-6 mb-2 mb-sm-3 text-center">
-        <img src="https://images.unsplash.com/photo-1525248152312-434c15a82f37" alt="Conventions d'entreprises">
+        <img src="assets/images/photo-1525248152312-434c15a82f37.jpeg" alt="Conventions d'entreprises">
       </div>
     </div>
   </section>

@@ -13,38 +13,36 @@ title: Contact
       <div class="col-lg-5 mb-lg-0 mb-4" data-aos="fade-up">
         <div class="card">
           <div class="card-body">
-            <!-- <div class="form-header accent-1"> -->
-              <!-- <h3 class="mt-2"> -->
-                <!-- <i class="fas fa-envelope"></i> -->
-                <!-- Nous vous rappelons -->
-              <!-- </h3> -->
-            <!-- </div> -->
             <p class="dark-grey-text">
               Laissez votre numéro, nous vous rappelons dans les plus brefs délais.
             </p>
-            <div class="md-form">
-              <i class="fas fa-user prefix grey-text"></i>
-              <input type="text" id="form-name" class="form-control">
-              <label for="form-name">Nom complet</label>
-            </div>
-            <div class="md-form">
-              <i class="fas fa-envelope prefix grey-text"></i>
-              <input type="text" id="form-email" class="form-control">
-              <label for="form-email">Email</label>
-            </div>
-            <div class="md-form">
-              <i class="fas fa-phone prefix grey-text"></i>
-              <input type="text" id="form-Subject" class="form-control">
-              <label for="form-Subject">N° de téléphone</label>
-            </div>
-            <div class="md-form">
-              <i class="fas fa-pencil-alt prefix grey-text"></i>
-              <textarea type="text" id="form-text" class="form-control md-textarea" rows="3"></textarea>
-              <label for="form-text">Message (facultatif)</label>
-            </div>
-            <div class="text-center">
-              <button class="btn btn-light-blue">Envoyer</button>
-            </div>
+            <form action="https://formspree.io/contact@bookmania.ma" method="POST">
+              <div class="md-form">
+                <i class="fas fa-user prefix grey-text"></i>
+                <input type="text" id="form-name" name="Nom" class="form-control">
+                <label for="form-name">Nom complet</label>
+              </div>
+              <div class="md-form">
+                <i class="fas fa-envelope prefix grey-text"></i>
+                <input type="email" id="form-email" name="Email" class="form-control">
+                <label for="form-email">Email</label>
+              </div>
+              <div class="md-form">
+                <i class="fas fa-phone prefix grey-text"></i>
+                <input type="tel" id="form-Subject" name="Téléphone" class="form-control">
+                <label for="form-Subject">N° de téléphone</label>
+              </div>
+              <div class="md-form">
+                <i class="fas fa-pencil-alt prefix grey-text"></i>
+                <textarea type="text" id="form-text" name="Message" class="form-control md-textarea"></textarea>
+                <label for="form-text">Message (facultatif)</label>
+              </div>
+              <div class="text-center">
+                <button type="submit" class="btn btn-light-blue">
+                  ENVOYER
+                </button>
+              </div>
+            </form>
           </div>
         </div>
       </div>
@@ -55,23 +53,33 @@ title: Contact
         </div>
         <div class="row text-center">
           <div class="col-md-4">
-            <a class="btn-floating accent-1">
-              <i class="fas fa-map-marker-alt text-info"></i>
-            </a>
-            <p>51, avenue Hassan Souktani, Quartier Gautier, 20060, Casablanca Maroc</p>
+            <i class="fas fa-map-marker-alt text-muted"></i>
+            <p>
+              <a target="_blank" href="https://goo.gl/maps/qExbRXBoUtz">
+                51, avenue Hassan Souktani, Quartier Gautier, 20060, Casablanca Maroc
+              </a>
+            </p>
           </div>
           <div class="col-md-4">
-            <a class="btn-floating accent-1">
-              <i class="fas fa-envelope text-info"></i>
-            </a>
-            <p>contact@bookmania.ma</p>
+            <i class="fas fa-envelope text-muted"></i>
+            <p>
+              <a href="mailto:contact@bookmania.ma">
+                contact@bookmania.ma
+              </a>
+            </p>
           </div>
           <div class="col-md-4">
-            <a class="btn-floating accent-1">
-              <i class="fas fa-phone text-info"></i>
-            </a>
-            <p>(+212) 05 22 22 50 62</p>
-            <p>(+212) 06 06 06 01 01</p>
+            <i class="fas fa-phone text-muted"></i>
+            <p>
+              <a href="tel:+2120522225062">
+                (+212) 05 22 22 50 62
+              </a>
+            </p>
+            <p>
+              <a href="tel:+2120606060101">
+                (+212) 06 06 06 01 01
+              </a>
+            </p>
           </div>
         </div>
       </div>

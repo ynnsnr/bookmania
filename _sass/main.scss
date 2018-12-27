@@ -31,8 +31,11 @@ body {
 }
 
 #contact {
-  p {
+  p, a {
     color: #64686c;
+  }
+  a:hover {
+    color: #4285F4;
   }
 }
 
