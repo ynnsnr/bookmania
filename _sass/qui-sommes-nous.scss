@@ -7,6 +7,7 @@
   }
   img {
     box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);
+    max-width: 370px;
   }
 }
 
@@ -20,7 +21,5 @@
   img {
     max-height: 99px;
     max-width: 100%;
-    // max-width: 300px;
-    // object-fit: contain;
   }
 }

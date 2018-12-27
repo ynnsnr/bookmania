@@ -89,7 +89,9 @@
     }
   }
   .card__description {
-    font-size: 13px !important;
+    @media (max-width: 478px) {
+      font-size: 13px !important;
+    }
     color: #666C74;
     opacity: 0;
     transform: translateY(45px);
