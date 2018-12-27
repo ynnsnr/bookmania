@@ -2,7 +2,7 @@
 layout: default
 title: Présentation Bookmania
 ---
-<main id="qui-sommes-nous" class="mb-0 pb-0">
+<main id="qui-sommes-nous">
 
   <section class="container mt-4 mt-sm-5 pt-5 pb-5">
     <div class="mt-4 mb-4">

@@ -29,7 +29,7 @@ title: Recrutement Bookmania
           </li>
           <li class="mb-2">
             <i class="fas fa-check mr-2"></i>
-            Vous avez envie de participer à une aventure humaine et «challengeante» ?
+            Vous avez envie de participer à une aventure humaine et <em>challengeante</em> ?
           </li>
         </ul>
         <p>
