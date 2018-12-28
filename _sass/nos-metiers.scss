@@ -5,6 +5,12 @@
     p strong {
     font-weight: 600;
   }
+  a {
+    i:hover {
+      color: #4285F4 !important;
+      transition: color .2s;
+    }
+  }
 }
 
 .subjects-grid {

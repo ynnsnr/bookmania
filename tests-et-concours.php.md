@@ -23,7 +23,7 @@ title: Préparation aux tests et concours
         <div class="col-12 col-md-6 col-xl-3 d-flex justify-content-center mb-5" data-aos="fade-up">
           <div class="card">
             <div class="view overlay">
-              <a href="#">
+              <a href="{{site.baseurl}}/mission-francaise.php">
                 <img class="card-img-top" src="assets/images/maternelle1.jpg">
                 <div class="mask"></div>
               </a>
@@ -36,7 +36,7 @@ title: Préparation aux tests et concours
               <p class="card-text">
                 Nous préparons vos enfants dans les meilleures conditions au test d'admission à la Mission française et écoles homologuées.
               </p>
-              <a class="btn btn-outline-primary waves-effect waves-light">
+              <a href="{{site.baseurl}}/mission-francaise.php" class="btn btn-outline-primary">
                 <strong>Lire la suite</strong>
               </a>
             </div>
@@ -46,7 +46,7 @@ title: Préparation aux tests et concours
         <div class="col-12 col-md-6 col-xl-3 d-flex justify-content-center mb-5" data-aos="fade-up">
           <div class="card">
             <div class="view overlay">
-              <a href="#">
+              <a href="{{site.baseurl}}/bac-français.php">
                 <img class="card-img-top" src="assets/images/baccalaureat.jpg">
                 <div class="mask"></div>
               </a>
@@ -60,7 +60,7 @@ title: Préparation aux tests et concours
               <p class="card-text">
                 Pour les élèves non scolarisés, nous proposons un programme spécifique pour préparer le Baccalauréat type Mission en candidat libre.
               </p>
-              <a class="btn btn-outline-primary waves-effect waves-light">
+              <a href="{{site.baseurl}}/bac-français.php" class="btn btn-outline-primary">
                 <strong>Lire la suite</strong>
               </a>
             </div>
@@ -82,7 +82,7 @@ title: Préparation aux tests et concours
               <p class="card-text">
                 Nous organisons des sessions intensives de préparation du SAT (Scholastic Assessment Test), exigé par de nombreuses universités américaines.
               </p>
-              <a class="btn btn-outline-primary waves-effect waves-light">
+              <a class="btn btn-outline-primary">
                 <strong>Lire la suite</strong>
               </a>
             </div>
@@ -104,7 +104,7 @@ title: Préparation aux tests et concours
               <p class="card-text">
                 Le DAEU est un diplôme équivalent au Baccalauréat Français permettant d’offrir une deuxième chance aux jeunes ayant été déscolarisés.
               </p>
-              <a class="btn btn-outline-primary waves-effect waves-light">
+              <a class="btn btn-outline-primary">
                 <strong>Lire la suite</strong>
               </a>
             </div>
@@ -116,4 +116,3 @@ title: Préparation aux tests et concours
   </section>
 
 </main>
-

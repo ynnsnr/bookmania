@@ -47,8 +47,8 @@
     }
     opacity: 0;
     transform: translateY(45px);
-    transition: opacity 0.3s, transform 0.3s;
-    transition-delay: 0s;
+    transition: opacity .5s, transform 0.3s;
+    transition-delay: -.5s;
   }
   .card:hover .card__description {
     opacity: 1;
