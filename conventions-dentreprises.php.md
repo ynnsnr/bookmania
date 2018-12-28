@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mot du fondateur
+title: Conventions d'entreprises & Formations spécifiques
 ---
 <main id="qui-sommes-nous">
 

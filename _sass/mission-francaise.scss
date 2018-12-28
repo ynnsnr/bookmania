@@ -1,0 +1,58 @@
+#mission {
+  h3 {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .card-body {
+    padding: 0;
+  }
+  .card__thumb {
+    height: 326px;
+    overflow: hidden;
+    transition: height 0.5s;
+    img {
+      transform-origin: top;
+      width: 100%;
+      transform: scale(1.44);
+      transition: opacity 0.5s, transform 0.5s;
+    }
+  }
+  .card:hover .card__thumb {
+    height: 0px;
+    img {
+      opacity: 0.6;
+      transform: scale(1.2);
+    }
+  }
+  .card__body {
+    height: 80px;
+    padding: 13px 11px;
+    transition: height 0.5s;
+  }
+  .card:hover .card__body {
+    height: 406px;
+    h3 {
+      display: none;
+    }
+  }
+  .card__description {
+    font-size: 14px;
+    @media (max-width: 320px) {
+      font-size: 13px;
+    }
+    @media (min-width: 992px) and (max-width: 1200px) {
+      font-size: 13px;
+    }
+    opacity: 0;
+    transform: translateY(45px);
+    transition: opacity 0.3s, transform 0.3s;
+    transition-delay: 0s;
+  }
+  .card:hover .card__description {
+    opacity: 1;
+    transform: translateY(0px);
+    transition-delay: 0.2s;
+  }
+}

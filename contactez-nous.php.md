@@ -16,7 +16,7 @@ title: Contact
             <p class="dark-grey-text">
               Laissez votre numéro, nous vous rappelons dans les plus brefs délais.
             </p>
-            <form action="https://formspree.io/yooo76@gmail.com" method="POST">
+            <form action="https://formspree.io/contact@bookmania.ma" method="POST">
               <div class="md-form">
                 <i class="fas fa-user prefix grey-text"></i>
                 <input type="text" id="form-name" name="Nom" class="form-control">

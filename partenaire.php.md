@@ -10,7 +10,7 @@ title: Partenaires Bookmania
       <div class="col-12 col-lg-6 mb-5 d-flex justify-content-center" data-aos="fade-up">
         <div class="card">
           <div class="view">
-            <img src="http://bookmania.ma/wp-content/uploads/2016/02/logoklm.png" alt="kiffelesmaths">
+            <img src="assets/images/logoklm.png" alt="kiffelesmaths">
             <a href="https://kiffelesmaths.com" target="_blank">
               <div class="mask rgba-white-slight"></div>
             </a>
@@ -35,7 +35,7 @@ title: Partenaires Bookmania
       <div class="col-12 col-lg-6 mb-5 d-flex justify-content-center" data-aos="fade-up">
         <div class="card">
           <div class="view">
-            <img src="https://yt3.ggpht.com/a-/AN66SAw-QK1Nf--kagOwetIgvlCR6XUcBopLvizgvw=s900-mo-c-c0xffffffff-rj-k-no" class="card-img-top" height="152" alt="orthodidacte">
+            <img src="assets/images/orthodidacte.jpg" class="card-img-top" height="152" alt="orthodidacte">
             <a href="https://www.orthodidacte.com" target="_blank">
               <div class="mask rgba-white-slight"></div>
             </a>
@@ -81,7 +81,7 @@ title: Partenaires Bookmania
         <div class="col-12 col-lg-6 mb-5 d-flex justify-content-center" data-aos="fade-up">
           <div class="card">
             <div class="view">
-              <img src="https://cdn1.euraxess.org/sites/default/files/news/university_of_oxford1.png" class="card-img-top" alt="oxford" style="height: 128px; object-fit: cover;">
+              <img src="assets/images/university_of_oxford1.png" class="card-img-top" alt="oxford" style="height: 128px; object-fit: cover;">
               <a href="http://www.ox.ac.uk" target="_blank">
                 <div class="mask rgba-white-slight"></div>
               </a>
@@ -97,7 +97,7 @@ title: Partenaires Bookmania
         <div class="col-12 col-lg-6 mb-5 d-flex justify-content-center" data-aos="fade-up">
           <div class="card">
             <div class="view">
-              <img src="https://i.pinimg.com/originals/80/f2/df/80f2df6f4cbd6b1a8acb81e593480df8.jpg" class="" alt="myblee">
+              <img src="assets/images/80f2df6f4cbd6b1a8acb81e593480df8.jpg" class="" alt="myblee">
               <a href="http://www.mybleemath.com/fr/" target="_blank">
                 <div class="mask rgba-white-slight"></div>
               </a>

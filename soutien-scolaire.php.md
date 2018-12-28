@@ -125,11 +125,11 @@ title: Soutien scolaire
     </div>
   </section>
 
-  <section class="container my-4 d-sm-flex justify-content-between align-items-center" data-aos="fade-up">
-    <h4 class="mb-3">
+  <section class="container d-sm-flex justify-content-between align-items-center" data-aos="fade-up">
+    <h4 class="my-4">
       <strong>SOUTIEN SCOLAIRE</strong> : 11 formules, 15 matières
     </h4>
-    <div class="text-center mb-3">
+    <div class="text-center my-4">
       <a href="{{site.baseurl}}/nosoffres.php" class="btn btn-white btn-outline-primary">
         <strong>Découvrez nos offres</strong>
       </a>
