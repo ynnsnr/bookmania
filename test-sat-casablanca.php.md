@@ -64,22 +64,22 @@ title: SAT Casablanca
           Les élèves souhaitant passer le SAT doivent avoir <strong>un bon niveau de compréhension et d'utilisation de la langue anglaise </strong>(Intermediate Level). La difficulté majeure du TEST résidant dans les temps de réponse accordé par question (45 secondes à une minute), l'élève doit avoir développé au préalable des réflexes efficaces. La durée totale du test est de 3 H 45 toutes épreuves confondues.
         </p>
 
-        <h4><strong>Préparation au SAT par BOOKMANIA</strong></h4>
+        <h4><strong>Préparation au SAT par Bookmania</strong></h4>
         <p>
-          Chez BOOKMANIA, nous maîtrisons les différentes techniques et stratégies pour <strong>préparer efficacement ce test</strong>. Notre méthodologie assure à nos élèves d'améliorer leur niveau de départ pour atteindre leur objectif. Ils sont accompagnés par des professeurs hautement qualifiés, chacun dans leur spécialité et bénéficiant de plusieurs années d'expérience dans l'éducation au Maroc, en France et en Amérique du Nord.
+          Chez Bookmania, nous maîtrisons les différentes techniques et stratégies pour <strong>préparer efficacement ce test</strong>. Notre méthodologie assure à nos élèves d'améliorer leur niveau de départ pour atteindre leur objectif. Ils sont accompagnés par des professeurs hautement qualifiés, chacun dans leur spécialité et bénéficiant de plusieurs années d'expérience dans l'éducation au Maroc, en France et en Amérique du Nord.
         </p>
         <p class="pb-3">
-          Chez BOOKMANIA, nous guidons nos étudiants vers <strong>la réussite</strong> en les prenant en charge tout au long du processus : inscription au Test, préparation des différentes épreuves, passage d´un test blanc et passage de l'examen dans un des centres nationaux agréés par le College Board.
+          Chez Bookmania, nous guidons nos étudiants vers <strong>la réussite</strong> en les prenant en charge tout au long du processus : inscription au Test, préparation des différentes épreuves, passage d´un test blanc et passage de l'examen dans un des centres nationaux agréés par le College Board.
         </p>
 
         <h4>
-          <strong>Pourquoi choisir BOOKMANIA pour le SAT ?</strong>
+          <strong>Pourquoi choisir Bookmania pour le SAT ?</strong>
         </h4>
         <p>
           Des sessions de préparation <strong>adaptées à votre niveau</strong> et à vos besoins vous seront proposées par nos spécialistes lors d'un premier entretien.
         </p>
         <p>
-          Chez BOOKMANIA, non seulement nous vous préparons à passer votre examen, mais nous <strong>vous accompagnons</strong> à travers toutes les démarches administratives nécessaires jusqu'à l'obtention de votre score, environ trois semaines après le passage de l'examen.
+          Chez Bookmania, non seulement nous vous préparons à passer votre examen, mais nous <strong>vous accompagnons</strong> à travers toutes les démarches administratives nécessaires jusqu'à l'obtention de votre score, environ trois semaines après le passage de l'examen.
         </p>
 
       </div>
@@ -113,15 +113,15 @@ title: SAT Casablanca
           English fluency (intermediate level) is expected for students taking the test. The allocated time for each question lies between 45 seconds and one minute, which makes lack of time the greatest difficulty of the test. Students should have developed test-taking strategies with the adequate level in English in order to finish this 3h45m test.
         </p>
 
-        <h4><strong>Preparing the SAT at BOOKMANIA</strong></h4>
-        <p class="pb-3">
-          At BOOKMANIA, we have mastered the art of test taking. Our methodology, consisting of different techniques and strategies ensures that students will efficiently improve their level in every section of the SAT. They are accompanied by highly qualified instructors with many years of teaching experience in Morocco and North America.
-        </p>
+        <h4><strong>Preparing the SAT at Bookmania</strong></h4>
         <p>
-          BOOKMANIA and its team of experts in the American Educational System have the tools to assist you during your registration to the SAT, your preparation for the test, until the day of your test in one of the College Board accredited examination centers.
+          At Bookmania, we have mastered the art of test taking. Our methodology, consisting of different techniques and strategies ensures that students will efficiently improve their level in every section of the SAT. They are accompanied by highly qualified instructors with many years of teaching experience in Morocco and North America.
+        </p>
+        <p class="pb-3">
+          Bookmania and its team of experts in the American Educational System have the tools to assist you during your registration to the SAT, your preparation for the test, until the day of your test in one of the College Board accredited examination centers.
         </p>
 
-        <h4><strong>Why BOOKMANIA for the SAT?</strong></h4>
+        <h4><strong>Why Bookmania for the SAT?</strong></h4>
         <p>
           Courses in all three sections are given by professionals of the SAT in order to provide the adequate support that will be adapted to your level. A preparation plan will be designed to meet your needs during an initial appointment.
         </p>

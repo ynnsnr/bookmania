@@ -46,7 +46,7 @@ title: Préparation aux tests et concours
         <div class="col-12 col-md-6 col-xl-3 d-flex justify-content-center mb-5" data-aos="fade-up">
           <div class="card">
             <div class="view overlay">
-              <a href="{{site.baseurl}}/bac-français.php">
+              <a href="">
                 <img class="card-img-top" src="assets/images/baccalaureat.jpg">
                 <div class="mask"></div>
               </a>
@@ -60,7 +60,7 @@ title: Préparation aux tests et concours
               <p class="card-text">
                 Pour les élèves non scolarisés, nous proposons un programme spécifique pour préparer le Baccalauréat type Mission en candidat libre.
               </p>
-              <a href="{{site.baseurl}}/bac-français.php" class="btn btn-outline-primary">
+              <a href="" class="btn btn-outline-primary">
                 <strong>Lire la suite</strong>
               </a>
             </div>
@@ -92,7 +92,7 @@ title: Préparation aux tests et concours
         <div class="col-12 col-md-6 col-xl-3 d-flex justify-content-center mb-5" data-aos="fade-up">
           <div class="card">
             <div class="view overlay">
-              <a href="#">
+              <a href="{{site.baseurl}}/daeu-casablanca.php">
                 <img class="card-img-top" src="assets/images/daeu.jpg">
                 <div class="mask"></div>
               </a>
@@ -104,7 +104,7 @@ title: Préparation aux tests et concours
               <p class="card-text">
                 Le DAEU est un diplôme équivalent au Baccalauréat Français permettant d’offrir une deuxième chance aux jeunes ayant été déscolarisés.
               </p>
-              <a class="btn btn-outline-primary">
+              <a href="{{site.baseurl}}/daeu-casablanca.php" class="btn btn-outline-primary">
                 <strong>Lire la suite</strong>
               </a>
             </div>
