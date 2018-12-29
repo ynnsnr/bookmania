@@ -28,7 +28,6 @@ body {
 
 .fa-check {
   color: #0FC0F5;
-  // color: #00ab6c;
   font-size: 20px;
 }
 
@@ -38,6 +37,20 @@ body {
   }
   a:hover {
     color: #4285F4;
+  }
+}
+
+.banner {
+  height: 51vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);
+  h1 {
+    color: white;
+    font-weight: 400;
+    margin-top: 5%;
   }
 }
 

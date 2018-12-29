@@ -46,7 +46,7 @@ title: Préparation aux tests et concours
         <div class="col-12 col-md-6 col-xl-3 d-flex justify-content-center mb-5" data-aos="fade-up">
           <div class="card">
             <div class="view overlay">
-              <a href="">
+              <a href="{{site.baseurl}}/bac-candidat-libre.php">
                 <img class="card-img-top" src="assets/images/baccalaureat.jpg">
                 <div class="mask"></div>
               </a>
@@ -60,7 +60,7 @@ title: Préparation aux tests et concours
               <p class="card-text">
                 Pour les élèves non scolarisés, nous proposons un programme spécifique pour préparer le Baccalauréat type Mission en candidat libre.
               </p>
-              <a href="" class="btn btn-outline-primary">
+              <a href="{{site.baseurl}}/bac-candidat-libre.php" class="btn btn-outline-primary">
                 <strong>Lire la suite</strong>
               </a>
             </div>

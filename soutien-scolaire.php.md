@@ -4,15 +4,27 @@ title: Soutien scolaire
 ---
 <main id="nos-metiers">
 
-  <section class="container mt-4 mt-sm-5 pt-5 pb-4 pb-sm-5">
-    <div class="mt-4">
+  <div class="d-none d-sm-block">
+    <div class="banner" style="background-position: center; background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('https://images.unsplash.com/photo-1523240795612-9a054b0db644')">
+      <h1>Soutien scolaire</h1>
+    </div>
+  </div>
+
+  <!-- <section class="container mt-4 mt-sm-5 pt-5 pb-4 pb-sm-5"> -->
+  <section class="container mt-5 pb-4 pb-sm-5">
+
+    <div class="d-sm-none mt-4 mt-sm-5 pt-5">
       <h1 class="font-weight-normal">
         <strong>Soutien scolaire</strong>
       </h1>
     </div>
+
+    <h5 class="pb-3">
+      <strong>Accompagnement de bout en bout</strong>
+    </h5>
+
     <div class="row">
       <div class="col-12 col-lg-7 col-xl-8">
-        <h5 class="pb-3 pb-sm-4"><strong>Accompagnement de bout en bout</strong></h5>
         <p class="pr-xl-5 pr-lg-2">
           Prenez <strong>la liberté</strong> de choisir le système d’enseignement qui vous correspond et confiez-nous l’accompagnement de vos enfants en soutien scolaire.
         </p>
@@ -34,6 +46,7 @@ title: Soutien scolaire
         </div>
       </div>
     </div>
+
   </section>
 
   <section class="formulas-titles pt-5 pb-4 blue-grey lighten-5">
@@ -46,77 +59,77 @@ title: Soutien scolaire
       <div class="subjects-grid pt-1 ml-sm-3" data-aos="fade-up">
 
         <div class="d-flex mb-3">
-          <i class="fas fa-check mr-3"></i>
+          <i class="fas fa-check mr-2"></i>
           <h6>Aide aux Mathématiques</h6>
         </div>
 
         <div class="d-flex mb-3">
-          <i class="fas fa-check mr-3"></i>
+          <i class="fas fa-check mr-2"></i>
           <h6>Physique-chimie</h6>
         </div>
 
         <div class="d-flex mb-3">
-          <i class="fas fa-check mr-3"></i>
+          <i class="fas fa-check mr-2"></i>
           <h6>Sciences de la Vie et de la Terre</h6>
         </div>
 
         <div class="d-flex mb-3">
-          <i class="fas fa-check mr-3"></i>
+          <i class="fas fa-check mr-2"></i>
           <h6>Algorithmique</h6>
         </div>
 
         <div class="d-flex mb-3">
-          <i class="fas fa-check mr-3"></i>
+          <i class="fas fa-check mr-2"></i>
           <h6>Français</h6>
         </div>
 
         <div class="d-flex mb-3">
-          <i class="fas fa-check mr-3"></i>
+          <i class="fas fa-check mr-2"></i>
           <h6>Préparation du BAC Français en 1<sup>ère</sup></h6>
         </div>
 
         <div class="d-flex mb-3">
-          <i class="fas fa-check mr-3"></i>
+          <i class="fas fa-check mr-2"></i>
           <h6>Sciences Economiques et Sociales</h6>
         </div>
 
         <div class="d-flex mb-3">
-          <i class="fas fa-check mr-3"></i>
+          <i class="fas fa-check mr-2"></i>
           <h6>Histoire Géographie</h6>
         </div>
 
         <div class="d-flex mb-3">
-          <i class="fas fa-check mr-3"></i>
+          <i class="fas fa-check mr-2"></i>
           <h6>Management</h6>
         </div>
 
         <div class="d-flex mb-3">
-          <i class="fas fa-check mr-3"></i>
+          <i class="fas fa-check mr-2"></i>
           <h6>Marketing</h6>
         </div>
 
         <div class="d-flex mb-3">
-          <i class="fas fa-check mr-3"></i>
+          <i class="fas fa-check mr-2"></i>
           <h6>Gestion</h6>
         </div>
 
         <div class="d-flex mb-3">
-          <i class="fas fa-check mr-3"></i>
+          <i class="fas fa-check mr-2"></i>
           <h6>Droit</h6>
         </div>
 
         <div class="d-flex mb-3">
-          <i class="fas fa-check mr-3"></i>
+          <i class="fas fa-check mr-2"></i>
           <h6>Anglais</h6>
         </div>
 
         <div class="d-flex mb-3">
-          <i class="fas fa-check mr-3"></i>
+          <i class="fas fa-check mr-2"></i>
           <h6>Arabe</h6>
         </div>
 
         <div class="d-flex mb-3">
-          <i class="fas fa-check mr-3"></i>
+          <i class="fas fa-check mr-2"></i>
           <h6>Espagnol</h6>
         </div>
 
@@ -125,8 +138,8 @@ title: Soutien scolaire
     </div>
   </section>
 
-  <section class="container d-sm-flex justify-content-between align-items-center" data-aos="fade-up">
-    <h4 class="my-4">
+  <section class="container d-sm-flex justify-content-between align-items-center">
+    <h4 class="my-4 text-center text-sm-left">
       <strong>SOUTIEN SCOLAIRE</strong> : 11 formules, 15 matières
     </h4>
     <div class="text-center my-4">
