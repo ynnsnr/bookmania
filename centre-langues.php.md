@@ -45,7 +45,7 @@ title: Centre de Langues
         <div class="col-12 col-sm-6 col-xl-4 d-flex justify-content-center mb-5" data-aos="fade-up">
           <div class="card">
             <div class="view overlay">
-              <a href="#">
+              <a href="{{site.baseurl}}/apprendre-darija-casablanca.php">
                 <h2 class="text-center">
                   <strong class="text-white">Apprendre<br>la darija</strong>
                 </h2>
@@ -53,7 +53,7 @@ title: Centre de Langues
               </a>
             </div>
             <div class="card-body text-center">
-              <a class="btn btn-outline-primary waves-effect waves-light">
+              <a href="{{site.baseurl}}/apprendre-darija-casablanca.php" class="btn btn-outline-primary waves-effect waves-light">
                 <strong>En savoir plus</strong>
               </a>
             </div>
@@ -63,7 +63,7 @@ title: Centre de Langues
         <div class="col-12 col-sm-6 col-xl-4 d-flex justify-content-center mb-5" data-aos="fade-up">
           <div class="card">
             <div class="view overlay">
-              <a href="#">
+              <a href="{{site.baseurl}}/apprendre-francais-casablanca.php">
                 <h2 class="text-center">
                   <strong class="text-white">Apprendre<br>le français</strong>
                 </h2>
@@ -71,7 +71,7 @@ title: Centre de Langues
               </a>
             </div>
             <div class="card-body text-center">
-              <a class="btn btn-outline-primary waves-effect waves-light">
+              <a href="{{site.baseurl}}/apprendre-francais-casablanca.php" class="btn btn-outline-primary waves-effect waves-light">
                 <strong>En savoir plus</strong>
               </a>
             </div>
@@ -81,7 +81,7 @@ title: Centre de Langues
         <div class="col-12 col-sm-6 col-xl-4 d-flex justify-content-center mb-5" data-aos="fade-up">
           <div class="card">
             <div class="view overlay">
-              <a href="#">
+              <a href="{{site.baseurl}}/apprendre-anglais-casablanca.php">
                 <h2 class="text-center">
                   <strong class="text-white">Apprendre<br>l'anglais</strong>
                 </h2>
@@ -89,7 +89,7 @@ title: Centre de Langues
               </a>
             </div>
             <div class="card-body text-center">
-              <a class="btn btn-outline-primary waves-effect waves-light">
+              <a href="{{site.baseurl}}/apprendre-anglais-casablanca.php" class="btn btn-outline-primary waves-effect waves-light">
                 <strong>En savoir plus</strong>
               </a>
             </div>
@@ -99,7 +99,7 @@ title: Centre de Langues
         <div class="col-12 col-sm-6 col-xl-4 d-flex justify-content-center mb-5" data-aos="fade-up">
           <div class="card">
             <div class="view overlay">
-              <a href="#">
+              <a href="{{site.baseurl}}/apprendre-espagnol-casablanca.php">
                 <h2 class="text-center">
                   <strong class="text-white">Apprendre<br>l'espagnol</strong>
                 </h2>
@@ -107,7 +107,7 @@ title: Centre de Langues
               </a>
             </div>
             <div class="card-body text-center">
-              <a class="btn btn-outline-primary waves-effect waves-light">
+              <a href="{{site.baseurl}}/apprendre-espagnol-casablanca.php" class="btn btn-outline-primary waves-effect waves-light">
                 <strong>En savoir plus</strong>
               </a>
             </div>
@@ -117,7 +117,7 @@ title: Centre de Langues
         <div class="col-12 col-sm-6 col-xl-4 d-flex justify-content-center mb-5" data-aos="fade-up">
           <div class="card">
             <div class="view overlay">
-              <a href="#">
+              <a href="{{site.baseurl}}/apprendre-japonais-casablanca.php">
                 <h2 class="text-center">
                   <strong class="text-white">Apprendre<br>la japonais</strong>
                 </h2>
@@ -125,7 +125,7 @@ title: Centre de Langues
               </a>
             </div>
             <div class="card-body text-center">
-              <a class="btn btn-outline-primary waves-effect waves-light">
+              <a href="{{site.baseurl}}/apprendre-japonais-casablanca.php" class="btn btn-outline-primary waves-effect waves-light">
                 <strong>En savoir plus</strong>
               </a>
             </div>

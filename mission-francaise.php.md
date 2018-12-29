@@ -130,21 +130,7 @@ title: Préparation Test Mission Française
 
   </section>
 
-  <section class="blue-grey lighten-5 py-4">
-    <div class="container d-md-flex justify-content-between align-items-center text-center text-md-left">
-      <div class="py-1">
-        <h4>
-          <strong>Pour toute autre information</strong>
-        </h4>
-        <h6>N’hésitez pas à nous contacter !</h6>
-      </div>
-      <div class="text-center py-1">
-        <a href="{{site.baseurl}}/contactez-nous.php" class="btn btn-white btn-outline-primary">
-          <strong>Contactez-nous</strong>
-        </a>
-      </div>
-    </div>
-  </section>
+  {% include contactez-nous.html %}
 
 </main>
 

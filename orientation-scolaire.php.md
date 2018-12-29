@@ -66,7 +66,7 @@ title: Orientation Scolaire Casablanca
   </section>
 
   <section class="pt-4 pt-sm-5 pb-4 blue-grey lighten-5">
-    <div class="container">
+    <div class="container" data-aos="fade-up">
       <h4 class="font-weight-normal mb-3">
         <strong>L’offre Bookmania d’orientation post-bac</strong>
       </h4>
@@ -100,7 +100,7 @@ title: Orientation Scolaire Casablanca
     </div>
   </section>
 
-  <section class="container mb-5 mt-4 mt-sm-5" data-aos="fade-up">
+  <section class="container mb-5 mt-4 mt-sm-5">
     <h4 class="font-weight-normal">
       <strong>
         Comment souscrire à notre offre d’orientation scolaire ?
