@@ -5,7 +5,7 @@ title: Soutien scolaire
 <main id="nos-metiers">
 
   <div class="d-none d-sm-block">
-    <div class="banner" style="background-position: center; background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('https://images.unsplash.com/photo-1523240795612-9a054b0db644')">
+    <div class="banner" style="background-position: center; background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('assets/images/photo-1523240795612-9a054b0db644.jpeg')">
       <h1>Soutien scolaire</h1>
     </div>
   </div>

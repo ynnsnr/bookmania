@@ -5,7 +5,7 @@ title: Apprendre le Darija à Casablanca
 <main id="nos-metiers">
 
   <div class="d-none d-sm-block">
-    <div class="banner" style="background-position: top; background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('https://images.unsplash.com/photo-1536228284637-8cfc83a655b3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80')">
+    <div class="banner" style="background-position: top; background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('assets/images/photo-1536228284637-8cfc83a655b3.jpeg')">
       <h1>Apprendre la darija</h1>
     </div>
   </div>

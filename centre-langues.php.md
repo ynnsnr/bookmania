@@ -49,7 +49,7 @@ title: Centre de Langues
                 <h2 class="text-center">
                   <strong class="text-white">Apprendre<br>la darija</strong>
                 </h2>
-                <img class="card-img-top" src="assets/images/photo-1536228284637-8cfc83a655b3.jpeg">
+                <img class="card-img-top" src="assets/images/photo-1536228284637-8cfc83a655b3-small.jpeg">
               </a>
             </div>
             <div class="card-body text-center">
@@ -121,7 +121,7 @@ title: Centre de Langues
                 <h2 class="text-center">
                   <strong class="text-white">Apprendre<br>la japonais</strong>
                 </h2>
-                <img class="card-img-top" src="assets/images/photo-1535924206889-040a0b50a723.jpeg">
+                <img class="card-img-top" src="assets/images/photo-1535924206889-040a0b50a723-small.jpeg">
               </a>
             </div>
             <div class="card-body text-center">

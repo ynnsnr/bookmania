@@ -5,7 +5,7 @@ title: Apprendre le japonais à Casablanca
 <main id="nos-metiers">
 
   <div class="d-none d-sm-block">
-    <div class="banner" style="background-position: top; background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('https://images.unsplash.com/photo-1535924206889-040a0b50a723?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1440&q=80')">
+    <div class="banner" style="background-position: top; background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('assets/images/photo-1535924206889-040a0b50a723.jpeg')">
       <h1>Apprendre le Japonais</h1>
     </div>
   </div>

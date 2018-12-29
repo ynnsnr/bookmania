@@ -5,7 +5,7 @@ title: Apprendre le français à Casablanca
 <main id="nos-metiers">
 
   <div class="d-none d-sm-block">
-    <div class="banner" style="background-position: top; background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('https://images.unsplash.com/photo-1504515303068-d953c9b6eacf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80')">
+    <div class="banner" style="background-position: top; background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('assets/images/photo-1504515303068-d953c9b6eacf.jpeg')">
       <h1>Apprendre le Français</h1>
     </div>
   </div>
