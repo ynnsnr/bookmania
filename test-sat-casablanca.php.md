@@ -31,13 +31,13 @@ title: SAT Casablanca
         <p class="pb-3">
           Le SAT, le Scholastic Assessment Test est un test créé, administré et géré par le <strong>College Board</strong> aux Etats-Unis <a href="https://www.collegeboard.org" target="_blank">www.collegeboard.org</a>. De nombreuses universités américaines et autres universités internationales exigent le passage de ce test dans leur <strong>processus d'admission</strong>. Il sert à évaluer de manière précise <strong>les connaissances en anglais en mathématiques.</strong>
         </p>
+        <h4><strong>Quand puis-je passer le SAT ?</strong></h4>
+        <p class="pb-3">
+          Le SAT peut être passé <strong>plusieurs fois par an</strong>. Les dates limites d'inscription sont d'environ de deux mois avant la date d'épreuve.
+        </p>
 
         <div class="row">
           <div class="col-12 col-lg-7">
-            <h4><strong>Quand puis-je passer le SAT ?</strong></h4>
-            <p class="pb-3">
-              Le SAT peut être passé <strong>plusieurs fois par an</strong>. Les dates limites d'inscription sont d'environ de deux mois avant la date d'épreuve.
-            </p>
             <h4>
               <strong>
                 Quelles sont les différentes épreuves du SAT ?
@@ -46,18 +46,17 @@ title: SAT Casablanca
             <p class="pb-3">
               Le SAT est un test sous forme de <strong>questions à choix multiples</strong> et se compose de 3 divs : <strong>Expression Ecrite</strong> (Writing), <strong>Analyse de Textes</strong> (Critical reading), et <strong>Mathématiques</strong> (Mathematical reasoning) avec un score allant de 200 à 800 points par div, soit un score total de 600 à 2 400 points.
             </p>
+            <h4>
+              <strong>Pourquoi le SAT est-il important ?</strong>
+            </h4>
+            <p class="pb-3">
+              A titre d'exemple, en 2013, la plupart des étudiants ayant intégré la prestigieuse université américaine Harvard ont eu un score <strong>moyen de 710 points par épreuve</strong>, soit une moyenne totale de 2 130 points. Les étudiants ayant intégré l'université américaine de Los Angeles UCLA (The University of California, Los Angeles) ont eu une moyenne avoisinant 590 points par épreuve, soit un total de 1 770 points.
+            </p>
           </div>
           <div class="d-none d-lg-block col-lg-5">
             <img src="assets/images/sat.jpg" alt="SAT" class="w-100" style="box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);">
           </div>
         </div>
-
-        <h4>
-          <strong>Pourquoi le SAT est-il important ?</strong>
-        </h4>
-        <p class="pb-3">
-          A titre d'exemple, en 2013, la plupart des étudiants ayant intégré la prestigieuse université américaine Harvard ont eu un score <strong>moyen de 710 points par épreuve</strong>, soit une moyenne totale de 2 130 points. Les étudiants ayant intégré l'université américaine de Los Angeles UCLA (The University of California, Los Angeles) ont eu une moyenne avoisinant 590 points par épreuve, soit un total de 1 770 points.
-        </p>
 
         <h4><strong>Prérequis et difficultés du SAT</strong></h4>
         <p class="pb-3">

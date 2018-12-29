@@ -5,16 +5,16 @@ title: Recrutement Bookmania
 <main id="qui-sommes-nous">
 
   <section class="container mt-4 mt-sm-5 pt-5 pb-4 pb-sm-5">
-    <div class="mt-4">
+<!--     <div class="mt-4">
       <h1 class="font-weight-normal">
         <strong>Recrutement</strong>
       </h1>
-    </div>
-    <div class="row">
+    </div> -->
+    <div class="row mt-5">
       <div class="col-12 col-lg-7 col-xl-8">
-        <h5 class="pb-3 pb-sm-4">
+        <h4 class="pb-3 pb-sm-4">
           <strong>Rejoignez notre équipe pédagogique</strong>
-        </h5>
+        </h4>
         <p class="pr-xl-5 pr-lg-2">
           Grâce à la confiance des élèves et de leurs parents, Bookmania ne cesse de lancer de <strong>nouveaux projets</strong> et de <strong>grandir</strong> pour répondre à une demande croissante. Nous recherchons continuellement <strong>des talents</strong> pour venir participer avec nous à l’aventure Bookmania et partager nos valeurs avec nos élèves.
         </p>

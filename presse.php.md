@@ -4,13 +4,8 @@ title: Presse Bookmania
 ---
 <main id="presse">
 
-  <section class="container mt-4 pt-4 pt-sm-5 pb-3 pb-sm-4">
-
-    <div class="mt-4 mb-5">
-
-    </div>
-
-    <div class="row text-center">
+  <section class="container mt-5 pt-4 pt-sm-5 pb-3 pb-sm-4">
+    <div class="row mt-5 text-center">
 
       <div class="col-12 col-lg-6 mb-4 mb-sm-5">
         <div class="text-center mb-4">
@@ -85,7 +80,6 @@ title: Presse Bookmania
       </div>
 
     </div>
-
   </section>
 
 </main>

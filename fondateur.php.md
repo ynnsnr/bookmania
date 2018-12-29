@@ -5,12 +5,12 @@ title: Mot du fondateur
 <main id="qui-sommes-nous">
 
   <section class="container mt-4 mt-sm-5 pt-5 pb-2">
-    <div class="mt-4">
+<!--     <div class="mt-4">
       <h1 class="font-weight-normal">
         <strong>Mot du fondateur</strong>
       </h1>
-    </div>
-    <div class="row">
+    </div> -->
+    <div class="row mt-3 mt-sm-4">
       <div class="col-12 d-md-none text-center mt-4 mb-3">
         <img src="assets/images/ismail.jpg" class="w-100" alt="Ismail Boukili" style="max-width: 350px;">
         <h5 class="mt-3">
@@ -18,9 +18,9 @@ title: Mot du fondateur
         </h5>
       </div>
       <div class="col-12 col-md-7 col-xl-8 mb-4">
-        <h5 class="pb-4 d-none d-md-block">
-          A chacun <strong>son rythme</strong>
-        </h5>
+        <h1 class="pb-2 d-none d-md-block font-weight-normal">
+          <strong>A chacun son rythme</strong>
+        </h1>
         <p class="pr-xl-5 pr-lg-2">
           Combien de fois ai-je entendu des parents d'élèves ou des professeurs qualifier tel élève de <strong>«cas désespéré»</strong>. Au nom de quel autorité nous arrogeons-nous le droit de condamner un élève à vie, car c'est bien de cela qu'il s'agit quand on utilise le vocable de «cas désespéré» ?
         </p>
