@@ -70,7 +70,7 @@ title: Préparation aux tests et concours
         <div class="col-12 col-md-6 col-xl-3 d-flex justify-content-center mb-5" data-aos="fade-up">
           <div class="card">
             <div class="view overlay">
-              <a href="#">
+              <a href="{{site.baseurl}}/test-sat-casablanca.php">
                 <img class="card-img-top" src="assets/images/sat.jpg">
                 <div class="mask"></div>
               </a>
@@ -82,7 +82,7 @@ title: Préparation aux tests et concours
               <p class="card-text">
                 Nous organisons des sessions intensives de préparation du SAT (Scholastic Assessment Test), exigé par de nombreuses universités américaines.
               </p>
-              <a class="btn btn-outline-primary">
+              <a href="{{site.baseurl}}/test-sat-casablanca.php" class="btn btn-outline-primary">
                 <strong>Lire la suite</strong>
               </a>
             </div>
