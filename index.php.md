@@ -65,7 +65,7 @@ title: Soutien scolaire à Casablanca
         <div class="card mt-2 mb-2" data-aos="fade-up">
           <!-- Card image -->
           <div class="view view-cascade overlay">
-            <img class="card-img-top" src="assets/images/photo-1492538368677-f6e0afe31dcc.jpg" alt="Card image cap">
+            <img class="card-img-top" src="assets/images/photo-1492538368677-f6e0afe31dcc.jpeg" alt="Card image cap">
             <a href="{{site.baseurl}}/tests-et-concours.php">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>
@@ -92,7 +92,7 @@ title: Soutien scolaire à Casablanca
         <div class="card mt-2 mb-2" data-aos="fade-up">
           <!-- Card image -->
           <div class="view view-cascade overlay">
-            <img class="card-img-top" src="assets/images/photo-1529154631088-a0e516571c60.jpg" alt="Card image cap">
+            <img class="card-img-top" src="assets/images/photo-1529154631088-a0e516571c60.jpeg" alt="Card image cap">
             <a href="{{site.baseurl}}/centre-langues.php">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>
@@ -182,7 +182,7 @@ title: Soutien scolaire à Casablanca
     </div>
   </section>
 
-  <section class="reviews blue-grey lighten-5 text-center pt-5 pb-4" style="background-image: linear-gradient(-225deg, rgba(0,101,168,0.6), rgba(0,0,0,0.8), rgba(0,101,168,0.6)), url('assets/images/photo-1498079022511-d15614cb1c02.jpg');">
+  <section class="reviews blue-grey lighten-5 text-center pt-5 pb-4" style="background-image: linear-gradient(-225deg, rgba(0,101,168,0.6), rgba(0,0,0,0.8), rgba(0,101,168,0.6)), url('assets/images/photo-1498079022511-d15614cb1c02.jpeg');">
     <div class="text-white" data-aos="zoom-in">
       <h2 class="mb-4">DES PARENTS ET DES ELEVES <strong>SATISFAITS</strong></h2>
       <!--Carousel Wrapper-->

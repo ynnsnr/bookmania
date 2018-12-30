@@ -21,7 +21,7 @@ title: Les offres Bookmania
         </p>
       </div>
       <div class="d-none d-lg-block d-xl-block col-12 col-lg-5" data-aos="fade-left" data-aos-duration="1000">
-        <div class="description-image" style="background-image: url('assets/images/photo-1516979187457-637abb4f9353.jpg');">
+        <div class="description-image" style="background-image: url('assets/images/photo-1516979187457-637abb4f9353.jpeg');">
         </div>
       </div>
     </div>

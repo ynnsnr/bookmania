@@ -49,7 +49,7 @@ title: Recrutement Bookmania
         <div class="col-11 col-sm-12 col-md-11 col-lg-10 col-xl-9">
           <div class="card mw-100">
             <div class="card-body">
-              <form action="https://getsimpleform.com/messages?form_api_token=8d2486979bc848a65af1fefa8c9d755b" method="post" enctype="multipart/form-data">
+              <form action="https://getsimpleform.com/messages?form_api_token=eff3b371c95580b08168c54aead95f28" method="post" enctype="multipart/form-data">
                 <div class="md-form">
                   <i class="fas fa-user prefix grey-text"></i>
                   <input type="text" id="form-name" name="name" class="form-control">
