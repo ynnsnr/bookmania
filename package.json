@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "expose-loader": "^0.7.5",
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "mdbootstrap": "^4.6.0",
+    "owl.carousel": "^2.3.4",
+    "popper.js": "^1.14.6"
+  }
+}
