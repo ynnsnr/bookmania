@@ -100,7 +100,7 @@ title: Orientation Scolaire Casablanca
     </div>
   </section>
 
-  <section class="container mb-5 mt-4 mt-sm-5">
+  <section class="container mb-5 mt-4 mt-sm-5" data-aos="fade-in">
     <h4 class="font-weight-normal">
       <strong>
         Comment souscrire à notre offre d’orientation scolaire ?

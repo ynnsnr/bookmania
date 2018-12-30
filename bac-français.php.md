@@ -78,7 +78,7 @@ title: Bac Français
   </section>
 
   <section class="blue-grey lighten-5 pt-4 pt-sm-5 pb-4 pb-sm-5">
-    <div class="container" data-aos="fade-up">
+    <div class="container" data-aos="fade-in">
       <h3><strong>Evaluation des élèves</strong></h3>
       <p>
         <strong>Une évaluation périodique individuelle</strong> sera réalisée en fonction des interventions en cours et des travaux remis et communiqués aux éleves.

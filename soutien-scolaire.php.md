@@ -138,7 +138,7 @@ title: Soutien scolaire
     </div>
   </section>
 
-  <section class="container d-sm-flex justify-content-between align-items-center">
+  <section class="container d-sm-flex justify-content-between align-items-center" data-aos="fade-in">
     <h4 class="my-4 text-center text-sm-left">
       <strong>SOUTIEN SCOLAIRE</strong> : 11 formules, 15 matières
     </h4>

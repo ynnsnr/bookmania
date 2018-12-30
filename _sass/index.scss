@@ -1,9 +1,11 @@
-.view, body, html {
+.view {
   height: 100%;
-  #content {
-    background-attachment: fixed;
-    background-size: cover;
-  }
+}
+
+#banner {
+  height: 100vh;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .card {

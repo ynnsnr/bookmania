@@ -3,17 +3,17 @@ layout: default
 title: Soutien scolaire à Casablanca
 ---
 <!-- Banner -->
-<div class="view" id="content" style="background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('assets/images/photo-1477238134895-98438ad85c30.jpeg');">
+<div class="view" id="banner" style="background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('assets/images/photo-1477238134895-98438ad85c30.jpeg');">
 
   <!-- Mask & flexbox options-->
   <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
 
     <!-- Banner Content -->
-    <div class="text-center white-text mx-5 wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+    <div class="text-center white-text mx-5">
       <h2 class="mb-4">
         <strong>Numéro 1 de l'accompagnement scolaire à Casablanca</strong>
       </h2>
-      <a href="#main" class="btn btn-outline-white btn-lg waves-effect waves-light smooth">
+      <a href="#main" class="btn btn-outline-white btn-lg smooth">
         Consultez nos services
       </a>
     </div>
@@ -27,7 +27,7 @@ title: Soutien scolaire à Casablanca
 <!-- Content -->
 <main id="main">
   <!--Section: Main info-->
-  <section class="container pt-5 pb-5 wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+  <section class="container pt-5 pb-5">
 
     <!--Grid row-->
     <div class="row">
@@ -122,7 +122,7 @@ title: Soutien scolaire à Casablanca
   </section>
 
   <section class="py-5 primary-color">
-    <div class="container offers" data-aos="fade-up">
+    <div class="container offers" data-aos="fade-in">
       <div>
         <h5>
           <strong>SOUTIEN SCOLAIRE : 11 formules, 15 matières.</strong>

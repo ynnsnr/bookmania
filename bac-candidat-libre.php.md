@@ -4,7 +4,7 @@ title: BAC en candidat libre
 ---
 <main id="nos-metiers" class="bac-candidat-libre" >
 
-  <div class="d-none d-sm-block">
+  <div class="d-none d-sm-block animated fadeIn">
     <div class="banner" style="background-position: top;background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('assets/images/054cef5_11869-1cfsgnp.jpg')">
       <h1>BAC en candidat libre</h1>
     </div>

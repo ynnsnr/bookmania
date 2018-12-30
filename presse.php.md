@@ -11,7 +11,7 @@ title: Presse Bookmania
         <div class="text-center mb-4">
           <img src="assets/images/Logo-Famille.png" alt="Famille Actuelle">
         </div>
-        <ul class="list-unstyled pt-2" data-aos="fade-up">
+        <ul class="list-unstyled pt-2">
           <li class="mb-4">
             <a href="{{site.baseurl}}/assets/pdf/Avril-17.pdf" target="_blank">
               <strong>Avril 2017</strong>
@@ -57,7 +57,7 @@ title: Presse Bookmania
             <img src="assets/images/campus-mag.png" alt="Campus Mag" style="box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);">
           </div>
         </div>
-        <ul class="list-unstyled pt-2" data-aos="fade-up">
+        <ul class="list-unstyled pt-2">
           <li>
             <strong>Mars 2017</strong>
             <p>

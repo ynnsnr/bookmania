@@ -2,7 +2,7 @@
 layout: default
 title: Préparation aux tests et concours
 ---
-<main id="nos-metiers" class="tests-et-concours">
+<main id="nos-metiers" class="tests-et-concours animated fadeIn">
 
   <section class="container mt-4 mt-sm-5 pt-5 pb-4 pb-sm-5">
     <div class="mt-4">
