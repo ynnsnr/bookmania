@@ -49,7 +49,7 @@ title: Recrutement Bookmania
         <div class="col-11 col-sm-12 col-md-11 col-lg-10 col-xl-9">
           <div class="card mw-100">
             <div class="card-body">
-              <form action="https://getsimpleform.com/messages?form_api_token=eff3b371c95580b08168c54aead95f28" method="post" enctype="multipart/form-data">
+              <form action="#" class="ajax-form">
                 <div class="md-form">
                   <i class="fas fa-user prefix grey-text"></i>
                   <input type="text" id="form-name" name="name" class="form-control">
@@ -76,7 +76,7 @@ title: Recrutement Bookmania
                   <label for="file" id="upload" style="cursor: pointer;">Ajouter un document</label>
                 </div>
                 <div class="text-center">
-                  <button type="submit" class="btn btn-light-blue">
+                  <button type="submit" class="btn btn-light-blue submit">
                     Envoyer votre candidature
                   </button>
                 </div>
@@ -89,4 +89,3 @@ title: Recrutement Bookmania
   </section>
 
 </main>
-

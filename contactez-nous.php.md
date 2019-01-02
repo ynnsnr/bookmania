@@ -17,6 +17,7 @@ title: Contact
               Laissez votre numéro, nous vous rappelons dans les plus brefs délais.
             </p>
             <form action="https://formspree.io/contact@bookmania.ma" method="POST">
+              <input type="hidden" name="_cc" value="Mamoun.elhonsali@bookmania.ma,Fatimazahra.birzyne@bookmania.ma">
               <div class="md-form">
                 <i class="fas fa-user prefix grey-text"></i>
                 <input type="text" id="form-name" name="Nom" class="form-control">
