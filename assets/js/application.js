@@ -121,7 +121,7 @@ $(".ajax-form").submit(function(e) {
   //     contentType: false
   // });
   // $.ajax( {
-  //     url: "https://getsimpleform.com/messages?form_api_token=0b478ef5902d6b35a87bc3f4170efce1",
+  //     url: "https://getsimpleform.com/messages?form_api_token=266b2c7c3c3d33976c95ace11ff79606",
   //     type: 'POST',
   //     data: new FormData(this),
   //     processData: false,
