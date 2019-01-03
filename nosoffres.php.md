@@ -399,7 +399,7 @@ title: Les offres Bookmania
       <div id="formula12" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="assets/images/photo-1535552081922-631f7dea1e9d.jpeg">
+            <img src="assets/images/arabic.jpg">
           </header>
           <div class="card-body">
             <div class="card__body">
