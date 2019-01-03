@@ -76,11 +76,18 @@ h6 {
  }
 }
 
+@media (min-width: 478px)  {
+  .rwd-break-478 {
+    display: none;
+  }
+}
+
 @media (max-width: 768px)  {
   .rwd-break-768-992 {
     display: none;
   }
 }
+
 @media (min-width: 992px)  {
   .rwd-break-768-992 {
     display: none;

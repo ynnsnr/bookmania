@@ -38,7 +38,7 @@ title: Soutien scolaire
           Notre <strong>méthodologie proactive</strong> s’adapte à <strong>tous les types d’enseignement </strong>(Mission française AEFE-OSUI-Ecoles homologuées, Ecole marocaine bilingue, Ecole américaine, Ecole espagnole, Ecole belge…)
         </p>
         <p class="pr-xl-5 pr-lg-2">
-          Nos formules s’adapteront ainsi aux exigences spécifiques de nos élèves en fonction de leurs besoins et des différents systèmes scolaires au sein desquels ils évoluent.
+          Nos formules s’adaptent aux exigences spécifiques de nos élèves en fonction de leurs besoins et des différents systèmes scolaires au sein desquels ils évoluent.
         </p>
       </div>
       <div class="d-none d-lg-block d-xl-block col-12 col-lg-5 col-xl-4" data-aos="fade-left" data-aos-duration="1000">

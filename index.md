@@ -125,7 +125,10 @@ title: Soutien scolaire à Casablanca
     <div class="container offers" data-aos="fade-in">
       <div>
         <h5>
-          <strong>SOUTIEN SCOLAIRE : 11 formules, 15 matières.</strong>
+          <strong>
+            SOUTIEN SCOLAIRE :
+            <br class="rwd-break-478">11 formules, 15 matières
+          </strong>
         </h5>
         <span>Mettons en place la formule qui vous conviendra !</span>
       </div>
@@ -143,7 +146,7 @@ title: Soutien scolaire à Casablanca
       <!-- <hr width="200px" class="mb-5"> -->
       <div class="row">
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="#" style="color: #4688F1;">
+          <a href="{{site.baseurl}}/nosoffres.php" style="color: #4688F1;">
             <div class="processus pt-2">
               <i class="fas fa-th fa-4x mb-4"></i>
               <p class="text-muted">Consultez nos services</p>
@@ -151,7 +154,7 @@ title: Soutien scolaire à Casablanca
           </a>
         </div>
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="#" style="color: #E62465;">
+          <a href="{{site.baseurl}}/contactez-nous.php" style="color: #E62465;">
             <div class="processus pt-2">
               <i class="fas fa-desktop fa-4x mb-4"></i>
               <p class="text-muted">Faites une demande</p>
@@ -159,7 +162,7 @@ title: Soutien scolaire à Casablanca
           </a>
         </div>
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="#" style="color: #00ab6c;">
+          <a href="{{site.baseurl}}/contactez-nous.php" style="color: #00ab6c;">
             <div class="processus pt-2">
               <i class="fas fa-phone fa-4x mb-4"></i>
               <p class="text-muted">Recevez notre appel (24h)</p>
@@ -167,7 +170,7 @@ title: Soutien scolaire à Casablanca
           </a>
         </div>
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="#" style="color: #4054B2;">
+          <a href="{{site.baseurl}}/contactez-nous.php" style="color: #4054B2;">
             <div class="processus pt-2">
               <i class="far fa-calendar fa-4x mb-4"></i>
               <p class="text-muted">Obtenez votre séance</p>
