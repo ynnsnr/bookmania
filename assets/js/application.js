@@ -158,3 +158,15 @@ $(".ajax-form").submit(function(e) {
     )
   }, 100);
 });
+
+
+$(".validation").validate({
+  rules: {
+    email: {
+      required: true,
+      email: true,
+    },
+  },
+  errorPlacement: function(error, element) {
+  },
+});

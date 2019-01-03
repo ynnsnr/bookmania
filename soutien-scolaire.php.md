@@ -60,7 +60,7 @@ title: Soutien scolaire
 
         <div class="d-flex mb-3">
           <i class="fas fa-check mr-2"></i>
-          <h6>Aide aux Mathématiques</h6>
+          <h6>Mathématiques</h6>
         </div>
 
         <div class="d-flex mb-3">

@@ -16,8 +16,10 @@ title: Contact
             <p class="dark-grey-text">
               Laissez votre numéro, nous vous rappelons dans les plus brefs délais.
             </p>
-            <form action="https://formspree.io/contact@bookmania.ma" method="POST">
+            <form action="https://formspree.io/contact@bookmania.ma" method="POST" class="validation">
               <input type="hidden" name="_cc" value="Mamoun.elhonsali@bookmania.ma,Fatimazahra.birzyne@bookmania.ma">
+              <input type="hidden" name="_language" value="fr" />
+              <input type="hidden" name="_next" value="{{site.baseurl}}/merci.php"/>
               <div class="md-form">
                 <i class="fas fa-user prefix grey-text"></i>
                 <input type="text" id="form-name" name="Nom" class="form-control">
