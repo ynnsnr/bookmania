@@ -11,7 +11,7 @@ title: Les offres Bookmania
     <div class="row">
       <div class="col-12 col-lg-7">
         <p>
-          Forte de son <strong>expérience de 10 ans</strong> dans le soutien et l’accompagnement scolaire, Bookmania a mis en place <strong>une offre complète</strong> de formules dans différentes matières pour <strong>le primaire, le collège, le lycée et le post-BAC.</strong>
+          Forte de son <strong>expérience de 12 ans</strong> dans le soutien et l’accompagnement scolaire, Bookmania a mis en place <strong>une offre complète</strong> de formules dans différentes matières pour <strong>le primaire, le collège, le lycée et le post-BAC.</strong>
         </p>
         <p>
           Que ce soit des cours particuliers, des cours en petits groupes, de l’aide aux devoirs ou une prise en charge totale, nous savons répondre aux <strong>demandes spécifiques</strong> de chaque parent et de chaque élève et mettons en place les moyens nécessaires pour <strong>atteindre des objectifs précis</strong> définis ensemble lors du premier entretien.
@@ -116,7 +116,7 @@ title: Les offres Bookmania
       <div id="formula1" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="assets/images/photo-1529390079861-591de354faf5.jpeg">
+            <img src="assets/images/On31-Reading.jpg">
           </header>
           <div class="card-body">
             <div class="card__body">

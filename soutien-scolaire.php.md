@@ -140,7 +140,8 @@ title: Soutien scolaire
 
   <section class="container d-sm-flex justify-content-between align-items-center" data-aos="fade-in">
     <h4 class="my-4 text-center text-sm-left">
-      <strong>SOUTIEN SCOLAIRE</strong> : 11 formules, 15 matières
+      <strong>SOUTIEN SCOLAIRE</strong> :
+      <br class="rwd-break-1200">11 formules, 15 matières
     </h4>
     <div class="text-center my-4">
       <a href="{{site.baseurl}}/nosoffres.php" class="btn btn-white btn-outline-primary">
