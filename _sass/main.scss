@@ -75,3 +75,20 @@ h6 {
     font-size: .98rem;
  }
 }
+
+@media (max-width: 768px)  {
+  .rwd-break-768-992 {
+    display: none;
+  }
+}
+@media (min-width: 992px)  {
+  .rwd-break-768-992 {
+    display: none;
+  }
+}
+
+@media (min-width: 1200px) {
+  .rwd-break-1200 {
+    display: none;
+  }
+}
