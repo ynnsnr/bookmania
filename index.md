@@ -3,19 +3,19 @@ layout: default
 title: Soutien scolaire à Casablanca
 ---
 <!-- Banner -->
-<div class="view" id="banner" style="background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('assets/images/photo-1477238134895-98438ad85c30.jpeg');">
+<div class="view" id="banner" style="background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('assets/images/photo-1523050854058-8df90110c9f1.jpeg');">
 
   <!-- Mask & flexbox options-->
   <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
 
     <!-- Banner Content -->
-    <div class="text-center white-text mx-5">
+    <div class="text-center white-text mx-5 pt-5">
       <h2 class="mb-4">
         <strong>Numéro 1 de l'accompagnement scolaire à Casablanca</strong>
       </h2>
-      <a href="#main" class="btn btn-outline-white btn-lg smooth">
+<!--       <a href="#main" class="btn btn-outline-white btn-lg smooth">
         Consultez nos services
-      </a>
+      </a> -->
     </div>
 
     <a href="#main" class="scroll-down my-3 smooth"></a>

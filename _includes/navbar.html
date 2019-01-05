@@ -13,45 +13,58 @@
 
       <ul class="navbar-nav mr-auto">
 
-      <li class="nav-item menu">
-        <a class="nav-link" href="{{site.baseurl}}/">Accueil
-          <span class="sr-only">(current)</span>
-        </a>
-      </li>
+        <!-- <li class="nav-item menu">
+          <a class="nav-link" href="{{site.baseurl}}/">Accueil
+            <span class="sr-only">(current)</span>
+          </a>
+        </li> -->
 
-      <li class="nav-item menu dropdown">
-        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Nos métiers</a>
-        <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="{{site.baseurl}}/soutien-scolaire.php">Soutien scolaire</a>
-          <a class="dropdown-item" href="{{site.baseurl}}/tests-et-concours.php">Tests et Concours</a>
-          <a class="dropdown-item" href="{{site.baseurl}}/orientation-scolaire.php">Orientation Post-Bac</a>
-          <a class="dropdown-item" href="{{site.baseurl}}/coaching-scolaire-casablanca.php">Coaching scolaire</a>
-          <a class="dropdown-item" href="{{site.baseurl}}/centre-langues.php">Centre de langues</a>
-        </div>
-      </li>
+        <li class="nav-item menu dropdown">
+          <a class="nav-link" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Nos métiers</a>
+          <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item" href="{{site.baseurl}}/soutien-scolaire.php">Soutien scolaire</a>
+            <a class="dropdown-item" href="{{site.baseurl}}/tests-et-concours.php">Tests et Concours</a>
+            <a class="dropdown-item" href="{{site.baseurl}}/orientation-scolaire.php">Orientation Post-Bac</a>
+            <a class="dropdown-item" href="{{site.baseurl}}/coaching-scolaire-casablanca.php">Coaching scolaire</a>
+            <a class="dropdown-item" href="{{site.baseurl}}/centre-langues.php">Centre de langues</a>
+          </div>
+        </li>
 
-      <li class="nav-item menu">
-        <a class="nav-link" href="{{site.baseurl}}/nosoffres.php">Nos offres
-          <span class="sr-only">(current)</span>
-        </a>
-      </li>
+        <li class="nav-item menu">
+          <a class="nav-link" href="{{site.baseurl}}/nosoffres.php">Nos offres
+            <span class="sr-only">(current)</span>
+          </a>
+        </li>
 
-      <li class="nav-item menu dropdown">
-        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
-          aria-expanded="false">Qui sommes-nous</a>
-        <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="{{site.baseurl}}/fondateur.php">Le mot du fondateur</a>
-          <a class="dropdown-item" href="{{site.baseurl}}/qui-sommes-nous.php">Nous connaître</a>
-          <a class="dropdown-item" href="{{site.baseurl}}/temoignage.php">Témoignages</a>
-          <a class="dropdown-item" href="{{site.baseurl}}/recrutement.php">Recrutement</a>
-          <a class="dropdown-item" href="{{site.baseurl}}/presse.php">Presse</a>
-        </div>
-      </li>
+        <li class="nav-item menu dropdown">
+          <a class="nav-link" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
+            aria-expanded="false">Qui sommes-nous</a>
+          <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item" href="{{site.baseurl}}/fondateur.php">Le mot du fondateur</a>
+            <a class="dropdown-item" href="{{site.baseurl}}/qui-sommes-nous.php">Nous connaître</a>
+            <a class="dropdown-item" href="{{site.baseurl}}/temoignage.php">Témoignages</a>
+            <a class="dropdown-item" href="{{site.baseurl}}/recrutement.php">Recrutement</a>
+            <a class="dropdown-item" href="{{site.baseurl}}/presse.php">Presse</a>
+          </div>
+        </li>
 
-    </ul>
+      </ul>
 
       <!-- Right -->
-      <ul class="navbar-nav nav-flex-icons">
+      <div class="d-flex tels align-items-center ml-2 mr-4">
+        <i class="fas fa-phone-square fa-2x mr-2 text-info"></i>
+        <a href="tel:+2120606060101">
+          <span style="font-weight: 500;">0522225062</span>
+        </a>
+      </div>
+      <div class="d-flex tels align-items-center ml-2">
+        <i class="fab fa-whatsapp-square fa-2x mr-2 text-info"></i>
+        <a href="tel:+2120606060101">
+          <span style="font-weight: 500;">0606060101</span>
+        </a>
+      </div>
+
+      <ul class="navbar-nav nav-flex-icons d-lg-none">
         <li class="nav-item">
           <a target="_blank" class="nav-link waves-effect waves-light" href="https://www.facebook.com/BookMania-Soutien-scolaire-469609243146229">
             <i class="fab fa-facebook"></i>
