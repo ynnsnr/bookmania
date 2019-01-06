@@ -262,9 +262,3 @@ title: Soutien scolaire à Casablanca
   </div>
 
 </main>
-
-<script>
-  document.querySelector('.close').addEventListener('click', () => {
-    document.querySelector('.cta').innerHTML = '';
-  })
-</script>

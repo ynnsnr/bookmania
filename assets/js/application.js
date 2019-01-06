@@ -4,6 +4,7 @@ import 'mdbootstrap';
 import 'owl.carousel';
 import 'jquery-validation';
 import Swal from 'sweetalert2';
+import 'popper.js';
 
 
 $(document).ready(function() {
@@ -170,3 +171,15 @@ $(".validation").validate({
   errorPlacement: function(error, element) {
   },
 });
+
+
+if (document.querySelector('.close')) {
+  document.querySelector('.close').addEventListener('click', () => {
+      document.querySelector('.cta').innerHTML = '';
+    })
+}
+
+
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
