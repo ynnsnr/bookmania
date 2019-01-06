@@ -4,10 +4,13 @@
 
 #banner {
   height: 77vh;
-  // background-attachment: fixed;
   background-position: center;
   background-size: cover;
   box-shadow: 0 6px 20px 0 rgba(0,0,0,.19);
+  h2 {
+    text-transform: uppercase;
+    font-weight: 500;
+  }
 }
 
 .card {

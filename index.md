@@ -11,7 +11,7 @@ title: Soutien scolaire à Casablanca
     <!-- Banner Content -->
     <div class="text-center white-text mx-5 pt-5">
       <h2 class="mb-4">
-        <strong style="text-transform: uppercase; font-weight: 500;">Numéro 1 de l'accompagnement scolaire à Casablanca</strong>
+        Numéro 1 de l'accompagnement scolaire à Casablanca
       </h2>
 <!--       <a href="#main" class="btn btn-outline-white btn-lg smooth">
         Consultez nos services
@@ -30,7 +30,7 @@ title: Soutien scolaire à Casablanca
     <!-- <h2>Appelez-nous</h2> -->
     <!-- <p>Applez-nous</p> -->
     <button>
-      <a href="tel:+2120606060101" class="text-white">
+      <a href="https://wa.me/+2120606060101" class="text-white">
         <i class="fab fa-whatsapp"></i>
         Whatsapp: <strong>0606060101</strong>
       </a>
@@ -41,7 +41,7 @@ title: Soutien scolaire à Casablanca
         <span style="font-weight: 500;">0522225062</span>
       </a>
       <i class="fab fa-whatsapp-square fa-2x mr-2 ml-5 text-info"></i>
-      <a href="tel:+2120606060101">
+      <a href="https://wa.me/+2120606060101">
         <span style="font-weight: 500;">0606060101</span>
       </a>
     </div> -->

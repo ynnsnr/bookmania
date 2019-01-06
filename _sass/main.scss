@@ -59,6 +59,12 @@ h1 {
  }
 }
 
+h2 {
+  @media (max-width: 478px) {
+    font-size: 1.8rem;
+ }
+}
+
 h3 {
   @media (max-width: 478px) {
     font-size: 1.7rem;

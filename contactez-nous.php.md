@@ -80,7 +80,7 @@ title: Contact
             </p>
             <p>
               Whatsapp:<br>
-              <a href="tel:+2120606060101">
+              <a href="https://wa.me/+2120606060101">
                 (+212) 06 06 06 01 01
               </a>
             </p>
