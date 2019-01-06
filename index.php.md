@@ -25,26 +25,14 @@ title: Soutien scolaire à Casablanca
 </div>
 
 <div class="cta d-lg-none d-flex justify-content-center">
-  <div class="wrapper">
-    <div class="close">X</div>
-    <!-- <h2>Appelez-nous</h2> -->
-    <!-- <p>Applez-nous</p> -->
+  <div class="wrapper" data-aos="fade-up">
+    <div class="close"><i class="fas fa-times-circle"></i></div>
     <button>
-      <a href="https://wa.me/+2120606060101" class="text-white">
+      <a target="_blank" href="https://wa.me/+2120606060101" class="text-white">
         <i class="fab fa-whatsapp"></i>
-        Whatsapp: <strong>0606060101</strong>
+        WHATSAPP
       </a>
     </button>
-<!--     <div class="d-flex align-items-center">
-      <i class="fas fa-phone-square fa-2x mr-2 text-info"></i>
-      <a href="tel:+2120606060101">
-        <span style="font-weight: 500;">0522225062</span>
-      </a>
-      <i class="fab fa-whatsapp-square fa-2x mr-2 ml-5 text-info"></i>
-      <a href="https://wa.me/+2120606060101">
-        <span style="font-weight: 500;">0606060101</span>
-      </a>
-    </div> -->
   </div>
 </div>
 
