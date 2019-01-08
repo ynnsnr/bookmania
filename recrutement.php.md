@@ -73,7 +73,7 @@ title: Recrutement Bookmania
                 <div class="md-form pb-5">
                   <i class="fas fa-file prefix grey-text"></i>
                   <input type="file" id="file" name="file" style="display:none">
-                  <label for="file" id="upload" style="cursor: pointer;">Ajouter un document</label>
+                  <label for="file" id="upload" style="cursor: pointer;">Ajoutez votre CV</label>
                 </div>
                 <div class="text-center">
                   <button type="submit" class="btn btn-light-blue submit">
